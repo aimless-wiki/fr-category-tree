@@ -1,0 +1,1 @@
+{"name": "Bateau_de_service", "id": 294423, "predecessors": [{"name": "Eau", "id": 189766}], "successors": [{"name": "Remorqueur", "id": 294422}, {"name": "Bateau_à_vocation_scientifique", "id": 372451}, {"name": "Canot_de_sauvetage", "id": 9647545}, {"name": "Type_de_bateau_de_services", "id": 12977437}]}

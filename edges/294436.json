@@ -1,0 +1,1 @@
+{"name": "Bateau_à_passagers", "id": 294436, "predecessors": [{"name": "Transport_en_commun", "id": 89315}, {"name": "Eau", "id": 189766}], "successors": [{"name": "Ferry", "id": 294496}, {"name": "Bateau_de_croisière", "id": 363368}, {"name": "Paquebot", "id": 4840574}]}

@@ -1,0 +1,1 @@
+{"name": "Information_génétique", "id": 416322, "predecessors": [{"name": "Biochimie", "id": 93886}, {"name": "Biologie_cellulaire", "id": 93871}, {"name": "Génétique", "id": 82073}], "successors": [{"name": "Gène", "id": 350996}, {"name": "Facteur_de_transcription", "id": 1830154}, {"name": "Expression_génétique", "id": 3916654}]}

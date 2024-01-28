@@ -1,0 +1,1 @@
+{"name": "Jardinage", "id": 84919, "predecessors": [{"name": "Horticulture", "id": 105492}, {"name": "Loisir_de_plein_air", "id": 2067843}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Plante_potagère", "id": 101065}, {"name": "Outil_de_jardinage", "id": 295272}, {"name": "Jardinier", "id": 2009234}, {"name": "Plante_à_fleurs_en_pot", "id": 10559726}]}

@@ -1,0 +1,1 @@
+{"name": "Banque_centrale", "id": 468582, "predecessors": [{"name": "Banque", "id": 2451155}, {"name": "Finance_de_marché", "id": 129972}, {"name": "Politique_monétaire", "id": 477875}, {"name": "Système_bancaire", "id": 2182029}], "successors": [{"name": "Dirigeant_de_banque_centrale", "id": 3175180}]}

@@ -1,0 +1,1 @@
+{"name": "Gaz", "id": 129186, "predecessors": [{"name": "Chimie_générale", "id": 456442}, {"name": "Ingénierie", "id": 84694}, {"name": "Mécanique_des_fluides", "id": 96654}], "successors": [{"name": "Gaz_à_effet_de_serre", "id": 950614}, {"name": "Arme_chimique", "id": 156205}, {"name": "Tube_électronique", "id": 182527}]}

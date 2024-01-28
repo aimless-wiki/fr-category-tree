@@ -1,0 +1,1 @@
+{"name": "Salle_de_concert_classique", "id": 3144962, "predecessors": [{"name": "Concert", "id": 387174}, {"name": "Musique_par_genre", "id": 2914843}], "successors": [{"name": "Salle_d'opéra_en_Italie", "id": 6742412}, {"name": "Élève_du_conservatoire_à_rayonnement_régional_de_Strasbourg", "id": 6625992}]}

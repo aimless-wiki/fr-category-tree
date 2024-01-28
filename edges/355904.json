@@ -1,0 +1,1 @@
+{"name": "Sécurité_aérienne", "id": 355904, "predecessors": [{"name": "Sécurité_des_transports", "id": 180013}, {"name": "Logistique", "id": 441337}], "successors": [{"name": "Bureau_d'enquête_sur_les_accidents_aériens", "id": 2711614}, {"name": "Détournement_d'avion", "id": 7255642}, {"name": "Accident_ou_incident_aérien", "id": 7330890}]}

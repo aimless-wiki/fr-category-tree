@@ -1,0 +1,1 @@
+{"name": "Taux_d'intérêt", "id": 344671, "predecessors": [{"name": "Analyse_financière", "id": 122256}, {"name": "Macroéconomie", "id": 134564}, {"name": "Système_bancaire", "id": 2182029}, {"name": "Méthode_d'analyse", "id": 1080402}], "successors": [{"name": "Politique_monétaire", "id": 477875}, {"name": "Crédit", "id": 1093064}, {"name": "Inflation", "id": 1097097}]}

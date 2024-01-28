@@ -1,0 +1,1 @@
+{"name": "Environnement_graphique", "id": 151348, "predecessors": [{"name": "Interface_utilisateur", "id": 82562}, {"name": "Logiciel", "id": 82489}], "successors": [{"name": "Widget", "id": 911630}]}

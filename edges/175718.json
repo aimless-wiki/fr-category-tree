@@ -1,0 +1,1 @@
+{"name": "Microprocesseur", "id": 175718, "predecessors": [{"name": "Processeur", "id": 2483569}, {"name": "Calendrier", "id": 114194}], "successors": [{"name": "Architecture_ARM", "id": 2476696}, {"name": "Architecture_Power", "id": 2477070}, {"name": "Microprocesseur_x86_Intel", "id": 3357447}, {"name": "Processeur_graphique", "id": 4117612}]}

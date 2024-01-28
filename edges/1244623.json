@@ -1,0 +1,1 @@
+{"name": "Jeu_en_ligne", "id": 1244623, "predecessors": [{"name": "Application_d'Internet", "id": 2752309}, {"name": "Jeu_vidéo", "id": 85212}], "successors": [{"name": "Jeu_en_ligne_massivement_multijoueur", "id": 974752}, {"name": "Jeu_par_navigateur", "id": 2778944}]}

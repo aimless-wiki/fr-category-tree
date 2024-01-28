@@ -1,0 +1,1 @@
+{"name": "Élevage_et_conservation_du_vin", "id": 9742592, "predecessors": [{"name": "Sommelier", "id": 3174880}, {"name": "Boisson_fermentée", "id": 1068898}, {"name": "Agriculture", "id": 81359}], "successors": [{"name": "Biochimie_de_la_vinification", "id": 9742529}, {"name": "Vin_mousseux", "id": 1159081}]}

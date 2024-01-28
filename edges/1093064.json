@@ -1,0 +1,1 @@
+{"name": "Crédit", "id": 1093064, "predecessors": [{"name": "Système_bancaire", "id": 2182029}, {"name": "Taux_d'intérêt", "id": 344671}], "successors": [{"name": "Microfinance", "id": 1151543}]}

@@ -1,0 +1,1 @@
+{"name": "Urgence_médicale", "id": 381539, "predecessors": [{"name": "Maladie", "id": 87795}], "successors": [{"name": "Médecine_d'urgence", "id": 347403}, {"name": "Intoxication", "id": 2231911}, {"name": "Mort_d'un_accident_vasculaire_cérébral", "id": 7272420}]}

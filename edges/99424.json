@@ -1,0 +1,1 @@
+{"name": "Pédiatrie", "id": 99424, "predecessors": [{"name": "Enfance", "id": 99315}, {"name": "Famille", "id": 84961}, {"name": "Médecine", "id": 82499}], "successors": [{"name": "Médecine_fœtale", "id": 226383}, {"name": "Malformation", "id": 275559}, {"name": "Maladie_en_pédiatrie", "id": 1449006}]}

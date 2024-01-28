@@ -1,0 +1,1 @@
+{"name": "Pêche", "id": 157415, "predecessors": [{"name": "Biologie_marine", "id": 2872474}, {"name": "Académie", "id": 221421}, {"name": "Travail", "id": 99727}], "successors": [{"name": "Pêche_sportive", "id": 510632}, {"name": "Équipement_de_pêche", "id": 3658979}, {"name": "Chasse_à_la_baleine", "id": 4856894}]}

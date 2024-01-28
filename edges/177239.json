@@ -1,0 +1,1 @@
+{"name": "Mécanique_classique", "id": 177239, "predecessors": [{"name": "Mécanique", "id": 82496}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Mécanique_des_milieux_continus", "id": 96660}, {"name": "Mécanique_céleste", "id": 116793}]}

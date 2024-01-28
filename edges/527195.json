@@ -1,0 +1,1 @@
+{"name": "Mécanique_ondulatoire", "id": 527195, "predecessors": [{"name": "Mécanique", "id": 82496}, {"name": "Concept_en_physique", "id": 6763455}], "successors": [{"name": "Acoustique", "id": 142340}, {"name": "Optique_ondulatoire", "id": 824493}, {"name": "Fréquence", "id": 15927206}, {"name": "Antenne", "id": 107762}, {"name": "Radiofréquence", "id": 160673}]}

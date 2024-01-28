@@ -1,0 +1,1 @@
+{"name": "Vidéo", "id": 127132, "predecessors": [{"name": "Accueil", "id": 1155637}], "successors": [{"name": "Vidéo_analogique", "id": 127121}, {"name": "Vidéo_numérique", "id": 127128}, {"name": "Logiciel_vidéo", "id": 587094}, {"name": "Film_sorti_directement_en_vidéo", "id": 1085756}]}

@@ -1,0 +1,1 @@
+{"name": "Réfrigération", "id": 854533, "predecessors": [{"name": "Génie_énergétique", "id": 1189417}, {"name": "Ingénierie", "id": 84694}, {"name": "Transfert_thermique", "id": 2755250}], "successors": [{"name": "Réfrigérant", "id": 950588}]}

@@ -1,0 +1,1 @@
+{"name": "Neurologie", "id": 99377, "predecessors": [{"name": "Neurosciences", "id": 4141992}, {"name": "Médecine", "id": 82499}], "successors": [{"name": "Sémiologie_neurologique", "id": 1063284}, {"name": "Analgésique", "id": 270098}, {"name": "Trouble_du_sommeil", "id": 306504}, {"name": "Maladie_de_l'encéphale", "id": 1175251}]}

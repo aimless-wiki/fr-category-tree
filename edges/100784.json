@@ -1,0 +1,1 @@
+{"name": "Plante_oléagineuse", "id": 100784, "predecessors": [{"name": "Huile_végétale", "id": 3988205}, {"name": "Plante_alimentaire", "id": 97917}, {"name": "Agriculture", "id": 81359}], "successors": [{"name": "Noix_et_graine_oléagineuse", "id": 3162521}]}

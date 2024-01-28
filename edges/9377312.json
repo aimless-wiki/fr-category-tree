@@ -1,0 +1,1 @@
+{"name": "Cheval_de_sport", "id": 9377312, "predecessors": [{"name": "Cheval_de_selle", "id": 3708970}, {"name": "Sport_équestre", "id": 898202}, {"name": "Élevage_équin", "id": 2680493}], "successors": [{"name": "Cheval_de_saut_d'obstacles", "id": 1040549}, {"name": "Cheval_de_sport_équestre_français", "id": 4325198}, {"name": "Cheval_enregistré_Selle_français", "id": 3937900}]}

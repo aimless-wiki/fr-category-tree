@@ -1,0 +1,1 @@
+{"name": "Marché_financier", "id": 1097502, "predecessors": [{"name": "Finance_de_marché", "id": 129972}], "successors": [{"name": "Forex", "id": 353576}, {"name": "Marché_d'actions", "id": 1368364}, {"name": "Marché_obligataire", "id": 4612822}]}

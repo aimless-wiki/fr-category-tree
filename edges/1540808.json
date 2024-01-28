@@ -1,0 +1,1 @@
+{"name": "Maladie_infectieuse_tropicale", "id": 1540808, "predecessors": [{"name": "Maladie_infectieuse", "id": 99359}, {"name": "Maladie", "id": 87795}], "successors": [{"name": "Tuberculose", "id": 409453}, {"name": "Mort_de_la_peste", "id": 5556236}, {"name": "Mort_de_la_fièvre_jaune", "id": 7785159}]}

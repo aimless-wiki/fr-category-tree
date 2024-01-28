@@ -1,0 +1,1 @@
+{"name": "Bombardement", "id": 251655, "predecessors": [{"name": "Guerre", "id": 82473}, {"name": "Histoire_militaire", "id": 82511}, {"name": "Santé", "id": 84921}], "successors": [{"name": "Bombardement_aérien", "id": 7754493}]}

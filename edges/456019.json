@@ -1,0 +1,1 @@
+{"name": "Voiture_de_course", "id": 456019, "predecessors": [{"name": "Automobile", "id": 83581}], "successors": [{"name": "Modèle_de_Formule_1", "id": 455998}, {"name": "Voiture_de_rallye", "id": 1326192}, {"name": "Voiture_de_sport", "id": 4281291}, {"name": "Sport-prototype_d'endurance", "id": 4704116}, {"name": "Constructeur_de_voitures_de_course", "id": 7597413}]}

@@ -1,0 +1,1 @@
+{"name": "Assainissement", "id": 977204, "predecessors": [{"name": "Gestion_de_l'eau", "id": 3189774}, {"name": "Gestion_des_déchets", "id": 889763}, {"name": "Hygiène", "id": 99656}, {"name": "Urbanisme", "id": 84967}], "successors": [{"name": "Entreprise_d'assainissement_ayant_son_siège_en_France", "id": 1535282}, {"name": "Toilettes", "id": 718823}]}

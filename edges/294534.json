@@ -1,0 +1,1 @@
+{"name": "Pétrolier", "id": 294534, "predecessors": [{"name": "Industrie_pétrolière", "id": 1117594}, {"name": "Navire_de_commerce", "id": 421058}, {"name": "Eau", "id": 189766}, {"name": "Grandeur_physique", "id": 1129304}], "successors": [{"name": "Navire_ravitailleur", "id": 7460711}]}

@@ -1,0 +1,1 @@
+{"name": "Film_sorti_directement_en_vidéo", "id": 1085756, "predecessors": [{"name": "Vidéo", "id": 127132}, {"name": "Folklore", "id": 132363}], "successors": [{"name": "Film_de_Netflix", "id": 10264385}, {"name": "Film_distribué_sur_Disney+", "id": 12214902}, {"name": "Film_d'animation_sorti_directement_en_vidéo", "id": 12530806}]}

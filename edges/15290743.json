@@ -1,0 +1,1 @@
+{"name": "Cas_de_maladie_de_Parkinson", "id": 15290743, "predecessors": [{"name": "Cas_médical", "id": 4684737}, {"name": "Maladie_neurodégénérative", "id": 838993}], "successors": [{"name": "Mort_de_la_maladie_de_Parkinson", "id": 6140378}]}

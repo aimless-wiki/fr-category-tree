@@ -1,0 +1,1 @@
+{"name": "Technologie_automobile", "id": 188306, "predecessors": [{"name": "Automobile", "id": 83581}, {"name": "Camion", "id": 204958}, {"name": "Technologie_du_transport", "id": 211210}], "successors": [{"name": "Tuning", "id": 589359}, {"name": "Sécurité_automobile", "id": 1293774}, {"name": "Équipement_automobile", "id": 5842884}]}

@@ -1,0 +1,1 @@
+{"name": "Sport_nautique", "id": 613134, "predecessors": [{"name": "Loisir_de_plein_air", "id": 2067843}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Bateau_de_compétition", "id": 112591}, {"name": "Surf", "id": 509605}, {"name": "Pêche_sportive", "id": 510632}, {"name": "Surfeur_australien", "id": 1064440}]}

@@ -1,0 +1,1 @@
+{"name": "Psychiatrie", "id": 99323, "predecessors": [{"name": "Champ_connexe_à_la_psychologie", "id": 1687568}, {"name": "Médecine", "id": 82499}, {"name": "Santé", "id": 84921}], "successors": [{"name": "Histoire_de_la_psychiatrie", "id": 892509}, {"name": "Personnalité_de_la_psychanalyse", "id": 514342}, {"name": "Traitement_des_addictions", "id": 1400035}]}

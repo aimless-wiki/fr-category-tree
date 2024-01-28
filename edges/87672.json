@@ -1,0 +1,1 @@
+{"name": "Rituel", "id": 87672, "predecessors": [{"name": "Culte_et_liturgie", "id": 376090}], "successors": [{"name": "Mariage", "id": 607611}, {"name": "Rite_funéraire", "id": 639877}, {"name": "Rituel_hindouiste", "id": 2771425}, {"name": "Loi_ou_rituel_du_judaïsme", "id": 5021430}, {"name": "Procession_catholique", "id": 6123460}, {"name": "Danse_rituelle", "id": 14466867}]}

@@ -1,0 +1,1 @@
+{"name": "Maladie_cardiovasculaire", "id": 600762, "predecessors": [{"name": "Maladie", "id": 87795}, {"name": "Médecine", "id": 82499}], "successors": [{"name": "Mort_d'une_rupture_d'anévrisme", "id": 8605542}, {"name": "Mort_d'une_insuffisance_cardiaque", "id": 12560627}]}

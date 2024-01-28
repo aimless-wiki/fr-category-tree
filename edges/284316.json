@@ -1,0 +1,1 @@
+{"name": "Viande", "id": 284316, "predecessors": [{"name": "Agriculture", "id": 81359}, {"name": "Alimentation_humaine", "id": 3930512}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Charcuterie", "id": 144712}, {"name": "Spécialité_à_base_de_viande", "id": 1923640}]}

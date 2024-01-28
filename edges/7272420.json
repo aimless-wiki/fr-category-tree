@@ -1,0 +1,1 @@
+{"name": "Mort_d'un_accident_vasculaire_cérébral", "id": 7272420, "predecessors": [{"name": "Mort_d'une_maladie_neurologique", "id": 7081822}, {"name": "Urgence_médicale", "id": 381539}], "successors": [{"name": "Mort_d'une_hémorragie_cérébrale", "id": 5133058}]}

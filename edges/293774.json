@@ -1,0 +1,1 @@
+{"name": "Maladie_congénitale", "id": 293774, "predecessors": [{"name": "Maladie_en_pédiatrie", "id": 1449006}, {"name": "Maladie", "id": 87795}, {"name": "Précarité", "id": 615868}], "successors": [{"name": "Maladie_génétique_congénitale", "id": 264163}, {"name": "Malformation", "id": 275559}]}

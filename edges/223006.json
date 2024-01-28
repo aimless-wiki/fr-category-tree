@@ -1,0 +1,1 @@
+{"name": "Sommeil", "id": 223006, "predecessors": [{"name": "Physiologie", "id": 99442}, {"name": "Temps", "id": 113433}], "successors": [{"name": "Trouble_du_sommeil", "id": 306504}, {"name": "Rêve", "id": 796727}, {"name": "Hypnotique", "id": 1619145}, {"name": "Rythme_circadien", "id": 5028068}, {"name": "Sommeil_dans_la_peinture", "id": 8612980}]}

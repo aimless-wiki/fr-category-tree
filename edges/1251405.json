@@ -1,0 +1,1 @@
+{"name": "Logiciel_graphique", "id": 1251405, "predecessors": [{"name": "Graphisme", "id": 479807}, {"name": "Imagerie_numérique", "id": 126776}, {"name": "Logiciel", "id": 82489}], "successors": [{"name": "Logiciel_de_modélisation_3D", "id": 88451}, {"name": "Logiciel_de_DAO", "id": 589027}, {"name": "Logiciel_de_photographie", "id": 1251399}]}

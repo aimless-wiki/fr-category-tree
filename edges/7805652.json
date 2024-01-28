@@ -1,0 +1,1 @@
+{"name": "Snack", "id": 7805652, "predecessors": [{"name": "Préparation_culinaire", "id": 3257048}], "successors": [{"name": "Cuisine_de_rue", "id": 6695316}, {"name": "Saucisson", "id": 14137928}]}

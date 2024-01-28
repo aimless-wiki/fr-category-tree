@@ -1,0 +1,1 @@
+{"name": "Smartphone", "id": 1561251, "predecessors": [{"name": "Assistant_personnel", "id": 129644}, {"name": "Téléphonie_mobile", "id": 157336}, {"name": "Matériel_informatique", "id": 126616}], "successors": [{"name": "Appareil_sous_Android", "id": 4209624}]}

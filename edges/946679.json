@@ -1,0 +1,1 @@
+{"name": "Contrôleur_de_jeu", "id": 946679, "predecessors": [{"name": "Interface_utilisateur", "id": 82562}, {"name": "Jeu_vidéo", "id": 85212}, {"name": "Périphérique_(informatique)", "id": 96501}], "successors": [{"name": "Jeu_de_tir_au_pistolet", "id": 2799034}]}

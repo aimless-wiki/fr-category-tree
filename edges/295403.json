@@ -1,0 +1,1 @@
+{"name": "Recherche_médicale", "id": 295403, "predecessors": [{"name": "Médecine", "id": 82499}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Radiobiologie", "id": 1079654}, {"name": "Chercheuse_en_médecine", "id": 6393194}, {"name": "Professionnel_de_l'autisme", "id": 10482330}, {"name": "Vaccin_contre_la_Covid-19", "id": 13843078}]}

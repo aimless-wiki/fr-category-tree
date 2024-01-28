@@ -1,0 +1,1 @@
+{"name": "Plante_succulente", "id": 463157, "predecessors": [{"name": "Plante_ornementale", "id": 214729}, {"name": "Climat", "id": 331977}], "successors": [{"name": "Aizoaceae", "id": 760936}, {"name": "Agave", "id": 5318373}]}

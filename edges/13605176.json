@@ -1,0 +1,1 @@
+{"name": "Composant_d'automobile", "id": 13605176, "predecessors": [{"name": "Construction_mécanique", "id": 805482}], "successors": [{"name": "Équipementier_automobile", "id": 922137}, {"name": "Moteur_à_explosion", "id": 1007078}, {"name": "Accumulateur", "id": 1078157}, {"name": "Fabricant_de_pneumatiques", "id": 730191}]}

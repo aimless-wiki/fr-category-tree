@@ -1,0 +1,1 @@
+{"name": "Matériel_de_manutention", "id": 610752, "predecessors": [{"name": "Logistique", "id": 441337}, {"name": "Outil", "id": 104861}], "successors": [{"name": "Matelotage", "id": 104946}, {"name": "Cordage", "id": 8312387}, {"name": "Nœud_marin", "id": 10716544}]}

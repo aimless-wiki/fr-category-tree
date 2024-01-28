@@ -1,0 +1,1 @@
+{"name": "Traitement_médical", "id": 270086, "predecessors": [{"name": "Médecine", "id": 82499}], "successors": [{"name": "Pharmacologie", "id": 131891}, {"name": "Radiobiologie", "id": 1079654}, {"name": "Alcaloïde", "id": 101484}, {"name": "Antinéoplasique", "id": 4707486}, {"name": "Inhibiteur_de_tyrosine_kinase", "id": 4711021}, {"name": "Psychothérapie", "id": 94708}]}

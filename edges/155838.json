@@ -1,0 +1,1 @@
+{"name": "Téléphonie", "id": 155838, "predecessors": [{"name": "Télécommunications", "id": 84099}, {"name": "Industrie", "id": 84693}], "successors": [{"name": "Téléphonie_mobile", "id": 157336}, {"name": "Codec_audio", "id": 940826}, {"name": "Numéro_de_téléphone", "id": 1599401}]}

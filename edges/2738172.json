@@ -1,0 +1,1 @@
+{"name": "Phénomène_météorologique", "id": 2738172, "predecessors": [{"name": "Climatologie", "id": 425598}, {"name": "Académie", "id": 221421}], "successors": [{"name": "Nuage", "id": 326280}, {"name": "Vent", "id": 449411}, {"name": "Précipitations", "id": 829324}, {"name": "Circulation_atmosphérique", "id": 1479066}, {"name": "Phénomène_atmosphérique_optique", "id": 6892295}]}

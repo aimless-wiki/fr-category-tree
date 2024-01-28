@@ -1,0 +1,1 @@
+{"name": "Type_de_bières", "id": 569658, "predecessors": [{"name": "Boisson_fermentée", "id": 1068898}], "successors": [{"name": "Bière_ambrée", "id": 664381}, {"name": "Bière_brune", "id": 4163557}, {"name": "Pils", "id": 4165575}, {"name": "Bière_blonde", "id": 4236879}]}

@@ -1,0 +1,1 @@
+{"name": "Vinification", "id": 1161481, "predecessors": [{"name": "Boisson_fermentée", "id": 1068898}, {"name": "Agroalimentaire", "id": 106530}], "successors": [{"name": "Biochimie_de_la_vinification", "id": 9742529}]}

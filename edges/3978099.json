@@ -1,0 +1,1 @@
+{"name": "Logiciel_utilitaire", "id": 3978099, "predecessors": [{"name": "Logiciel", "id": 82489}], "successors": [{"name": "Éditeur_de_texte", "id": 197623}, {"name": "Gestionnaire_de_paquets", "id": 1102194}, {"name": "Commande_Unix", "id": 860269}, {"name": "Commande_MS-DOS/Windows", "id": 5327123}]}

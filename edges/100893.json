@@ -1,0 +1,1 @@
+{"name": "Légume", "id": 100893, "predecessors": [{"name": "Plante_alimentaire", "id": 97917}, {"name": "Techniques_et_sciences_appliquées", "id": 85441}, {"name": "Agriculture", "id": 81359}], "successors": [{"name": "Plante_potagère", "id": 101065}, {"name": "Légume-racine", "id": 516650}, {"name": "Légume-feuille", "id": 523445}]}

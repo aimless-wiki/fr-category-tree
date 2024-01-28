@@ -1,0 +1,1 @@
+{"name": "Peinture_murale", "id": 707322, "predecessors": [{"name": "Mur", "id": 299956}, {"name": "Technique_picturale", "id": 637726}], "successors": [{"name": "Peintre_muraliste", "id": 702489}, {"name": "Peintre_fresquiste", "id": 3072383}, {"name": "Fresque_du_XVe_siècle", "id": 8593002}, {"name": "Fresque_du_XVIe_siècle", "id": 8745336}]}

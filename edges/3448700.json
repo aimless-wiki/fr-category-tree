@@ -1,0 +1,1 @@
+{"name": "Produit_chimique_toxique", "id": 3448700, "predecessors": [{"name": "Sécurité", "id": 144579}, {"name": "Toxicologie", "id": 99455}, {"name": "Matériau", "id": 154211}], "successors": [{"name": "Produit_chimique_très_toxique", "id": 3448768}]}

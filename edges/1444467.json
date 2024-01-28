@@ -1,0 +1,1 @@
+{"name": "Traitement_chirurgical", "id": 1444467, "predecessors": [{"name": "Chirurgie", "id": 96803}, {"name": "Médecine", "id": 82499}], "successors": [{"name": "Mort_liée_à_une_opération_chirurgicale", "id": 9624478}, {"name": "Ablation_chirurgicale", "id": 2224970}]}

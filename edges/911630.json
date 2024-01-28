@@ -1,0 +1,1 @@
+{"name": "Widget", "id": 911630, "predecessors": [{"name": "Environnement_graphique", "id": 151348}, {"name": "World_Wide_Web", "id": 96643}, {"name": "Architecture_logicielle", "id": 262327}], "successors": [{"name": "Logiciel_utilisant_Qt", "id": 3709442}]}

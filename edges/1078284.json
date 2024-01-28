@@ -1,0 +1,1 @@
+{"name": "Stockage_de_l'énergie", "id": 1078284, "predecessors": [{"name": "Stockage", "id": 860399}, {"name": "Grandeur_physique", "id": 1129304}], "successors": [{"name": "Accumulateur", "id": 1078157}, {"name": "Centrale_de_pompage-turbinage", "id": 7365783}]}

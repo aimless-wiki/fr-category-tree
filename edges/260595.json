@@ -1,0 +1,1 @@
+{"name": "Bibliothèque_logicielle", "id": 260595, "predecessors": [{"name": "Programmation_informatique", "id": 83059}, {"name": "Architecture_logicielle", "id": 262327}], "successors": [{"name": "Bibliothèque_logicielle_graphique", "id": 260596}, {"name": "Bibliothèque_logicielle_Java", "id": 2513290}, {"name": "Interface_de_programmation", "id": 8155971}]}
