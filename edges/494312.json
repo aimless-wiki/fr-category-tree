@@ -1,1 +1,1 @@
-{"name": "Véhicule_conceptuel", "id": 494312, "predecessors": [{"name": "Génie_mécanique", "id": 719812}, {"name": "Automobile", "id": 83581}, {"name": "Histoire_automobile", "id": 176737}, {"name": "Design", "id": 484174}], "successors": [{"name": "Concept_car_Mazda", "id": 12537652}]}
+{"name": "Véhicule_conceptuel", "id": 494312, "predecessors": [{"name": "Automobile", "id": 83581}, {"name": "Ingénierie", "id": 84694}, {"name": "Histoire_automobile", "id": 176737}, {"name": "Design", "id": 484174}], "successors": [{"name": "Concept_car_Mazda", "id": 12537652}]}

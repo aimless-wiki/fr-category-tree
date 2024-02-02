@@ -1,1 +1,1 @@
-{"name": "Constructeur_de_bus", "id": 926633, "predecessors": [{"name": "Autobus", "id": 204666}, {"name": "Construction_mécanique", "id": 805482}], "successors": []}
+{"name": "Constructeur_de_bus", "id": 926633, "predecessors": [{"name": "Autobus", "id": 204666}, {"name": "Industrie", "id": 84693}], "successors": []}

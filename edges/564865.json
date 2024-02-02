@@ -1,1 +1,1 @@
-{"name": "Astrométrie", "id": 564865, "predecessors": [{"name": "Observation_du_ciel", "id": 982488}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Latitude", "id": 652025}, {"name": "Longitude", "id": 652032}]}
+{"name": "Astrométrie", "id": 564865, "predecessors": [{"name": "Observation_du_ciel", "id": 982488}, {"name": "Astronomie", "id": 80753}], "successors": [{"name": "Latitude", "id": 652025}, {"name": "Longitude", "id": 652032}]}

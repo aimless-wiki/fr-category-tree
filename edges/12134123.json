@@ -1,1 +1,1 @@
-{"name": "Aéronef_Tupolev", "id": 12134123, "predecessors": [{"name": "Avion_construit_en_Russie", "id": 4484381}, {"name": "Génie_mécanique", "id": 719812}, {"name": "Industrie", "id": 84693}], "successors": []}
+{"name": "Aéronef_Tupolev", "id": 12134123, "predecessors": [{"name": "Avion_construit_en_Russie", "id": 4484381}, {"name": "Ingénierie", "id": 84694}, {"name": "Industrie", "id": 84693}], "successors": []}

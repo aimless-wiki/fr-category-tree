@@ -1,1 +1,1 @@
-{"name": "Montagne_sacrée", "id": 7643184, "predecessors": [{"name": "Concept_métaphysique", "id": 11387188}], "successors": [{"name": "Kīlauea", "id": 5365434}, {"name": "Objet_céleste_découvert_par_un_des_observatoires_du_Mauna_Kea", "id": 15573690}]}
+{"name": "Montagne_sacrée", "id": 7643184, "predecessors": [{"name": "Astronomie", "id": 80753}], "successors": [{"name": "Kīlauea", "id": 5365434}, {"name": "Objet_céleste_découvert_par_un_des_observatoires_du_Mauna_Kea", "id": 15573690}]}

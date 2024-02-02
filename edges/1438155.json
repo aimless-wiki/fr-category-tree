@@ -1,1 +1,1 @@
-{"name": "Outil_de_coupe", "id": 1438155, "predecessors": [{"name": "Outil", "id": 104861}, {"name": "Construction_mécanique", "id": 805482}], "successors": [{"name": "Couteau", "id": 1437029}]}
+{"name": "Outil_de_coupe", "id": 1438155, "predecessors": [{"name": "Outil", "id": 104861}, {"name": "Technique_industrielle", "id": 1060255}], "successors": [{"name": "Couteau", "id": 1437029}]}

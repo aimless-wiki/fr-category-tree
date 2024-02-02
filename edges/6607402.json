@@ -1,1 +1,1 @@
-{"name": "Véhicule_blindé_de_transport_de_troupes", "id": 6607402, "predecessors": [{"name": "Camion", "id": 204958}, {"name": "Génie_mécanique", "id": 719812}], "successors": []}
+{"name": "Véhicule_blindé_de_transport_de_troupes", "id": 6607402, "predecessors": [{"name": "Camion", "id": 204958}, {"name": "Ingénierie", "id": 84694}], "successors": []}

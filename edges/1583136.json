@@ -1,1 +1,1 @@
-{"name": "Canon_automoteur", "id": 1583136, "predecessors": [{"name": "Arme", "id": 87379}, {"name": "Artillerie", "id": 292854}, {"name": "Génie_mécanique", "id": 719812}], "successors": [{"name": "Chasseur_de_chars", "id": 1209965}]}
+{"name": "Canon_automoteur", "id": 1583136, "predecessors": [{"name": "Arme", "id": 87379}, {"name": "Artillerie", "id": 292854}, {"name": "Ingénierie", "id": 84694}], "successors": [{"name": "Chasseur_de_chars", "id": 1209965}]}

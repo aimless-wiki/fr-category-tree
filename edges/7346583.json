@@ -1,1 +1,1 @@
-{"name": "Engin_de_chantier", "id": 7346583, "predecessors": [{"name": "Génie_civil", "id": 85512}, {"name": "Génie_mécanique", "id": 719812}], "successors": [{"name": "Fabricant_d'engins_de_construction", "id": 1221177}]}
+{"name": "Engin_de_chantier", "id": 7346583, "predecessors": [{"name": "Génie_civil", "id": 85512}, {"name": "Ingénierie", "id": 84694}], "successors": [{"name": "Fabricant_d'engins_de_construction", "id": 1221177}]}

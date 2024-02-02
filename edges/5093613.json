@@ -1,1 +1,1 @@
-{"name": "Parc_de_loisirs_disparu", "id": 5093613, "predecessors": [{"name": "Entreprise_disparue", "id": 838142}, {"name": "Concept_métaphysique", "id": 11387188}, {"name": "Infrastructure_touristique", "id": 1946654}], "successors": []}
+{"name": "Parc_de_loisirs_disparu", "id": 5093613, "predecessors": [{"name": "Entreprise_disparue", "id": 838142}, {"name": "Astronomie", "id": 80753}, {"name": "Infrastructure_touristique", "id": 1946654}], "successors": []}

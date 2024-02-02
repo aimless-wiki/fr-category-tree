@@ -1,1 +1,1 @@
-{"name": "Produit_chimique_explosif", "id": 3448786, "predecessors": [{"name": "Explosif", "id": 243630}, {"name": "Sécurité", "id": 144579}, {"name": "Matériau", "id": 154211}], "successors": []}
+{"name": "Produit_chimique_explosif", "id": 3448786, "predecessors": [{"name": "Explosif", "id": 243630}, {"name": "Sécurité", "id": 144579}, {"name": "Concept_en_physique", "id": 6763455}], "successors": []}

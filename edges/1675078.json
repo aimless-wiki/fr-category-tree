@@ -1,1 +1,1 @@
-{"name": "Marque_de_matériau", "id": 1675078, "predecessors": [{"name": "Matériau", "id": 154211}, {"name": "Travail", "id": 99727}], "successors": []}
+{"name": "Marque_de_matériau", "id": 1675078, "predecessors": [{"name": "Science_des_matériaux", "id": 94638}, {"name": "Travail", "id": 99727}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Blindé_soviétique", "id": 4440006, "predecessors": [{"name": "Arme_militaire_fabriquée_en_Union_soviétique", "id": 2584357}, {"name": "Génie_mécanique", "id": 719812}], "successors": [{"name": "Char_soviétique", "id": 3357760}]}
+{"name": "Blindé_soviétique", "id": 4440006, "predecessors": [{"name": "Arme_militaire_fabriquée_en_Union_soviétique", "id": 2584357}, {"name": "Ingénierie", "id": 84694}], "successors": [{"name": "Char_soviétique", "id": 3357760}]}

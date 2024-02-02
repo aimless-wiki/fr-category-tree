@@ -1,1 +1,1 @@
-{"name": "Naissance_au_Viêt_Nam", "id": 2996071, "predecessors": [{"name": "Sciences_humaines_et_sociales", "id": 2320561}, {"name": "Concept_métaphysique", "id": 11387188}], "successors": [{"name": "Naissance_à_Hanoï", "id": 3862440}, {"name": "Naissance_à_Hô_Chi_Minh-Ville", "id": 3862567}]}
+{"name": "Naissance_au_Viêt_Nam", "id": 2996071, "predecessors": [{"name": "Sciences_humaines_et_sociales", "id": 2320561}, {"name": "Astronomie", "id": 80753}], "successors": [{"name": "Naissance_à_Hanoï", "id": 3862440}, {"name": "Naissance_à_Hô_Chi_Minh-Ville", "id": 3862567}]}

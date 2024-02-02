@@ -1,1 +1,1 @@
-{"name": "Radiotélescope", "id": 410057, "predecessors": [{"name": "Télécommunications", "id": 84099}, {"name": "Observation_du_ciel", "id": 982488}, {"name": "Accueil", "id": 1155637}, {"name": "Instrument_astronomique", "id": 160595}], "successors": []}
+{"name": "Radiotélescope", "id": 410057, "predecessors": [{"name": "Astronomie", "id": 80753}, {"name": "Télécommunications", "id": 84099}, {"name": "Observation_du_ciel", "id": 982488}, {"name": "Instrument_astronomique", "id": 160595}], "successors": []}

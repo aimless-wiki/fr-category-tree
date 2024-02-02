@@ -1,1 +1,1 @@
-{"name": "Modèle_d'autobus", "id": 1097231, "predecessors": [{"name": "Autobus", "id": 204666}, {"name": "Génie_mécanique", "id": 719812}], "successors": [{"name": "Autobus_Fiat", "id": 9683613}]}
+{"name": "Modèle_d'autobus", "id": 1097231, "predecessors": [{"name": "Autobus", "id": 204666}, {"name": "Ingénierie", "id": 84694}], "successors": [{"name": "Autobus_Fiat", "id": 9683613}]}

@@ -1,1 +1,1 @@
-{"name": "Huile_végétale", "id": 3988205, "predecessors": [{"name": "Matériau", "id": 154211}, {"name": "Matière_première_végétale", "id": 445649}], "successors": [{"name": "Plante_oléagineuse", "id": 100784}]}
+{"name": "Huile_végétale", "id": 3988205, "predecessors": [{"name": "Science_des_matériaux", "id": 94638}, {"name": "Matière_première_végétale", "id": 445649}], "successors": [{"name": "Plante_oléagineuse", "id": 100784}]}

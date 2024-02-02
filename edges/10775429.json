@@ -1,1 +1,1 @@
-{"name": "Aéronef_Lockheed", "id": 10775429, "predecessors": [{"name": "Avion_construit_aux_États-Unis", "id": 3617597}, {"name": "Génie_mécanique", "id": 719812}, {"name": "Constructeur_aéronautique_américain_disparu", "id": 1776127}], "successors": []}
+{"name": "Aéronef_Lockheed", "id": 10775429, "predecessors": [{"name": "Avion_construit_aux_États-Unis", "id": 3617597}, {"name": "Ingénierie", "id": 84694}, {"name": "Constructeur_aéronautique_américain_disparu", "id": 1776127}], "successors": []}

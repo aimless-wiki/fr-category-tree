@@ -1,1 +1,1 @@
-{"name": "Visserie", "id": 151754, "predecessors": [{"name": "Bricolage", "id": 84915}, {"name": "Construction_mécanique", "id": 805482}, {"name": "Génie_mécanique", "id": 719812}], "successors": []}
+{"name": "Visserie", "id": 151754, "predecessors": [{"name": "Bricolage", "id": 84915}, {"name": "Ingénierie", "id": 84694}, {"name": "Outil_pour_attacher", "id": 1439642}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Source_X", "id": 6336275, "predecessors": [{"name": "Optique_ondulatoire", "id": 824493}, {"name": "Concept_métaphysique", "id": 11387188}], "successors": [{"name": "Galaxie_de_Seyfert", "id": 8654555}]}
+{"name": "Source_X", "id": 6336275, "predecessors": [{"name": "Astronomie", "id": 80753}, {"name": "Optique_ondulatoire", "id": 824493}], "successors": [{"name": "Galaxie_de_Seyfert", "id": 8654555}]}

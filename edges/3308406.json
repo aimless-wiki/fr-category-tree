@@ -1,1 +1,1 @@
-{"name": "Blindé_de_la_Seconde_Guerre_mondiale", "id": 3308406, "predecessors": [{"name": "Véhicule_militaire_de_la_Seconde_Guerre_mondiale", "id": 4438160}, {"name": "Génie_mécanique", "id": 719812}], "successors": [{"name": "Char_allemand_de_la_Seconde_Guerre_mondiale", "id": 5868283}]}
+{"name": "Blindé_de_la_Seconde_Guerre_mondiale", "id": 3308406, "predecessors": [{"name": "Véhicule_militaire_de_la_Seconde_Guerre_mondiale", "id": 4438160}, {"name": "Ingénierie", "id": 84694}], "successors": [{"name": "Char_allemand_de_la_Seconde_Guerre_mondiale", "id": 5868283}]}

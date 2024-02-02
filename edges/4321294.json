@@ -1,1 +1,1 @@
-{"name": "Naissance_en_Nivernais", "id": 4321294, "predecessors": [{"name": "XVIIIe_siècle", "id": 1369784}, {"name": "Concept_métaphysique", "id": 11387188}], "successors": [{"name": "Naissance_à_Nevers", "id": 3361073}]}
+{"name": "Naissance_en_Nivernais", "id": 4321294, "predecessors": [{"name": "XVIIIe_siècle", "id": 1369784}, {"name": "Astronomie", "id": 80753}], "successors": [{"name": "Naissance_à_Nevers", "id": 3361073}]}

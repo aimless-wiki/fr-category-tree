@@ -1,1 +1,1 @@
-{"name": "Économie_du_pétrole", "id": 1117454, "predecessors": [{"name": "Économie_de_l'énergie", "id": 2831033}, {"name": "Matériau", "id": 154211}], "successors": [{"name": "Industrie_pétrolière", "id": 1117594}]}
+{"name": "Économie_du_pétrole", "id": 1117454, "predecessors": [{"name": "Économie_de_l'énergie", "id": 2831033}, {"name": "Science_des_matériaux", "id": 94638}], "successors": [{"name": "Industrie_pétrolière", "id": 1117594}]}

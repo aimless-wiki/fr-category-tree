@@ -1,1 +1,1 @@
-{"name": "Satellite_d'observation_de_la_Terre", "id": 6044042, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Logistique", "id": 441337}], "successors": []}
+{"name": "Satellite_d'observation_de_la_Terre", "id": 6044042, "predecessors": [{"name": "Astronomie", "id": 80753}, {"name": "Logistique", "id": 441337}], "successors": []}

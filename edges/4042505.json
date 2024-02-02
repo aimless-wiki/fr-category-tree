@@ -1,1 +1,1 @@
-{"name": "Construction_amateur_d'avion", "id": 4042505, "predecessors": [{"name": "Aviation_légère", "id": 773131}, {"name": "Travail", "id": 99727}, {"name": "Construction_mécanique", "id": 805482}], "successors": []}
+{"name": "Construction_amateur_d'avion", "id": 4042505, "predecessors": [{"name": "Aviation_légère", "id": 773131}, {"name": "Travail", "id": 99727}, {"name": "Industrie", "id": 84693}], "successors": []}

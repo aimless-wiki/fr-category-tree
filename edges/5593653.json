@@ -1,1 +1,1 @@
-{"name": "Objet_céleste_découvert_en_1991", "id": 5593653, "predecessors": [{"name": "Calendrier", "id": 114194}, {"name": "Concept_métaphysique", "id": 11387188}], "successors": [{"name": "Planète_mineure_découverte_en_1991", "id": 14664851}]}
+{"name": "Objet_céleste_découvert_en_1991", "id": 5593653, "predecessors": [{"name": "Astronomie", "id": 80753}, {"name": "Calendrier", "id": 114194}], "successors": [{"name": "Planète_mineure_découverte_en_1991", "id": 14664851}]}

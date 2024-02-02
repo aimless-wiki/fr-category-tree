@@ -1,1 +1,1 @@
-{"name": "Découvreur_de_supernovas", "id": 11105885, "predecessors": [{"name": "Physique_stellaire", "id": 168968}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Découvreur_de_supernovas", "id": 11105885, "predecessors": [{"name": "Astronomie", "id": 80753}, {"name": "Physique_stellaire", "id": 168968}], "successors": []}

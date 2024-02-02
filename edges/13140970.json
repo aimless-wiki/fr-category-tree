@@ -1,1 +1,1 @@
-{"name": "Distributeur_de_jeux_vidéo", "id": 13140970, "predecessors": [{"name": "Jeu_vidéo", "id": 85212}, {"name": "Commerce", "id": 84952}], "successors": []}
+{"name": "Distributeur_de_jeux_vidéo", "id": 13140970, "predecessors": [{"name": "Économie_de_la_culture", "id": 1152580}, {"name": "Commerce", "id": 84952}], "successors": []}

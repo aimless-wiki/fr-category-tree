@@ -1,1 +1,1 @@
-{"name": "Matériel_d'écriture", "id": 465530, "predecessors": [{"name": "Matériel_de_bureau", "id": 500643}, {"name": "Écriture", "id": 114656}, {"name": "Matériau", "id": 154211}, {"name": "Sous-culture", "id": 181350}], "successors": []}
+{"name": "Matériel_d'écriture", "id": 465530, "predecessors": [{"name": "Matériel_de_bureau", "id": 500643}, {"name": "Écriture", "id": 114656}, {"name": "Sous-culture", "id": 181350}, {"name": "Technologie", "id": 84695}], "successors": []}

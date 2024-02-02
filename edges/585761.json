@@ -1,1 +1,1 @@
-{"name": "Exploration_de_Vénus", "id": 585761, "predecessors": [{"name": "Exploration_de_l'espace", "id": 8481221}, {"name": "Concept_métaphysique", "id": 11387188}], "successors": []}
+{"name": "Exploration_de_Vénus", "id": 585761, "predecessors": [{"name": "Exploration_de_l'espace", "id": 8481221}, {"name": "Astronomie", "id": 80753}], "successors": []}

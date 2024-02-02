@@ -1,1 +1,1 @@
-{"name": "Véhicule_à_transmission_intégrale", "id": 586786, "predecessors": [{"name": "Génie_mécanique", "id": 719812}, {"name": "Automobile", "id": 83581}, {"name": "Construction_mécanique", "id": 805482}], "successors": []}
+{"name": "Véhicule_à_transmission_intégrale", "id": 586786, "predecessors": [{"name": "Automobile", "id": 83581}, {"name": "Ingénierie", "id": 84694}, {"name": "Technologie_automobile", "id": 188306}], "successors": []}

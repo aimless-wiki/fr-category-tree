@@ -1,1 +1,1 @@
-{"name": "Stade_portant_le_nom_d'un_lieu", "id": 7133820, "predecessors": [{"name": "Concept_métaphysique", "id": 11387188}, {"name": "Toponymie", "id": 244618}], "successors": [{"name": "Stade_portant_le_nom_d'une_ville", "id": 7133826}]}
+{"name": "Stade_portant_le_nom_d'un_lieu", "id": 7133820, "predecessors": [{"name": "Astronomie", "id": 80753}, {"name": "Toponymie", "id": 244618}], "successors": [{"name": "Stade_portant_le_nom_d'une_ville", "id": 7133826}]}

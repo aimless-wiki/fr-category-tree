@@ -1,1 +1,1 @@
-{"name": "Satellite_en_orbite_géostationnaire", "id": 1766329, "predecessors": [{"name": "Orbite", "id": 1004409}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Satellite_en_orbite_géostationnaire", "id": 1766329, "predecessors": [{"name": "Orbite", "id": 1004409}, {"name": "Astronomie", "id": 80753}], "successors": []}

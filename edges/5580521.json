@@ -1,1 +1,1 @@
-{"name": "Jeu_Wii_U", "id": 5580521, "predecessors": [{"name": "Jeu_vidéo", "id": 85212}, {"name": "Culture_informatique", "id": 262500}], "successors": [{"name": "Jeu_sur_la_console_virtuelle_de_la_Wii_U", "id": 7751552}]}
+{"name": "Jeu_Wii_U", "id": 5580521, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Culture_informatique", "id": 262500}], "successors": [{"name": "Jeu_sur_la_console_virtuelle_de_la_Wii_U", "id": 7751552}]}

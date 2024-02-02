@@ -1,1 +1,1 @@
-{"name": "Recyclage", "id": 2728463, "predecessors": [{"name": "Gestion_des_déchets", "id": 889763}, {"name": "Construction_mécanique", "id": 805482}], "successors": []}
+{"name": "Recyclage", "id": 2728463, "predecessors": [{"name": "Gestion_des_déchets", "id": 889763}, {"name": "Technique_industrielle", "id": 1060255}], "successors": []}

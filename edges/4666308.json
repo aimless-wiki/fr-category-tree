@@ -1,1 +1,1 @@
-{"name": "Jeu_vidéo_d'horreur", "id": 4666308, "predecessors": [{"name": "Jeu_vidéo", "id": 85212}, {"name": "Culture_populaire", "id": 84980}], "successors": [{"name": "Survival_horror", "id": 198844}, {"name": "Jeu_vidéo_sur_les_vampires", "id": 4041948}]}
+{"name": "Jeu_vidéo_d'horreur", "id": 4666308, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Culture_populaire", "id": 84980}], "successors": [{"name": "Survival_horror", "id": 198844}, {"name": "Jeu_vidéo_sur_les_vampires", "id": 4041948}]}

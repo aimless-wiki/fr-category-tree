@@ -1,1 +1,1 @@
-{"name": "Produit_chimique_domestique", "id": 335843, "predecessors": [{"name": "Sécurité", "id": 144579}, {"name": "Matériau", "id": 154211}], "successors": []}
+{"name": "Produit_chimique_domestique", "id": 335843, "predecessors": [{"name": "Sécurité", "id": 144579}, {"name": "Concept_en_physique", "id": 6763455}], "successors": []}

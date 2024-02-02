@@ -1,1 +1,1 @@
-{"name": "Produit_chimique_corrosif", "id": 3448602, "predecessors": [{"name": "Sécurité", "id": 144579}, {"name": "Matériau", "id": 154211}, {"name": "Science_des_matériaux", "id": 94638}], "successors": []}
+{"name": "Produit_chimique_corrosif", "id": 3448602, "predecessors": [{"name": "Sécurité", "id": 144579}, {"name": "Concept_en_physique", "id": 6763455}, {"name": "Science_des_matériaux", "id": 94638}], "successors": []}

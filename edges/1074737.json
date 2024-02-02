@@ -1,1 +1,1 @@
-{"name": "Matériau_nucléaire", "id": 1074737, "predecessors": [{"name": "Matériau", "id": 154211}, {"name": "Technologie_nucléaire", "id": 1618867}, {"name": "Énergie_nucléaire", "id": 306729}], "successors": []}
+{"name": "Matériau_nucléaire", "id": 1074737, "predecessors": [{"name": "Technologie_nucléaire", "id": 1618867}, {"name": "Énergie_nucléaire", "id": 306729}, {"name": "Science_des_matériaux", "id": 94638}], "successors": []}
