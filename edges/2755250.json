@@ -1,1 +1,1 @@
-{"name": "Transfert_thermique", "id": 2755250, "predecessors": [{"name": "Thermodynamique", "id": 95525}, {"name": "Génie_chimique", "id": 462533}], "successors": [{"name": "Réfrigération", "id": 854533}, {"name": "Matériau_réfractaire", "id": 8836008}, {"name": "Divinité_solaire", "id": 4728683}]}
+{"name": "Transfert_thermique", "id": 2755250, "predecessors": [{"name": "Génie_chimique", "id": 462533}], "successors": [{"name": "Réfrigération", "id": 854533}, {"name": "Matériau_réfractaire", "id": 8836008}, {"name": "Divinité_solaire", "id": 4728683}]}

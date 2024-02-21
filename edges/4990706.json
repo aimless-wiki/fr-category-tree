@@ -1,1 +1,1 @@
-{"name": "Jeu_vidéo_de_Formule_1", "id": 4990706, "predecessors": [{"name": "Formule_1", "id": 130535}, {"name": "Jeu_vidéo_de_course", "id": 946744}, {"name": "Jeu_vidéo_de_simulation", "id": 617540}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Jeu_vidéo_de_Formule_1", "id": 4990706, "predecessors": [{"name": "Formule_1", "id": 130535}, {"name": "Jeu_vidéo_de_course", "id": 946744}, {"name": "Jeu_vidéo_de_simulation", "id": 617540}, {"name": "Jeu_vidéo", "id": 85212}], "successors": []}

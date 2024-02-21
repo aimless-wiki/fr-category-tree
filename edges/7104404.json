@@ -1,1 +1,1 @@
-{"name": "Voie_dans_le_centre-ville_de_Nantes", "id": 7104404, "predecessors": [{"name": "Histoire_de_la_France_par_ville", "id": 774401}, {"name": "Géographie_urbaine", "id": 621778}], "successors": [{"name": "Place_dans_le_centre-ville_de_Nantes", "id": 7104540}]}
+{"name": "Voie_dans_le_centre-ville_de_Nantes", "id": 7104404, "predecessors": [{"name": "Centre-ville_de_Nantes", "id": 5640553}, {"name": "Histoire_de_la_France_par_ville", "id": 774401}], "successors": [{"name": "Place_dans_le_centre-ville_de_Nantes", "id": 7104540}]}

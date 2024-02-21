@@ -1,1 +1,1 @@
-{"name": "Appareil_sous_Android", "id": 4209624, "predecessors": [{"name": "Google", "id": 142949}, {"name": "Smartphone", "id": 1561251}], "successors": []}
+{"name": "Appareil_sous_Android", "id": 4209624, "predecessors": [{"name": "Smartphone", "id": 1561251}, {"name": "Distribution_Linux", "id": 82487}], "successors": []}

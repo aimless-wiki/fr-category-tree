@@ -1,1 +1,1 @@
-{"name": "Culture_occitane", "id": 1249889, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Europe", "id": 82819}], "successors": [{"name": "Littérature_occitane", "id": 375083}]}
+{"name": "Culture_occitane", "id": 1249889, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Europe", "id": 82819}], "successors": [{"name": "Langue_occitane", "id": 104135}, {"name": "Littérature_occitane", "id": 375083}]}

@@ -1,1 +1,1 @@
-{"name": "Abbaye_détruite_en_Allemagne", "id": 15189549, "predecessors": [{"name": "Bâtiment", "id": 270001}, {"name": "Accueil", "id": 1155637}, {"name": "Bâtiment_détruit_en_Allemagne", "id": 9672412}], "successors": []}
+{"name": "Abbaye_détruite_en_Allemagne", "id": 15189549, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Bâtiment_détruit_en_Allemagne", "id": 9672412}, {"name": "Logement", "id": 404004}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Jeu_Game_Boy", "id": 307767, "predecessors": [{"name": "Console_portable", "id": 952674}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Jeu_Game_Boy", "id": 307767, "predecessors": [{"name": "Console_portable", "id": 952674}, {"name": "Jeu_vidéo", "id": 85212}], "successors": []}

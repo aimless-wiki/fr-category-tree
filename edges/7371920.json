@@ -1,1 +1,1 @@
-{"name": "Brasserie_ayant_son_siège_en_Belgique", "id": 7371920, "predecessors": [{"name": "Bâtiment", "id": 270001}, {"name": "Entreprise_agroalimentaire", "id": 106198}], "successors": []}
+{"name": "Brasserie_ayant_son_siège_en_Belgique", "id": 7371920, "predecessors": [{"name": "Entreprise_agroalimentaire", "id": 106198}, {"name": "Astronomie", "id": 80753}], "successors": []}

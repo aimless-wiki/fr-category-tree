@@ -1,1 +1,1 @@
-{"name": "Ksar_au_Maroc", "id": 4989997, "predecessors": [{"name": "Bâtiment", "id": 270001}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Ksar_au_Maroc", "id": 4989997, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Astronomie", "id": 80753}], "successors": []}
