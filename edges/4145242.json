@@ -1,1 +1,1 @@
-{"name": "Roi_du_Cambodge", "id": 4145242, "predecessors": [{"name": "Histoire_du_Cambodge", "id": 206734}, {"name": "Accueil", "id": 1155637}, {"name": "Monarchie", "id": 87365}, {"name": "Sciences_humaines_et_sociales", "id": 2320561}], "successors": []}
+{"name": "Roi_du_Cambodge", "id": 4145242, "predecessors": [{"name": "Histoire_du_Cambodge", "id": 206734}, {"name": "Accueil", "id": 1155637}, {"name": "Monarchie", "id": 87365}], "successors": [{"name": "Roi_d'Angkor", "id": 3669562}]}

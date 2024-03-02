@@ -1,1 +1,1 @@
-{"name": "Biophysique", "id": 148011, "predecessors": [{"name": "Académie", "id": 221421}], "successors": [{"name": "Électrophysiologie", "id": 389626}, {"name": "Radiobiologie", "id": 1079654}, {"name": "Biophysicien", "id": 7144260}]}
+{"name": "Biophysique", "id": 148011, "predecessors": [{"name": "Académie", "id": 221421}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Électrophysiologie", "id": 389626}, {"name": "Radiobiologie", "id": 1079654}, {"name": "Biophysicien", "id": 7144260}]}

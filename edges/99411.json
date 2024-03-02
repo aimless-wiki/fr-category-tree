@@ -1,1 +1,1 @@
-{"name": "Radiologie", "id": 99411, "predecessors": [{"name": "Examen_médical", "id": 137646}, {"name": "Optique_ondulatoire", "id": 824493}, {"name": "Médecine", "id": 82499}], "successors": []}
+{"name": "Radiologie", "id": 99411, "predecessors": [{"name": "Imagerie_médicale", "id": 322267}, {"name": "Optique_ondulatoire", "id": 824493}, {"name": "Médecine", "id": 82499}], "successors": []}

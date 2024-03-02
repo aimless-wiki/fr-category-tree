@@ -1,1 +1,1 @@
-{"name": "Infection_parasitaire", "id": 1537300, "predecessors": [{"name": "Maladie_infectieuse", "id": 99359}, {"name": "Académie", "id": 221421}], "successors": [{"name": "Insecte_vecteur", "id": 1038615}, {"name": "Mort_du_paludisme", "id": 9341948}]}
+{"name": "Infection_parasitaire", "id": 1537300, "predecessors": [{"name": "Maladie_infectieuse", "id": 99359}, {"name": "Écologie", "id": 80787}], "successors": [{"name": "Insecte_vecteur", "id": 1038615}, {"name": "Mort_du_paludisme", "id": 9341948}]}

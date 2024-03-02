@@ -1,1 +1,1 @@
-{"name": "Phare_du_XXe_siècle", "id": 6195628, "predecessors": [{"name": "Patrimoine_du_XXe_siècle", "id": 838368}, {"name": "Génie_civil", "id": 85512}, {"name": "Architecture_au_XXe_siècle", "id": 3624519}], "successors": []}
+{"name": "Phare_du_XXe_siècle", "id": 6195628, "predecessors": [{"name": "Patrimoine_du_XXe_siècle", "id": 838368}, {"name": "Génie_civil", "id": 85512}, {"name": "Architecture_au_XXe_siècle", "id": 3624519}], "successors": [{"name": "Phare_du_XXe_siècle_en_France", "id": 7689828}]}

@@ -1,1 +1,1 @@
-{"name": "Recteur_de_l'université_de_Paris", "id": 5609696, "predecessors": [{"name": "Recteur_d'université", "id": 8627273}, {"name": "Histoire_de_Paris", "id": 104457}, {"name": "Île-de-France", "id": 130330}, {"name": "Francophonie", "id": 87725}], "successors": []}
+{"name": "Recteur_de_l'université_de_Paris", "id": 5609696, "predecessors": [{"name": "Recteur_d'université", "id": 8627273}, {"name": "Histoire_de_Paris", "id": 104457}, {"name": "Administration_des_universités_en_France", "id": 381673}, {"name": "Île-de-France", "id": 130330}], "successors": []}

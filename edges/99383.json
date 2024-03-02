@@ -1,1 +1,1 @@
-{"name": "Symptôme", "id": 99383, "predecessors": [{"name": "Médecine", "id": 82499}], "successors": []}
+{"name": "Symptôme", "id": 99383, "predecessors": [{"name": "Médecine", "id": 82499}], "successors": [{"name": "Douleur", "id": 381584}, {"name": "Symptôme_en_neurologie", "id": 1425750}]}

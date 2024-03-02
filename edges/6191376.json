@@ -1,1 +1,1 @@
-{"name": "Gare_dans_la_province_de_Hainaut", "id": 6191376, "predecessors": [{"name": "Europe", "id": 82819}, {"name": "Transport_en_Wallonie", "id": 1646269}, {"name": "Astronomie", "id": 80753}], "successors": []}
+{"name": "Gare_dans_la_province_de_Hainaut", "id": 6191376, "predecessors": [{"name": "Bâtiment", "id": 270001}, {"name": "Europe", "id": 82819}, {"name": "Transport_en_Wallonie", "id": 1646269}], "successors": []}

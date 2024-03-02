@@ -1,1 +1,1 @@
-{"name": "Exploratrice", "id": 12944099, "predecessors": [{"name": "Métier", "id": 87726}, {"name": "Sciences_humaines_et_sociales", "id": 2320561}], "successors": [{"name": "Exploratrice_et_grande_voyageuse", "id": 4766803}]}
+{"name": "Exploratrice", "id": 12944099, "predecessors": [{"name": "Métier", "id": 87726}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Exploratrice_et_grande_voyageuse", "id": 4766803}]}

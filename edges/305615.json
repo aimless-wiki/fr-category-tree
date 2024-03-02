@@ -1,1 +1,1 @@
-{"name": "Sang", "id": 305615, "predecessors": [{"name": "Physiologie", "id": 99442}], "successors": [{"name": "Menstruations", "id": 10623281}]}
+{"name": "Sang", "id": 305615, "predecessors": [{"name": "Anatomie_animale", "id": 277702}, {"name": "Zoologie", "id": 81546}], "successors": [{"name": "Menstruations", "id": 10623281}]}

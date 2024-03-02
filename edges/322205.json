@@ -1,1 +1,1 @@
-{"name": "Équipement_médical", "id": 322205, "predecessors": [{"name": "Technologie", "id": 84695}], "successors": [{"name": "Entreprise_de_matériel_médical", "id": 8041065}]}
+{"name": "Équipement_médical", "id": 322205, "predecessors": [{"name": "Technologie", "id": 84695}], "successors": [{"name": "Imagerie_médicale", "id": 322267}, {"name": "Entreprise_de_matériel_médical", "id": 8041065}]}

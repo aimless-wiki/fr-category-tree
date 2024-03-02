@@ -1,1 +1,1 @@
-{"name": "Rituel_hindouiste", "id": 2771425, "predecessors": [{"name": "Rituel", "id": 87672}, {"name": "Sciences_humaines_et_sociales", "id": 2320561}, {"name": "Études_culturelles", "id": 1492920}], "successors": []}
+{"name": "Rituel_hindouiste", "id": 2771425, "predecessors": [{"name": "Rituel", "id": 87672}, {"name": "Accueil", "id": 1155637}, {"name": "Études_culturelles", "id": 1492920}], "successors": []}

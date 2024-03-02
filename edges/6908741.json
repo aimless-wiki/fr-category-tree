@@ -1,1 +1,1 @@
-{"name": "Professeur_à_l'université_Brown", "id": 6908741, "predecessors": [{"name": "Professeur_américain", "id": 1143190}, {"name": "Administration_territoriale", "id": 434707}, {"name": "Enseignement_supérieur", "id": 332674}], "successors": []}
+{"name": "Professeur_à_l'université_Brown", "id": 6908741, "predecessors": [{"name": "Région_aux_États-Unis", "id": 3285975}, {"name": "Professeur_américain", "id": 1143190}, {"name": "Enseignement_supérieur", "id": 332674}], "successors": []}

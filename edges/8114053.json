@@ -1,1 +1,1 @@
-{"name": "Turbomoteur", "id": 8114053, "predecessors": [{"name": "Propulsion_des_aéronefs", "id": 321923}, {"name": "Travail", "id": 99727}, {"name": "Dispositif_mécanique", "id": 129078}], "successors": []}
+{"name": "Turbomoteur", "id": 8114053, "predecessors": [{"name": "Propulsion_des_aéronefs", "id": 321923}, {"name": "Technologie_aéronautique", "id": 321858}, {"name": "Dispositif_mécanique", "id": 129078}], "successors": []}

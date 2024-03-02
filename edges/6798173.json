@@ -1,1 +1,1 @@
-{"name": "Aéroport_en_Arabie_saoudite", "id": 6798173, "predecessors": [{"name": "Sciences_humaines_et_sociales", "id": 2320561}, {"name": "Transport_aérien", "id": 95153}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Aéroport_en_Arabie_saoudite", "id": 6798173, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Transport_aérien", "id": 95153}], "successors": []}

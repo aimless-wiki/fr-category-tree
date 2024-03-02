@@ -1,1 +1,1 @@
-{"name": "Maison_à_colombages", "id": 12042891, "predecessors": [{"name": "Style_de_maison", "id": 847736}, {"name": "Charpente", "id": 1050097}, {"name": "Matériau_de_construction", "id": 149632}], "successors": []}
+{"name": "Maison_à_colombages", "id": 12042891, "predecessors": [{"name": "Style_de_maison", "id": 847736}, {"name": "Charpente", "id": 1050097}, {"name": "Matériau_de_construction", "id": 149632}, {"name": "Construction_en_bois", "id": 5836211}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Métabolisme", "id": 341790, "predecessors": [{"name": "Académie", "id": 221421}, {"name": "Biochimie", "id": 93886}], "successors": [{"name": "Métabolisme_de_l'azote", "id": 351340}, {"name": "Photosynthèse", "id": 478008}, {"name": "Méthanogenèse", "id": 5443366}]}
+{"name": "Métabolisme", "id": 341790, "predecessors": [{"name": "Biochimie", "id": 93886}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Métabolisme_de_l'azote", "id": 351340}, {"name": "Photosynthèse", "id": 478008}, {"name": "Méthanogenèse", "id": 5443366}]}

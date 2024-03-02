@@ -1,1 +1,1 @@
-{"name": "Jeu_vidéo_de_baseball", "id": 991896, "predecessors": [{"name": "Jeu_vidéo_de_simulation", "id": 617540}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Jeu_vidéo_de_baseball", "id": 991896, "predecessors": [{"name": "Jeu_vidéo_de_sport", "id": 175037}, {"name": "Accueil", "id": 1155637}], "successors": []}

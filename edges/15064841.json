@@ -1,1 +1,1 @@
-{"name": "Palette_Championnat_et_ligue_de_basket-ball", "id": 15064841, "predecessors": [{"name": "Modèle_basket-ball", "id": 769055}], "successors": [{"name": "Palette_NBA", "id": 15062665}]}
+{"name": "Palette_Championnat_et_ligue_de_basket-ball", "id": 15064841, "predecessors": [{"name": "Palette_Compétition_sportive", "id": 5991818}], "successors": [{"name": "Palette_NBA", "id": 15062665}]}

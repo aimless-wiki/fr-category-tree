@@ -1,1 +1,1 @@
-{"name": "Modèle_de_l'espace_Utilisateur", "id": 3420675, "predecessors": [{"name": "Accueil", "id": 1155637}], "successors": [{"name": "Modèle_message_utilisateur", "id": 443917}]}
+{"name": "Modèle_de_l'espace_Utilisateur", "id": 3420675, "predecessors": [{"name": "Accueil", "id": 1155637}], "successors": [{"name": "Modèle_message_utilisateur", "id": 443917}, {"name": "Modèle_pour_le_Wikimag", "id": 5216484}]}

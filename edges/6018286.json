@@ -1,1 +1,1 @@
-{"name": "Étudiant_de_l'université_de_Belgrade", "id": 6018286, "predecessors": [{"name": "Sciences_humaines_et_sociales", "id": 2320561}, {"name": "Éducation", "id": 84941}, {"name": "Europe", "id": 82819}], "successors": []}
+{"name": "Étudiant_de_l'université_de_Belgrade", "id": 6018286, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Éducation", "id": 84941}, {"name": "Europe", "id": 82819}], "successors": []}

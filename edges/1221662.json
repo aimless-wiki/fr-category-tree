@@ -1,1 +1,1 @@
-{"name": "Architecture_islamique", "id": 1221662, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Religion", "id": 84974}], "successors": [{"name": "Architecture_ottomane", "id": 9251842}, {"name": "Liste_de_mosquées", "id": 5043049}]}
+{"name": "Architecture_islamique", "id": 1221662, "predecessors": [{"name": "Culture_musulmane", "id": 360885}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Architecture_ottomane", "id": 9251842}, {"name": "Liste_de_mosquées", "id": 5043049}]}

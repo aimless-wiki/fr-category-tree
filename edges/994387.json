@@ -1,1 +1,1 @@
-{"name": "Jeu_vidéo_de_golf", "id": 994387, "predecessors": [{"name": "Jeu_vidéo_de_simulation", "id": 617540}, {"name": "Technologie", "id": 84695}], "successors": []}
+{"name": "Jeu_vidéo_de_golf", "id": 994387, "predecessors": [{"name": "Jeu_vidéo_de_sport", "id": 175037}, {"name": "Technologie", "id": 84695}], "successors": []}

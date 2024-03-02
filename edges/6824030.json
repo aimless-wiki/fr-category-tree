@@ -1,1 +1,1 @@
-{"name": "Palette_La_Réunion", "id": 6824030, "predecessors": [{"name": "Modèle_du_projet_maritime", "id": 838087}, {"name": "Palette_France", "id": 2690375}, {"name": "Modèle_France", "id": 451292}], "successors": []}
+{"name": "Palette_La_Réunion", "id": 6824030, "predecessors": [{"name": "Palette_Département_français", "id": 4284679}, {"name": "Modèle_du_projet_maritime", "id": 838087}, {"name": "Modèle_France", "id": 451292}, {"name": "Palette_France", "id": 2690375}], "successors": []}

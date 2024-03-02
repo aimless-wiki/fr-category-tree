@@ -1,1 +1,1 @@
-{"name": "Hôtel_de_ville", "id": 919194, "predecessors": [{"name": "Édifice-type", "id": 3403103}, {"name": "Infrastructure_touristique", "id": 1946654}, {"name": "Immobilier", "id": 156346}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Hôtel_de_ville", "id": 919194, "predecessors": [{"name": "Édifice-type", "id": 3403103}, {"name": "Infrastructure_touristique", "id": 1946654}, {"name": "Bâtiment", "id": 270001}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Hôtel_de_ville_en_Belgique", "id": 1704916}]}

@@ -1,1 +1,1 @@
-{"name": "Grammy_Hall_of_Fame_Award", "id": 4854683, "predecessors": [{"name": "Grammy_Awards", "id": 3683586}, {"name": "Fondation_en_1973", "id": 5532112}, {"name": "Médias", "id": 84985}], "successors": []}
+{"name": "Grammy_Hall_of_Fame_Award", "id": 4854683, "predecessors": [{"name": "Grammy_Awards", "id": 3683586}, {"name": "Hall_of_Fame", "id": 604330}, {"name": "Fondation_en_1973", "id": 5532112}], "successors": []}

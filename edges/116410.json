@@ -1,1 +1,1 @@
-{"name": "Capteur", "id": 116410, "predecessors": [{"name": "Composant_électrique", "id": 1068609}, {"name": "Composant_électronique", "id": 89359}, {"name": "Instrument_de_mesure", "id": 390899}], "successors": []}
+{"name": "Capteur", "id": 116410, "predecessors": [{"name": "Composant_électrique", "id": 1068609}, {"name": "Composant_électronique", "id": 89359}, {"name": "Instrument_de_mesure", "id": 390899}], "successors": [{"name": "Fabricant_de_caméras", "id": 7335501}]}

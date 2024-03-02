@@ -1,1 +1,1 @@
-{"name": "Chimie_quantique", "id": 94649, "predecessors": [{"name": "Chimie_physique", "id": 501275}, {"name": "Physique_quantique", "id": 94640}, {"name": "Académie", "id": 221421}], "successors": [{"name": "Liaison_chimique", "id": 476011}]}
+{"name": "Chimie_quantique", "id": 94649, "predecessors": [{"name": "Chimie_physique", "id": 501275}, {"name": "Physique_quantique", "id": 94640}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Liaison_chimique", "id": 476011}]}

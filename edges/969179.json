@@ -1,1 +1,1 @@
-{"name": "Alphabet_phonétique", "id": 969179, "predecessors": [{"name": "Alphabet", "id": 87678}, {"name": "Linguistique", "id": 81896}, {"name": "Écriture", "id": 114656}], "successors": []}
+{"name": "Alphabet_phonétique", "id": 969179, "predecessors": [{"name": "Alphabet", "id": 87678}, {"name": "Phonétique", "id": 81895}, {"name": "Écriture", "id": 114656}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Abbaye_partiellement_détruite", "id": 8760499, "predecessors": [{"name": "Immobilier", "id": 156346}, {"name": "Logement", "id": 404004}], "successors": []}
+{"name": "Abbaye_partiellement_détruite", "id": 8760499, "predecessors": [{"name": "Bâtiment", "id": 270001}, {"name": "Logement", "id": 404004}], "successors": []}

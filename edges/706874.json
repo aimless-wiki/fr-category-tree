@@ -1,1 +1,1 @@
-{"name": "Lac_artificiel", "id": 706874, "predecessors": [{"name": "Astronomie", "id": 80753}, {"name": "Stockage", "id": 860399}], "successors": [{"name": "Lac_de_barrage_aux_États-Unis", "id": 2080679}, {"name": "Lac_de_barrage_en_Italie", "id": 4912489}, {"name": "Lac_de_barrage_en_région_Occitanie", "id": 12711660}]}
+{"name": "Lac_artificiel", "id": 706874, "predecessors": [{"name": "Astronomie", "id": 80753}, {"name": "Stockage", "id": 860399}], "successors": [{"name": "Lac_de_barrage", "id": 994111}]}

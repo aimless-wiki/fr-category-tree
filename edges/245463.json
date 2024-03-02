@@ -1,1 +1,1 @@
-{"name": "Voie_à_Montréal", "id": 245463, "predecessors": [{"name": "Transport_à_Montréal", "id": 245479}, {"name": "Route_au_Québec", "id": 447499}, {"name": "Sciences_humaines_et_sociales", "id": 2320561}], "successors": []}
+{"name": "Voie_à_Montréal", "id": 245463, "predecessors": [{"name": "Transport_à_Montréal", "id": 245479}, {"name": "Route_au_Québec", "id": 447499}, {"name": "Accueil", "id": 1155637}], "successors": []}

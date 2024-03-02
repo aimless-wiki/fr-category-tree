@@ -1,1 +1,1 @@
-{"name": "Village_disparu", "id": 8146325, "predecessors": [{"name": "Géographie_rurale", "id": 435608}, {"name": "Astronomie", "id": 80753}, {"name": "Sciences_humaines_et_sociales", "id": 2320561}], "successors": []}
+{"name": "Village_disparu", "id": 8146325, "predecessors": [{"name": "Sciences_humaines_et_sociales", "id": 2320561}, {"name": "Géographie_rurale", "id": 435608}, {"name": "Astronomie", "id": 80753}], "successors": []}

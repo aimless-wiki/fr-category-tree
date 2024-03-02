@@ -1,1 +1,1 @@
-{"name": "Coureur_cycliste_allemand", "id": 207443, "predecessors": [{"name": "Sciences_humaines_et_sociales", "id": 2320561}, {"name": "Accueil", "id": 1155637}, {"name": "Métier", "id": 87726}], "successors": [{"name": "Coureur_cycliste_est-allemand", "id": 3153844}]}
+{"name": "Coureur_cycliste_allemand", "id": 207443, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Métier", "id": 87726}], "successors": [{"name": "Coureur_cycliste_est-allemand", "id": 3153844}]}

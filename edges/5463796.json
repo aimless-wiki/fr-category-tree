@@ -1,1 +1,1 @@
-{"name": "Étudiant_de_l'université_de_Tübingen", "id": 5463796, "predecessors": [{"name": "Université_en_Allemagne", "id": 121881}, {"name": "Éducation", "id": 84941}, {"name": "Commune_en_Bade-Wurtemberg", "id": 2839364}], "successors": []}
+{"name": "Étudiant_de_l'université_de_Tübingen", "id": 5463796, "predecessors": [{"name": "Bade-Wurtemberg", "id": 307713}, {"name": "Université_en_Allemagne", "id": 121881}, {"name": "Commune_en_Bade-Wurtemberg", "id": 2839364}], "successors": []}

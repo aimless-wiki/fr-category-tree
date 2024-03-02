@@ -1,1 +1,1 @@
-{"name": "Spécialité_à_base_de_tomates", "id": 3846082, "predecessors": [{"name": "Préparation_culinaire", "id": 3257048}, {"name": "Fruit_alimentaire", "id": 101492}], "successors": []}
+{"name": "Spécialité_à_base_de_tomates", "id": 3846082, "predecessors": [{"name": "Légume-fruit", "id": 7404743}, {"name": "Préparation_culinaire", "id": 3257048}], "successors": []}

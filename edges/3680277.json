@@ -1,1 +1,1 @@
-{"name": "Azine", "id": 3680277, "predecessors": [{"name": "Stéréochimie", "id": 589280}, {"name": "Composé_de_l'azote", "id": 482972}, {"name": "Hydrure", "id": 650845}], "successors": [{"name": "Pyrimidine", "id": 2818214}]}
+{"name": "Azine", "id": 3680277, "predecessors": [{"name": "Stéréochimie", "id": 589280}, {"name": "Composé_de_l'azote", "id": 482972}, {"name": "Hydrure", "id": 650845}], "successors": [{"name": "Quinoléine", "id": 3722841}, {"name": "Pyrimidine", "id": 2818214}]}

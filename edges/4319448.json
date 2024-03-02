@@ -1,1 +1,1 @@
-{"name": "Audit", "id": 4319448, "predecessors": [{"name": "Analyse_financière", "id": 122256}, {"name": "Management", "id": 84943}], "successors": [{"name": "Conseiller_maître_à_la_Cour_des_comptes", "id": 12450971}]}
+{"name": "Audit", "id": 4319448, "predecessors": [{"name": "Analyse_financière", "id": 122256}, {"name": "Management", "id": 84943}], "successors": [{"name": "Conseiller_maître_à_la_Cour_des_comptes", "id": 12450971}, {"name": "Conseiller_référendaire_à_la_Cour_des_comptes", "id": 12451029}]}

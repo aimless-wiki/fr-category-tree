@@ -1,1 +1,1 @@
-{"name": "Midi", "id": 13361216, "predecessors": [{"name": "Mesure_du_temps", "id": 88806}, {"name": "Sciences_humaines_et_sociales", "id": 2320561}, {"name": "Temps", "id": 113433}], "successors": []}
+{"name": "Midi", "id": 13361216, "predecessors": [{"name": "Mesure_du_temps", "id": 88806}, {"name": "Accueil", "id": 1155637}, {"name": "Temps", "id": 113433}], "successors": []}

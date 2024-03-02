@@ -1,1 +1,1 @@
-{"name": "Procédure_pénale", "id": 720440, "predecessors": [{"name": "Droit_pénal", "id": 448272}, {"name": "Droit", "id": 84954}], "successors": [{"name": "Police", "id": 89674}, {"name": "Procédure_pénale_en_France", "id": 1286379}]}
+{"name": "Procédure_pénale", "id": 720440, "predecessors": [{"name": "Droit_pénal", "id": 448272}, {"name": "Académie", "id": 221421}], "successors": [{"name": "Police", "id": 89674}, {"name": "Procédure_pénale_en_France", "id": 1286379}]}

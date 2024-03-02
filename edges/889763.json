@@ -1,1 +1,1 @@
-{"name": "Gestion_des_déchets", "id": 889763, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Management", "id": 84943}, {"name": "Industrie", "id": 84693}], "successors": [{"name": "Assainissement", "id": 977204}, {"name": "Recyclage", "id": 2728463}]}
+{"name": "Gestion_des_déchets", "id": 889763, "predecessors": [{"name": "Gestion_de_production", "id": 4556980}, {"name": "Accueil", "id": 1155637}, {"name": "Management", "id": 84943}], "successors": [{"name": "Assainissement", "id": 977204}, {"name": "Recyclage", "id": 2728463}]}

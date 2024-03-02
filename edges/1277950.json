@@ -1,1 +1,1 @@
-{"name": "Système_d'authentification", "id": 1277950, "predecessors": [{"name": "Systémique", "id": 235902}, {"name": "Sécurité_du_système_d'information", "id": 1112862}], "successors": [{"name": "Identification_personnelle", "id": 332150}]}
+{"name": "Système_d'authentification", "id": 1277950, "predecessors": [{"name": "Système", "id": 235899}, {"name": "Sécurité_du_système_d'information", "id": 1112862}], "successors": [{"name": "Identification_personnelle", "id": 332150}]}

@@ -1,1 +1,1 @@
-{"name": "Étudiant_de_l'Université_Carleton", "id": 7802737, "predecessors": [{"name": "Sciences_humaines_et_sociales", "id": 2320561}, {"name": "Accueil", "id": 1155637}, {"name": "Enseignement_supérieur", "id": 332674}], "successors": []}
+{"name": "Étudiant_de_l'Université_Carleton", "id": 7802737, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Enseignement_supérieur", "id": 332674}], "successors": []}

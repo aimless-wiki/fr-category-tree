@@ -1,1 +1,1 @@
-{"name": "Canberra", "id": 1020350, "predecessors": [{"name": "Ville_nouvelle", "id": 117106}, {"name": "Sciences_humaines_et_sociales", "id": 2320561}, {"name": "Démographie", "id": 89031}], "successors": [{"name": "Naissance_à_Canberra", "id": 2961135}, {"name": "Décès_à_Canberra", "id": 6765032}]}
+{"name": "Canberra", "id": 1020350, "predecessors": [{"name": "Ville_nouvelle", "id": 117106}, {"name": "Accueil", "id": 1155637}, {"name": "Démographie", "id": 89031}], "successors": [{"name": "Naissance_à_Canberra", "id": 2961135}, {"name": "Décès_à_Canberra", "id": 6765032}]}

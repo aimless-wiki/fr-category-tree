@@ -1,1 +1,1 @@
-{"name": "Télescope_spatial_à_rayons_X", "id": 251689, "predecessors": [{"name": "Observatoire_spatial", "id": 160897}, {"name": "Techniques_et_sciences_appliquées", "id": 85441}, {"name": "Optique_ondulatoire", "id": 824493}], "successors": []}
+{"name": "Télescope_spatial_à_rayons_X", "id": 251689, "predecessors": [{"name": "Observatoire_spatial", "id": 160897}, {"name": "Techniques_et_sciences_appliquées", "id": 85441}, {"name": "Observation_du_ciel", "id": 982488}], "successors": []}

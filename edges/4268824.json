@@ -1,1 +1,1 @@
-{"name": "École_secondaire_en_Belgique", "id": 4268824, "predecessors": [{"name": "Éducation", "id": 84941}, {"name": "Édifice-type", "id": 3403103}, {"name": "Astronomie", "id": 80753}], "successors": []}
+{"name": "École_secondaire_en_Belgique", "id": 4268824, "predecessors": [{"name": "Éducation", "id": 84941}, {"name": "Bâtiment", "id": 270001}, {"name": "Édifice-type", "id": 3403103}], "successors": []}
