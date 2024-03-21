@@ -1,1 +1,1 @@
-{"name": "Transport_maritime", "id": 112567, "predecessors": [{"name": "Eau", "id": 189766}], "successors": [{"name": "Compagnie_maritime", "id": 300353}, {"name": "Navigation_maritime", "id": 4282264}]}
+{"name": "Transport_maritime", "id": 112567, "predecessors": [{"name": "Eau", "id": 189766}], "successors": [{"name": "Compagnie_maritime", "id": 300353}, {"name": "Navigation_maritime", "id": 4282264}, {"name": "Compagnie_maritime_ayant_son_siège_en_France", "id": 394185}]}

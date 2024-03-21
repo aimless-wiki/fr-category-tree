@@ -1,1 +1,1 @@
-{"name": "Entreprise_pharmaceutique_ayant_son_siège_en_France", "id": 916361, "predecessors": [{"name": "Entreprise_du_secteur_de_la_chimie_ayant_son_siège_en_France", "id": 6543966}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Entreprise_pharmaceutique_ayant_son_siège_en_France", "id": 916361, "predecessors": [{"name": "Entreprise_du_secteur_de_la_chimie_ayant_son_siège_en_France", "id": 6543966}, {"name": "Économie_de_la_santé", "id": 5018828}, {"name": "Accueil", "id": 1155637}], "successors": []}

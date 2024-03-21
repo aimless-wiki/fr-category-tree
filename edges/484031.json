@@ -1,1 +1,1 @@
-{"name": "Composé_du_fer", "id": 484031, "predecessors": [{"name": "Chimie_générale", "id": 456442}, {"name": "Minerai", "id": 552974}], "successors": [{"name": "Fer_(minéral)", "id": 3400784}, {"name": "Sidérurgie", "id": 927851}, {"name": "Sculpture_en_acier", "id": 5208090}]}
+{"name": "Composé_du_fer", "id": 484031, "predecessors": [{"name": "Chimie_générale", "id": 456442}, {"name": "Minerai", "id": 552974}], "successors": [{"name": "Fer_(minéral)", "id": 3400784}, {"name": "Acier", "id": 497287}]}

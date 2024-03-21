@@ -1,1 +1,1 @@
-{"name": "Palette_Porte-drapeau_olympique", "id": 7279818, "predecessors": [{"name": "Porte-drapeau_olympique", "id": 2944803}, {"name": "Modèle_Jeux_olympiques", "id": 3217587}], "successors": []}
+{"name": "Palette_Porte-drapeau_olympique", "id": 7279818, "predecessors": [{"name": "Drapeau", "id": 100310}, {"name": "Modèle_Jeux_olympiques", "id": 3217587}], "successors": []}

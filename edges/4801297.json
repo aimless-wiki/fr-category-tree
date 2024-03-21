@@ -1,1 +1,1 @@
-{"name": "Jeu_Nintendo_3DS", "id": 4801297, "predecessors": [{"name": "Jeu_vidéo", "id": 85212}, {"name": "Culture_informatique", "id": 262500}], "successors": [{"name": "Jeu_Nintendo_eShop_(Nintendo_3DS)", "id": 11569339}]}
+{"name": "Jeu_Nintendo_3DS", "id": 4801297, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Culture_informatique", "id": 262500}], "successors": [{"name": "Jeu_Nintendo_eShop_(Nintendo_3DS)", "id": 11569339}]}

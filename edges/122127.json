@@ -1,1 +1,1 @@
-{"name": "Restauration_rapide", "id": 122127, "predecessors": [{"name": "Type_de_restauration", "id": 1076964}, {"name": "Tourisme", "id": 84924}], "successors": [{"name": "Pizza", "id": 4967927}, {"name": "Cuisine_de_rue", "id": 6695316}]}
+{"name": "Restauration_rapide", "id": 122127, "predecessors": [{"name": "Type_de_restauration", "id": 1076964}, {"name": "Tourisme", "id": 84924}], "successors": [{"name": "Cuisine_de_rue", "id": 6695316}]}

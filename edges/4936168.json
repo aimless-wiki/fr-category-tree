@@ -1,1 +1,1 @@
-{"name": "Jeu_de_rôle_en_ligne_massivement_multijoueur", "id": 4936168, "predecessors": [{"name": "Jeu_en_ligne_massivement_multijoueur", "id": 974752}, {"name": "Jeu_vidéo_de_rôle", "id": 252311}, {"name": "Jeu_vidéo", "id": 85212}], "successors": []}
+{"name": "Jeu_de_rôle_en_ligne_massivement_multijoueur", "id": 4936168, "predecessors": [{"name": "Jeu_en_ligne_massivement_multijoueur", "id": 974752}, {"name": "Jeu_vidéo_de_rôle", "id": 252311}, {"name": "Accueil", "id": 1155637}], "successors": []}

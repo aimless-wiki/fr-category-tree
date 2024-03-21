@@ -1,1 +1,1 @@
-{"name": "Tour_de_Colombie", "id": 4885550, "predecessors": [{"name": "UCI_America_Tour", "id": 2751427}, {"name": "XXe_siècle", "id": 580597}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Vainqueur_d'étape_du_Tour_de_Colombie", "id": 9295006}]}
+{"name": "Tour_de_Colombie", "id": 4885550, "predecessors": [{"name": "UCI_America_Tour", "id": 2751427}, {"name": "Calendrier", "id": 114194}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Vainqueur_d'étape_du_Tour_de_Colombie", "id": 9295006}]}
