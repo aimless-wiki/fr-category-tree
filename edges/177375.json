@@ -1,1 +1,1 @@
-{"name": "Physique_du_solide", "id": 177375, "predecessors": [{"name": "Physique_de_la_matière_condensée", "id": 177015}], "successors": [{"name": "Cristallographie", "id": 87073}, {"name": "Science_des_matériaux", "id": 94638}, {"name": "Semi-conducteur", "id": 365339}]}
+{"name": "Physique_du_solide", "id": 177375, "predecessors": [{"name": "Physique_de_la_matière_condensée", "id": 177015}], "successors": [{"name": "Cristallographie", "id": 87073}, {"name": "Science_des_matériaux", "id": 94638}]}

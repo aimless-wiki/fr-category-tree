@@ -1,1 +1,1 @@
-{"name": "Utilisateur_musique_classique", "id": 1110345, "predecessors": [{"name": "Accueil", "id": 1155637}], "successors": [{"name": "Utilisateur_Bach", "id": 1093956}, {"name": "Utilisateur_Chopin", "id": 2925207}, {"name": "Utilisateur_Mozart", "id": 2925214}]}
+{"name": "Utilisateur_musique_classique", "id": 1110345, "predecessors": [{"name": "Accueil", "id": 1155637}], "successors": [{"name": "Utilisateur_Bach", "id": 1093956}, {"name": "Utilisateur_Mozart", "id": 2925214}]}

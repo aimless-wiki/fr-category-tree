@@ -1,1 +1,1 @@
-{"name": "Tabac", "id": 232414, "predecessors": [{"name": "Santé_publique", "id": 99549}, {"name": "Feu", "id": 157850}], "successors": [{"name": "Fumeur_de_fiction", "id": 3348617}, {"name": "Marque_de_cigarette", "id": 497054}]}
+{"name": "Tabac", "id": 232414, "predecessors": [{"name": "Santé_publique", "id": 99549}, {"name": "Feu", "id": 157850}], "successors": [{"name": "Fumeur_de_fiction", "id": 3348617}, {"name": "Marque_de_cigarette", "id": 497054}, {"name": "Pipe_dans_la_peinture", "id": 16202386}]}

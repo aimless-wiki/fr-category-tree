@@ -1,1 +1,1 @@
-{"name": "Nom_de_code", "id": 2474914, "predecessors": [{"name": "Défense_et_sécurité", "id": 84953}, {"name": "Sécurité_de_l'information", "id": 980700}, {"name": "Tradition", "id": 149284}], "successors": [{"name": "Projet_Manhattan", "id": 7611669}]}
+{"name": "Nom_de_code", "id": 2474914, "predecessors": [{"name": "Défense_et_sécurité", "id": 84953}, {"name": "Sécurité_de_l'information", "id": 980700}, {"name": "Cryptologie", "id": 83972}, {"name": "Tradition", "id": 149284}], "successors": [{"name": "Projet_Manhattan", "id": 7611669}]}

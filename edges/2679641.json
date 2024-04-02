@@ -1,1 +1,1 @@
-{"name": "Modèle_Paris", "id": 2679641, "predecessors": [{"name": "Modèle_France", "id": 451292}], "successors": [{"name": "Palette_Paris", "id": 5793012}]}
+{"name": "Modèle_Paris", "id": 2679641, "predecessors": [{"name": "Modèle_France", "id": 451292}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Palette_Paris", "id": 5793012}]}
