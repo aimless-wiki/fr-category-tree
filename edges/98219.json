@@ -1,1 +1,1 @@
-{"name": "Connectique", "id": 98219, "predecessors": [{"name": "Composant_électronique", "id": 89359}, {"name": "Matériel_informatique", "id": 126616}], "successors": []}
+{"name": "Connectique", "id": 98219, "predecessors": [{"name": "Composant_électronique", "id": 89359}, {"name": "Matériel_informatique", "id": 126616}], "successors": [{"name": "Connecteur", "id": 1068906}]}

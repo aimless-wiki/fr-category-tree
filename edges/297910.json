@@ -1,1 +1,1 @@
-{"name": "Sismologie", "id": 297910, "predecessors": [{"name": "Académie", "id": 221421}], "successors": [{"name": "Tectonique", "id": 132722}, {"name": "Sismologue", "id": 298363}]}
+{"name": "Sismologie", "id": 297910, "predecessors": [{"name": "Géophysique", "id": 94019}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Tectonique", "id": 132722}, {"name": "Sismologue", "id": 298363}]}

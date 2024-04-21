@@ -1,1 +1,1 @@
-{"name": "Cadran_solaire", "id": 576669, "predecessors": [{"name": "Instrument_astronomique", "id": 160595}], "successors": []}
+{"name": "Cadran_solaire", "id": 576669, "predecessors": [{"name": "Instrument_astronomique", "id": 160595}, {"name": "Mesure_du_temps", "id": 88806}], "successors": []}

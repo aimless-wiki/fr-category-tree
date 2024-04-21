@@ -1,1 +1,1 @@
-{"name": "Char_de_la_guerre_froide", "id": 4440048, "predecessors": [{"name": "Arme_de_la_guerre_froide", "id": 2897341}, {"name": "Guerre_froide", "id": 130553}, {"name": "Arme", "id": 87379}], "successors": []}
+{"name": "Char_de_la_guerre_froide", "id": 4440048, "predecessors": [{"name": "Arme_de_la_guerre_froide", "id": 2897341}, {"name": "Blindé_de_la_guerre_froide", "id": 4438471}, {"name": "Arme", "id": 87379}], "successors": []}

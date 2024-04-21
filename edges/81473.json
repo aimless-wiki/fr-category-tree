@@ -1,1 +1,1 @@
-{"name": "Soleil", "id": 81473, "predecessors": [{"name": "Étoile_de_type_spectral_GV", "id": 3370087}, {"name": "Astronomie", "id": 80753}], "successors": [{"name": "Énergie_solaire", "id": 662673}, {"name": "Éclipse_solaire", "id": 723652}]}
+{"name": "Soleil", "id": 81473, "predecessors": [{"name": "Étoile_de_type_spectral_GV", "id": 3370087}, {"name": "Astronomie", "id": 80753}], "successors": [{"name": "Énergie_solaire", "id": 662673}, {"name": "Éclipse_solaire", "id": 723652}, {"name": "Coucher_de_soleil_dans_la_peinture", "id": 12839621}]}

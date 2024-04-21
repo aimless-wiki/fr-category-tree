@@ -1,1 +1,1 @@
-{"name": "Mort_dans_un_bombardement", "id": 9865138, "predecessors": [{"name": "Bombardement_aérien", "id": 7754493}, {"name": "Physiologie", "id": 99442}, {"name": "Guerre", "id": 82473}], "successors": [{"name": "Personnalité_exécutée_par_une_frappe_de_drone", "id": 7504813}]}
+{"name": "Mort_dans_un_bombardement", "id": 9865138, "predecessors": [{"name": "Bombardement_aérien", "id": 7754493}, {"name": "Physiologie", "id": 99442}, {"name": "Conséquences_d'une_guerre", "id": 15097724}], "successors": [{"name": "Personnalité_exécutée_par_une_frappe_de_drone", "id": 7504813}]}

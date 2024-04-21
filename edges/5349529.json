@@ -1,1 +1,1 @@
-{"name": "Palette_Christianisme", "id": 5349529, "predecessors": [{"name": "Accueil", "id": 1155637}], "successors": [{"name": "Palette_Catholicisme", "id": 6630909}, {"name": "Palette_Diocèses_anglican", "id": 11521864}]}
+{"name": "Palette_Christianisme", "id": 5349529, "predecessors": [{"name": "Palette_Religion", "id": 3406501}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Palette_Catholicisme", "id": 6630909}, {"name": "Palette_Diocèses_anglican", "id": 11521864}]}
