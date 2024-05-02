@@ -1,1 +1,1 @@
-{"name": "Produit_chimique_qui_réagit_avec_l'eau", "id": 3550244, "predecessors": [{"name": "Sécurité", "id": 144579}, {"name": "Concept_en_physique", "id": 6763455}, {"name": "Eau", "id": 189766}], "successors": []}
+{"name": "Produit_chimique_qui_réagit_avec_l'eau", "id": 3550244, "predecessors": [{"name": "Sécurité", "id": 144579}, {"name": "Eau", "id": 189766}, {"name": "Industrie", "id": 84693}], "successors": []}

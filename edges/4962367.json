@@ -1,1 +1,1 @@
-{"name": "Mystification", "id": 4962367, "predecessors": [{"name": "Fraude", "id": 530307}, {"name": "Imposture", "id": 1895139}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Mystification", "id": 4962367, "predecessors": [{"name": "Escroquerie", "id": 6687287}, {"name": "Fraude", "id": 530307}, {"name": "Imposture", "id": 1895139}, {"name": "Communication", "id": 84690}, {"name": "Accueil", "id": 1155637}, {"name": "Sciences_humaines_et_sociales", "id": 2320561}], "successors": [{"name": "Pseudo-science", "id": 165719}]}

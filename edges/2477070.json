@@ -1,1 +1,1 @@
-{"name": "Architecture_Power", "id": 2477070, "predecessors": [{"name": "Architecture_informatique", "id": 216174}, {"name": "Matériel_IBM", "id": 3169520}, {"name": "Microprocesseur", "id": 175718}], "successors": [{"name": "Jeu_Wii", "id": 794438}]}
+{"name": "Architecture_Power", "id": 2477070, "predecessors": [{"name": "Architecture_informatique", "id": 216174}, {"name": "Matériel_IBM", "id": 3169520}, {"name": "Microprocesseur", "id": 175718}], "successors": [{"name": "Jeu_Wii", "id": 794438}, {"name": "Jeu_Wii_U", "id": 5580521}]}

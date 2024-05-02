@@ -1,1 +1,1 @@
-{"name": "Produit_chimique_nocif", "id": 3448664, "predecessors": [{"name": "Sécurité", "id": 144579}, {"name": "Concept_en_physique", "id": 6763455}], "successors": []}
+{"name": "Produit_chimique_nocif", "id": 3448664, "predecessors": [{"name": "Sécurité", "id": 144579}, {"name": "Industrie", "id": 84693}], "successors": []}

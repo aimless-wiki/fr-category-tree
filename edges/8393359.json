@@ -1,0 +1,1 @@
+{"name": "Soudage", "id": 8393359, "predecessors": [{"name": "Acier", "id": 497287}, {"name": "Métallurgie", "id": 99484}, {"name": "Technique_de_transformation_des_métaux", "id": 497442}, {"name": "Ingénierie", "id": 84694}, {"name": "Génie_énergétique", "id": 1189417}, {"name": "Technique_industrielle", "id": 1060255}, {"name": "Plastique", "id": 5239685}], "successors": []}

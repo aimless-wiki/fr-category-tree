@@ -1,1 +1,1 @@
-{"name": "Produit_chimique_toxique", "id": 3448700, "predecessors": [{"name": "Sécurité", "id": 144579}, {"name": "Toxicologie", "id": 99455}, {"name": "Concept_en_physique", "id": 6763455}], "successors": [{"name": "Produit_chimique_très_toxique", "id": 3448768}]}
+{"name": "Produit_chimique_toxique", "id": 3448700, "predecessors": [{"name": "Sécurité", "id": 144579}, {"name": "Toxicologie", "id": 99455}, {"name": "Industrie", "id": 84693}], "successors": [{"name": "Produit_chimique_très_toxique", "id": 3448768}]}

@@ -1,1 +1,1 @@
-{"name": "Composant_de_parfum", "id": 704311, "predecessors": [{"name": "Neurosciences", "id": 4141992}, {"name": "Concept_en_physique", "id": 6763455}], "successors": [{"name": "Plante_à_parfum", "id": 290272}, {"name": "Huile_essentielle", "id": 494889}]}
+{"name": "Composant_de_parfum", "id": 704311, "predecessors": [{"name": "Neurosciences", "id": 4141992}, {"name": "Industrie", "id": 84693}], "successors": [{"name": "Plante_à_parfum", "id": 290272}, {"name": "Huile_essentielle", "id": 494889}]}

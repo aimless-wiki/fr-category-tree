@@ -1,1 +1,1 @@
-{"name": "Arôme", "id": 2135933, "predecessors": [{"name": "Additif_alimentaire", "id": 301431}, {"name": "Perception", "id": 360640}, {"name": "Concept_en_physique", "id": 6763455}, {"name": "Neurosciences", "id": 4141992}], "successors": [{"name": "Huile_essentielle", "id": 494889}]}
+{"name": "Arôme", "id": 2135933, "predecessors": [{"name": "Additif_alimentaire", "id": 301431}, {"name": "Perception", "id": 360640}, {"name": "Neurosciences", "id": 4141992}, {"name": "Industrie", "id": 84693}], "successors": [{"name": "Huile_essentielle", "id": 494889}]}

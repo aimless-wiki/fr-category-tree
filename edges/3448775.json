@@ -1,1 +1,1 @@
-{"name": "Produit_chimique_facilement_inflammable", "id": 3448775, "predecessors": [{"name": "Sécurité", "id": 144579}, {"name": "Feu", "id": 157850}, {"name": "Concept_en_physique", "id": 6763455}], "successors": []}
+{"name": "Produit_chimique_facilement_inflammable", "id": 3448775, "predecessors": [{"name": "Sécurité", "id": 144579}, {"name": "Feu", "id": 157850}, {"name": "Industrie", "id": 84693}], "successors": []}

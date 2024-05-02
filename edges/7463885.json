@@ -1,1 +1,1 @@
-{"name": "Navire_construit_en_Finlande", "id": 7463885, "predecessors": [{"name": "Eau", "id": 189766}, {"name": "Europe", "id": 82819}], "successors": [{"name": "Navire_construit_à_Turku", "id": 7491205}]}
+{"name": "Navire_construit_en_Finlande", "id": 7463885, "predecessors": [{"name": "Transport_en_Finlande", "id": 493272}, {"name": "Eau", "id": 189766}, {"name": "Europe", "id": 82819}], "successors": [{"name": "Navire_construit_à_Turku", "id": 7491205}]}

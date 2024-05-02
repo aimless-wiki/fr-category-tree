@@ -1,1 +1,1 @@
-{"name": "Quartier_de_Manhattan", "id": 4860543, "predecessors": [{"name": "Manhattan", "id": 4516320}, {"name": "Aménagement_du_territoire", "id": 367727}], "successors": [{"name": "Harlem", "id": 1476573}, {"name": "Upper_East_Side", "id": 9763015}]}
+{"name": "Quartier_de_Manhattan", "id": 4860543, "predecessors": [{"name": "Manhattan", "id": 4516320}, {"name": "Aménagement_du_territoire", "id": 367727}], "successors": [{"name": "Harlem", "id": 1476573}, {"name": "Upper_East_Side", "id": 9763015}, {"name": "Greenwich_Village", "id": 9909820}]}
