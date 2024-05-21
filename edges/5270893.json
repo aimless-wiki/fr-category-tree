@@ -1,1 +1,1 @@
-{"name": "Étudiant_de_l'université_de_Padoue", "id": 5270893, "predecessors": [{"name": "Université_en_Italie", "id": 271005}, {"name": "Éducation", "id": 84941}], "successors": []}
+{"name": "Étudiant_de_l'université_de_Padoue", "id": 5270893, "predecessors": [{"name": "Éducation", "id": 84941}, {"name": "Europe", "id": 82819}], "successors": []}

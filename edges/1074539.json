@@ -1,1 +1,1 @@
-{"name": "Entraîneur_soviétique_de_football", "id": 1074539, "predecessors": [{"name": "Métier", "id": 87726}, {"name": "Culture_russe", "id": 423897}], "successors": []}
+{"name": "Entraîneur_soviétique_de_football", "id": 1074539, "predecessors": [{"name": "Entraînement_sportif", "id": 895269}, {"name": "Culture_russe", "id": 423897}], "successors": []}

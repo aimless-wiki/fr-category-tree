@@ -1,1 +1,1 @@
-{"name": "Biochimiste_français", "id": 2830282, "predecessors": [{"name": "Scientifique_français", "id": 145177}, {"name": "Biochimie", "id": 93886}], "successors": []}
+{"name": "Biochimiste_français", "id": 2830282, "predecessors": [{"name": "Biochimie", "id": 93886}, {"name": "Métier", "id": 87726}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Danse_baroque", "id": 15258187, "predecessors": [{"name": "Danse_ancienne", "id": 464357}, {"name": "Mouvement_artistique", "id": 129554}, {"name": "Genre_musical_classique", "id": 196195}], "successors": []}
+{"name": "Danse_baroque", "id": 15258187, "predecessors": [{"name": "Danse_ancienne", "id": 464357}, {"name": "Genre_musical_classique", "id": 196195}, {"name": "Histoire_du_catholicisme", "id": 381484}], "successors": []}

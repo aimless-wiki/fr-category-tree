@@ -1,1 +1,1 @@
-{"name": "Étudiant_de_l'université_de_Valence", "id": 5912308, "predecessors": [{"name": "Université_en_Espagne", "id": 486333}, {"name": "Enseignement_supérieur", "id": 332674}], "successors": []}
+{"name": "Étudiant_de_l'université_de_Valence", "id": 5912308, "predecessors": [{"name": "Enseignement_supérieur", "id": 332674}, {"name": "Europe", "id": 82819}], "successors": []}

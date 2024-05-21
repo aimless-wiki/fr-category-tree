@@ -1,1 +1,1 @@
-{"name": "Skipper_suédois", "id": 5529625, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Logistique", "id": 441337}], "successors": []}
+{"name": "Skipper_suédois", "id": 5529625, "predecessors": [{"name": "Navigation_maritime", "id": 4282264}, {"name": "Accueil", "id": 1155637}, {"name": "Logistique", "id": 441337}], "successors": []}

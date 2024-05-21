@@ -1,1 +1,1 @@
-{"name": "Monarque_tué_au_combat", "id": 11382995, "predecessors": [{"name": "Guerre", "id": 82473}, {"name": "Politique", "id": 84966}], "successors": []}
+{"name": "Monarque_tué_au_combat", "id": 11382995, "predecessors": [{"name": "Mort_à_la_guerre", "id": 289030}, {"name": "Politique", "id": 84966}], "successors": [{"name": "Anglo-Normands", "id": 1303337}]}

@@ -1,1 +1,1 @@
-{"name": "Pain", "id": 105788, "predecessors": [{"name": "Alimentation_humaine", "id": 3930512}], "successors": [{"name": "Pain_sucré", "id": 14109848}]}
+{"name": "Pain", "id": 105788, "predecessors": [{"name": "Céréale", "id": 100330}, {"name": "Alimentation_humaine", "id": 3930512}], "successors": [{"name": "Pain_sucré", "id": 14109848}]}

@@ -1,1 +1,1 @@
-{"name": "Étudiant_de_l'université_de_Pise", "id": 5270918, "predecessors": [{"name": "Université_en_Italie", "id": 271005}, {"name": "Chef-lieu_de_province_en_Italie", "id": 4560199}, {"name": "Éducation", "id": 84941}], "successors": []}
+{"name": "Étudiant_de_l'université_de_Pise", "id": 5270918, "predecessors": [{"name": "Chef-lieu_de_province_en_Italie", "id": 4560199}, {"name": "Éducation", "id": 84941}, {"name": "Europe", "id": 82819}], "successors": []}

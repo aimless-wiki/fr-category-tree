@@ -1,1 +1,1 @@
-{"name": "Système_d'exploitation_Apple", "id": 7266086, "predecessors": [{"name": "Logiciel_Apple", "id": 282685}, {"name": "Logiciel", "id": 82489}], "successors": [{"name": "IOS", "id": 5537867}, {"name": "Logiciel_pour_Mac_OS", "id": 519907}, {"name": "MacOS", "id": 3167893}]}
+{"name": "Système_d'exploitation_Apple", "id": 7266086, "predecessors": [{"name": "Logiciel_Apple", "id": 282685}, {"name": "Logiciel", "id": 82489}], "successors": [{"name": "IOS", "id": 5537867}, {"name": "Logiciel_pour_macOS", "id": 519907}, {"name": "MacOS", "id": 3167893}]}

@@ -1,1 +1,1 @@
-{"name": "Analgésique", "id": 270098, "predecessors": [{"name": "Classe_pharmacologique", "id": 131501}, {"name": "Neurologie", "id": 99377}], "successors": []}
+{"name": "Analgésique", "id": 270098, "predecessors": [{"name": "Classe_pharmacologique", "id": 131501}, {"name": "Neurologie", "id": 99377}], "successors": [{"name": "Anti-inflammatoire_non_stéroïdien", "id": 5559703}]}

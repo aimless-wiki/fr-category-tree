@@ -1,1 +1,1 @@
-{"name": "Crypto-monnaie", "id": 7867692, "predecessors": [{"name": "Pair_à_pair", "id": 7404969}, {"name": "Logiciel_de_cryptographie", "id": 224977}, {"name": "Monnaie", "id": 85361}], "successors": []}
+{"name": "Crypto-monnaie", "id": 7867692, "predecessors": [{"name": "Pair_à_pair", "id": 7404969}, {"name": "Monnaie", "id": 85361}, {"name": "Sécurité_du_système_d'information", "id": 1112862}], "successors": []}

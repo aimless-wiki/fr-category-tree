@@ -1,1 +1,1 @@
-{"name": "Membre_du_comité_de_lecture_des_éditions_Gallimard", "id": 15546159, "predecessors": [{"name": "Éditeur_français", "id": 332541}, {"name": "Maison_d'édition_ayant_son_siège_en_France", "id": 807654}], "successors": []}
+{"name": "Membre_du_comité_de_lecture_des_éditions_Gallimard", "id": 15546159, "predecessors": [{"name": "Maison_d'édition_ayant_son_siège_en_France", "id": 807654}, {"name": "Europe", "id": 82819}], "successors": []}

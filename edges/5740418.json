@@ -1,1 +1,1 @@
-{"name": "Institution_jésuite", "id": 5740418, "predecessors": [{"name": "Compagnie_de_Jésus", "id": 784693}], "successors": [{"name": "Église_jésuite", "id": 1687179}]}
+{"name": "Institution_jésuite", "id": 5740418, "predecessors": [{"name": "Compagnie_de_Jésus", "id": 784693}, {"name": "Bâtiment", "id": 270001}], "successors": [{"name": "École_de_tradition_jésuite", "id": 1377597}, {"name": "Église_jésuite", "id": 1687179}]}

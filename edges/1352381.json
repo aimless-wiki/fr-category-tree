@@ -1,1 +1,1 @@
-{"name": "Classe_de_voilier", "id": 1352381, "predecessors": [{"name": "Classe_de_bateau", "id": 6023245}, {"name": "Type_de_voilier", "id": 10140127}, {"name": "Compétition_de_voile", "id": 5667362}, {"name": "Type_de_bateaux", "id": 674247}], "successors": []}
+{"name": "Classe_de_voilier", "id": 1352381, "predecessors": [{"name": "Type_de_voilier", "id": 10140127}, {"name": "Compétition_de_voile", "id": 5667362}, {"name": "Type_de_bateaux", "id": 674247}], "successors": []}
