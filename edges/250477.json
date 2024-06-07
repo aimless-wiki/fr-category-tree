@@ -1,1 +1,1 @@
-{"name": "Album_de_pop_rock", "id": 250477, "predecessors": [{"name": "Album_de_rock", "id": 383971}, {"name": "Album_de_pop", "id": 2920316}], "successors": [{"name": "Album_de_Paul_McCartney", "id": 1289468}, {"name": "Album_d'Elton_John", "id": 1985675}]}
+{"name": "Album_de_pop_rock", "id": 250477, "predecessors": [{"name": "Album_de_rock", "id": 383971}, {"name": "Album_de_pop", "id": 2920316}, {"name": "Genre_de_pop", "id": 1823912}], "successors": [{"name": "Album_de_Paul_McCartney", "id": 1289468}, {"name": "Album_d'Elton_John", "id": 1985675}]}

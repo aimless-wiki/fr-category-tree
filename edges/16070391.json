@@ -1,1 +1,1 @@
-{"name": "Palette_Entreprise_de_jeux_vidéo", "id": 16070391, "predecessors": [{"name": "Palette_Entreprise", "id": 2710783}, {"name": "Palette_Jeu_vidéo", "id": 2788936}], "successors": [{"name": "Palette_Série_de_jeux_vidéo_Sega", "id": 13408088}]}
+{"name": "Palette_Entreprise_de_jeux_vidéo", "id": 16070391, "predecessors": [{"name": "Palette_Entreprise", "id": 2710783}, {"name": "Palette_Informatique", "id": 2690255}], "successors": [{"name": "Palette_Série_de_jeux_vidéo_Sega", "id": 13408088}]}

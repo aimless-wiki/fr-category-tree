@@ -1,1 +1,1 @@
-{"name": "Gestion_d'actifs", "id": 440984, "predecessors": [{"name": "Finance_de_marché", "id": 129972}], "successors": [{"name": "Fonds_d'investissement", "id": 723682}]}
+{"name": "Gestion_d'actifs", "id": 440984, "predecessors": [{"name": "Finance_de_marché", "id": 129972}], "successors": [{"name": "Fonds_d'investissement", "id": 723682}, {"name": "Gestion_des_risques", "id": 7428506}]}

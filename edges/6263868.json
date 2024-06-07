@@ -1,1 +1,1 @@
-{"name": "Interne_des_hôpitaux_de_Paris", "id": 6263868, "predecessors": [{"name": "Médecine", "id": 82499}, {"name": "Histoire_de_la_médecine", "id": 151125}], "successors": []}
+{"name": "Interne_des_hôpitaux_de_Paris", "id": 6263868, "predecessors": [{"name": "Histoire_de_la_médecine", "id": 151125}, {"name": "Médecine", "id": 82499}], "successors": []}
