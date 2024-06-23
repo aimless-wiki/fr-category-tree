@@ -1,1 +1,1 @@
-{"name": "Plante_d'intérieur", "id": 445708, "predecessors": [{"name": "Plante_ornementale", "id": 214729}], "successors": []}
+{"name": "Plante_d'intérieur", "id": 445708, "predecessors": [{"name": "Plante_ornementale", "id": 214729}, {"name": "Logement", "id": 404004}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Palette_Route", "id": 6385482, "predecessors": [{"name": "Modèle_technique", "id": 5762214}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Palette_Autoroute", "id": 15129469}]}
+{"name": "Palette_Route", "id": 6385482, "predecessors": [{"name": "Modèle_route", "id": 3652089}, {"name": "Modèle_technique", "id": 5762214}], "successors": [{"name": "Palette_Autoroute", "id": 15129469}]}
