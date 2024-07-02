@@ -1,1 +1,1 @@
-{"name": "Liste_d'églises", "id": 3694000, "predecessors": [{"name": "Liste_de_bâtiments", "id": 117560}, {"name": "Christianisme", "id": 82479}, {"name": "Infrastructure_touristique", "id": 1946654}], "successors": []}
+{"name": "Liste_d'églises", "id": 3694000, "predecessors": [{"name": "Liste_de_bâtiments", "id": 117560}, {"name": "Christianisme", "id": 82479}, {"name": "Infrastructure_touristique", "id": 1946654}], "successors": [{"name": "Liste_d'églises_en_France_par_département", "id": 14949356}]}

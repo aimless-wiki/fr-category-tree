@@ -1,1 +1,1 @@
-{"name": "Sécurité_du_système_d'exploitation", "id": 1023344, "predecessors": [{"name": "Logiciel_de_sécurité_informatique", "id": 176986}, {"name": "Sécurité_informatique", "id": 84618}, {"name": "Logiciel", "id": 82489}], "successors": []}
+{"name": "Sécurité_du_système_d'exploitation", "id": 1023344, "predecessors": [{"name": "Logiciel_de_sécurité_informatique", "id": 176986}, {"name": "Système_d'exploitation", "id": 82488}, {"name": "Sécurité_informatique", "id": 84618}], "successors": []}

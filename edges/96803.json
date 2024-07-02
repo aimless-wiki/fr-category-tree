@@ -1,1 +1,1 @@
-{"name": "Chirurgie", "id": 96803, "predecessors": [{"name": "Médecine", "id": 82499}], "successors": [{"name": "Transplantation_médicale", "id": 541987}, {"name": "Traitement_chirurgical", "id": 1444467}, {"name": "Chirurgien_de_fiction", "id": 1670164}]}
+{"name": "Chirurgie", "id": 96803, "predecessors": [{"name": "Médecine", "id": 82499}], "successors": [{"name": "Transplantation_médicale", "id": 541987}, {"name": "Traitement_chirurgical", "id": 1444467}, {"name": "Chirurgien_de_fiction", "id": 1670164}, {"name": "Chirurgien_du_XXe_siècle", "id": 15349600}]}

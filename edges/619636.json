@@ -1,1 +1,1 @@
-{"name": "Logiciel_pour_DOS", "id": 619636, "predecessors": [{"name": "Logiciel", "id": 82489}], "successors": [{"name": "Jeu_DOS", "id": 6807753}]}
+{"name": "Logiciel_pour_DOS", "id": 619636, "predecessors": [{"name": "Logiciel", "id": 82489}, {"name": "Système_d'exploitation", "id": 82488}], "successors": [{"name": "Jeu_DOS", "id": 6807753}]}

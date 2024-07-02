@@ -1,1 +1,1 @@
-{"name": "Composant_Windows", "id": 1095776, "predecessors": [{"name": "Microsoft_Windows", "id": 393046}, {"name": "Logiciel", "id": 82489}], "successors": [{"name": "Commande_MS-DOS/Windows", "id": 5327123}]}
+{"name": "Composant_Windows", "id": 1095776, "predecessors": [{"name": "Microsoft_Windows", "id": 393046}, {"name": "Système_d'exploitation", "id": 82488}], "successors": [{"name": "Commande_MS-DOS/Windows", "id": 5327123}]}
