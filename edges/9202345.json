@@ -1,1 +1,1 @@
-{"name": "Bâtiment_à_Édimbourg", "id": 9202345, "predecessors": [{"name": "Bâtiment", "id": 270001}, {"name": "Astronomie", "id": 80753}, {"name": "Techniques_et_sciences_appliquées", "id": 85441}], "successors": []}
+{"name": "Bâtiment_à_Édimbourg", "id": 9202345, "predecessors": [{"name": "Édimbourg", "id": 645896}, {"name": "Bâtiment", "id": 270001}, {"name": "Techniques_et_sciences_appliquées", "id": 85441}], "successors": []}

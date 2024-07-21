@@ -1,1 +1,1 @@
-{"name": "Graphiste_de_jeux_vidéo", "id": 841885, "predecessors": [{"name": "Graphisme", "id": 479807}, {"name": "Économie_de_la_culture", "id": 1152580}, {"name": "Art_numérique", "id": 357048}], "successors": [{"name": "Character_designer_de_jeux_vidéo", "id": 12293842}]}
+{"name": "Graphiste_de_jeux_vidéo", "id": 841885, "predecessors": [{"name": "Graphisme", "id": 479807}, {"name": "Jeu_vidéo", "id": 85212}, {"name": "Art_numérique", "id": 357048}], "successors": [{"name": "Character_designer_de_jeux_vidéo", "id": 12293842}]}

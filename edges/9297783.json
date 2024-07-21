@@ -1,1 +1,1 @@
-{"name": "Anatomie_de_l'abdomen", "id": 9297783, "predecessors": [{"name": "Anatomie_humaine", "id": 575561}], "successors": [{"name": "Artère_de_l'abdomen", "id": 9297787}, {"name": "Nerf_de_l'abdomen", "id": 9305288}, {"name": "Bouche", "id": 318875}]}
+{"name": "Anatomie_de_l'abdomen", "id": 9297783, "predecessors": [{"name": "Anatomie_humaine", "id": 575561}], "successors": [{"name": "Anatomie_du_système_digestif", "id": 9293294}, {"name": "Artère_de_l'abdomen", "id": 9297787}, {"name": "Nerf_de_l'abdomen", "id": 9305288}]}

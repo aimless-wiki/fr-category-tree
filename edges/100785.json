@@ -1,1 +1,1 @@
-{"name": "Agrume", "id": 100785, "predecessors": [{"name": "Aurantioideae", "id": 15583765}, {"name": "Fruit_alimentaire", "id": 101492}, {"name": "Agriculture", "id": 81359}, {"name": "Techniques_et_sciences_appliquées", "id": 85441}], "successors": []}
+{"name": "Agrume", "id": 100785, "predecessors": [{"name": "Aurantioideae", "id": 15583765}, {"name": "Fruit_alimentaire", "id": 101492}, {"name": "Agriculture", "id": 81359}, {"name": "Techniques_et_sciences_appliquées", "id": 85441}], "successors": [{"name": "Produits_à_base_d'agrumes", "id": 16372770}]}

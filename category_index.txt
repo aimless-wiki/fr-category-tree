@@ -31,7 +31,6 @@
 82557 Informatique
 82562 Interface_utilisateur
 82644 Langage_de_programmation
-82658 Moyen_Âge
 82672 Maison_de_Valois
 82811 Électricité
 82819 Europe
@@ -68,6 +67,7 @@
 83849 Réalisateur_espagnol
 83850 Réalisateur_belge
 83851 Réalisateur_allemand
+83860 Protestantisme
 83870 Réalisateur_japonais
 83895 Algorithmique
 83904 Cinéma_français
@@ -127,6 +127,7 @@
 85009 Pataphysicien
 85051 Bouddhisme
 85085 Premier_Empire
+85212 Jeu_vidéo
 85239 Rhétorique
 85314 Personnage_de_cinéma
 85361 Monnaie
@@ -343,7 +344,6 @@
 99961 Telenovela
 100097 Philosophie_de_l'esprit
 100275 Philosophie_de_la_religion
-100295 Biologiste_français
 100308 Croisade
 100310 Drapeau
 100314 Guerre_d'Algérie
@@ -374,7 +374,6 @@
 103176 Dessinateur_de_timbres
 103369 Imprimerie
 103401 Plante_grimpante
-103433 Montpellier
 103474 Tombe
 103627 Télévision_en_France
 103653 Art_martial_japonais
@@ -467,7 +466,7 @@
 110435 Agence_de_presse
 110565 Écrivain_francophone
 110629 Série_télévisée_fantastique
-110632 Série_télévisée_animalière
+110632 Série_télévisée_sur_les_animaux
 110639 Série_télévisée_policière
 110646 Série_télévisée_médicale
 110712 Arithmétique
@@ -620,6 +619,7 @@
 126387 Unité_de_volume
 126567 Courrier_électronique
 126616 Matériel_informatique
+126618 Producteur_de_musique
 126776 Imagerie_numérique
 126991 Code_de_la_route
 126992 Ustensile_de_cuisine
@@ -842,7 +842,6 @@
 151338 Électrotechnique
 151348 Environnement_graphique
 151600 Titre_de_noblesse
-151710 Seine-Maritime
 151754 Visserie
 151882 Usinage
 152176 Inquisition
@@ -945,7 +944,6 @@
 163040 Mésopotamie
 163041 Peintre_suédois
 163178 Aventurier_français
-163338 Société_savante
 163541 Sculpteur_britannique
 163849 Acteur_autrichien
 164013 Ville_en_Autriche
@@ -984,7 +982,6 @@
 169150 Saint-Étienne
 169290 Criminologie
 169758 Suicide
-169771 Universitaire_français
 170080 Chaîne_de_télévision_aux_États-Unis
 170087 Chaîne_de_télévision_internationale
 170583 Ville_en_Irak
@@ -1058,7 +1055,6 @@
 181939 Littérature_latine
 181953 Programmation_orientée_objet
 182100 Physiologie_végétale
-182164 Art_vidéo
 182422 Confection_de_vêtements
 182527 Tube_électronique
 182884 Géomorphologie
@@ -1709,9 +1705,6 @@
 237078 Historien_allemand
 237723 École_d'art_en_France
 237818 Cervidae
-238048 Acteur_du_XIXe_siècle
-238074 Acteur_du_XVIIe_siècle
-238080 Acteur_du_XVIIIe_siècle
 238285 Scénariste_russe_de_cinéma
 238290 Peintre_grec
 238539 Buenos_Aires
@@ -2074,7 +2067,6 @@
 261599 Naissance_en_1765
 261600 Naissance_en_1898
 261601 Naissance_en_1904
-261603 Décès_en_1953
 261604 Naissance_en_1902
 261605 Décès_en_1947
 261606 Naissance_en_1894
@@ -2208,6 +2200,7 @@
 264025 Naissance_en_1695
 264027 Naissance_en_1621
 264033 Naissance_en_1743
+264034 Décès_en_1794
 264037 Naissance_en_1794
 264066 Naissance_en_1752
 264075 Naissance_en_1596
@@ -2503,6 +2496,7 @@
 272557 Équipe_cycliste_au_Danemark
 272569 Naissance_en_1622
 272728 Historiographie
+272743 Renaissance
 273032 Naissance_en_1648
 273047 Naissance_en_1618
 273058 Naissance_en_1708
@@ -2884,7 +2878,6 @@
 306003 Personnalité_politique_ivoirienne
 306005 Histoire_de_la_Côte_d'Ivoire
 306043 Sion
-306053 Pau
 306120 Avignon
 306197 Cours_d'eau_dans_l'Ariège
 306504 Trouble_du_sommeil
@@ -3357,6 +3350,7 @@
 368508 Utilisateur_it-4
 368691 Timbre_d'usage_courant
 369262 Goélette
+369266 Consonne_occlusive
 369278 Cotre
 369367 Monarchisme_français
 369406 Prétendant_au_trône
@@ -3952,7 +3946,6 @@
 455193 Footballeur_congolais_(RDC)
 455656 Loi_en_chimie
 455670 Loi_en_physique
-455724 Décès_en_2006
 455795 Course_automobile
 455798 24_Heures_du_Mans
 455851 Droseraceae
@@ -4152,6 +4145,7 @@
 477875 Politique_monétaire
 477888 Ville_en_Brandebourg
 477899 Ville_au_Schleswig-Holstein
+477944 Hambourg
 478001 Landes_de_Gascogne
 478008 Photosynthèse
 478078 Film_ferroviaire
@@ -4162,7 +4156,6 @@
 478775 AVN_Award
 479013 Quartier_de_Québec
 479252 Terminologie_du_football
-479378 Festival_de_musique_en_Belgique
 479563 Conservation_alimentaire
 479610 Actrice_norvégienne
 479621 Via_Lemovicensis
@@ -4225,6 +4218,7 @@
 488567 Volcan_en_Argentine
 488662 Montagne_dans_la_région_autonome_du_Tibet
 488837 Projet_en_sommeil
+488995 Musée_à_Montréal
 489043 Iridaceae
 489088 Jeu_Xbox_360
 489288 Compétition_de_football_en_Argentine
@@ -4367,7 +4361,6 @@
 507445 Personnalité_de_la_république_de_Weimar
 507799 Celastraceae
 507839 Oscar_de_la_meilleure_chanson_originale
-507978 Impôt_de_l'Ancien_Régime
 508051 Footballeur_slovaque
 508295 Château_détruit_en_Île-de-France
 508624 Évêque_de_Verdun
@@ -4464,7 +4457,6 @@
 517730 Club_de_football_au_Cameroun
 517853 Prix_scientifique
 518099 Club_de_football_au_Nigeria
-518425 Vie_étudiante
 518479 Agence_de_l'Union_européenne
 518888 Caryophyllaceae
 518932 Réalisateur_norvégien
@@ -4475,6 +4467,7 @@
 519558 Joueur_fidjien_de_rugby_à_XV
 519598 Personnalité_liée_au_théâtre
 519907 Logiciel_pour_macOS
+519966 Cours_d'eau_en_Estonie
 520089 Famille_de_plantes_(nom_scientifique)
 520301 Entraîneur_australien_de_rugby_à_XV
 520400 Inventeur_américain
@@ -4978,7 +4971,6 @@
 600371 Hydravion
 600381 Noblesse_polonaise
 600450 Linguiste_français
-600497 Émission_diffusée_sur_France_4
 600507 Psychologue_français
 600591 Personnalité_de_la_Révolution_française
 600762 Maladie_cardiovasculaire
@@ -5244,6 +5236,7 @@
 645429 Brevet_de_technicien_supérieur
 645459 Personnalité_condamnée_à_la_peine_de_mort
 645554 Sauteur_à_ski_autrichien
+645896 Édimbourg
 646105 Chorégraphe_belge
 646129 Chorégraphe_français
 646161 Chorégraphe_américain
@@ -5646,6 +5639,7 @@
 689772 Économie_publique
 689803 Croissance_économique
 689951 Unité_de_la_Garde_impériale_(Premier_Empire)
+690564 Mycologue_américain
 690611 Scénariste_hongkongais_de_cinéma
 690850 Vitré
 690918 Psychologue_américain
@@ -5701,7 +5695,7 @@
 704391 Club_de_basket-ball_disparu_en_France
 704810 Jésus_de_Nazareth
 705448 Membre_du_Conseil_constitutionnel_français
-705645 Annonaceae
+705703 Histoire_de_l'Alsace
 705733 Château_dans_les_Yvelines
 705971 Utilisateur_Perl
 705978 Réalisatrice_américaine
@@ -5783,12 +5777,14 @@
 720370 Album_Glénat
 720440 Procédure_pénale
 720498 Évêque_de_Clermont
+720600 Impôt_seigneurial_institué_au_Moyen_Âge
 720715 Biologie_médicale
 721739 ESPN
 722278 Renaissance_italienne
 722809 Politique_étrangère_des_États-Unis
 723117 Bassin_d'Arcachon
 723198 Castlevania
+723265 Violoncelliste_allemand
 723652 Éclipse_solaire
 723678 Président_du_Sénat_du_Canada
 723682 Fonds_d'investissement
@@ -6331,7 +6327,6 @@
 816741 Syndicat_mixte
 816763 Lourdes
 817533 Coopérative_agricole_en_France
-817928 Magnoliaceae
 817951 Entreprise_fondée_en_1903
 817954 Entreprise_fondée_en_1996
 817962 Concerto_pour_piano
@@ -6421,7 +6416,6 @@
 835539 Championnat_d'Espagne_de_football
 835714 Vertu
 835927 Archevêque_de_Bourges
-836712 Multimédia
 836834 Film_de_Fox_Searchlight_Pictures
 836843 Film_de_PolyGram_Filmed_Entertainment
 837236 Gare_TGV
@@ -8081,7 +8075,6 @@
 1084452 Fresque_de_Michel-Ange
 1085046 Logiciel_de_voix_sur_réseau_IP
 1085424 Poésie_de_langue_japonaise
-1085611 Loge_maçonnique
 1085617 Métier_de_l'Éducation_nationale_(France)
 1085739 Film_parodique
 1085756 Film_sorti_directement_en_vidéo
@@ -9276,6 +9269,7 @@
 1211038 Voie_de_Paris_disparue
 1211332 Conseiller_général_de_la_Gironde
 1211334 Maire_de_la_Gironde
+1211344 Maire_de_Loir-et-Cher
 1211821 Histoire_de_l'escrime
 1211912 Gare_dans_la_Seine-Maritime
 1212065 Groupe_écossais_de_rock
@@ -9761,7 +9755,6 @@
 1287157 Siège_(meuble)
 1287257 Bombardier
 1287263 Avion_de_transport_militaire
-1287277 Modèle_sport_automobile
 1287427 Avion_d'entraînement_militaire
 1287861 Modélisme_ferroviaire
 1288554 Député_de_la_Marne_(Troisième_République)
@@ -9913,6 +9906,7 @@
 1307214 Militaire_italien_de_la_Seconde_Guerre_mondiale
 1307217 Militaire_polonais_de_la_Seconde_Guerre_mondiale
 1307703 Loi_québécoise
+1307706 Loi_du_Parlement_du_Canada
 1307829 Autoroute_en_Italie
 1307844 Autoroute_en_Allemagne
 1307850 Route_en_Allemagne
@@ -10104,6 +10098,7 @@
 1342033 Groupe_ethnique_aux_États-Unis
 1342081 Tueur_en_série_de_fiction
 1342571 Roman_québécois
+1342619 Film_réalisé_par_Roberto_Rossellini
 1342675 Film_réalisé_par_William_Wyler
 1342702 Recueil_de_nouvelles_de_fantasy
 1343097 Chanteur_breton
@@ -10573,7 +10568,6 @@
 1392997 Personnalité_de_la_curie_romaine
 1393173 Personnalité_des_Démocrates_de_gauche
 1393382 Réalisatrice_espagnole
-1393407 Article_du_projet_Cosmologie_d'avancement_B
 1393409 Article_du_projet_Cosmologie_d'avancement_BD
 1393416 Réalisatrice_belge
 1393419 Article_du_projet_Cosmologie_d'avancement_ébauche
@@ -11118,6 +11112,7 @@
 1464850 Article_du_projet_Chemin_de_fer_d'importance_élevée
 1464852 Article_du_projet_Chemin_de_fer_d'importance_moyenne
 1464853 Article_du_projet_Chemin_de_fer_d'importance_faible
+1464854 Article_du_projet_Chemin_de_fer_d'importance_inconnue
 1465544 Nom_long
 1465959 Monument_historique_en_Savoie
 1465964 Cours_d'eau_en_Guadeloupe
@@ -12175,6 +12170,7 @@
 1768888 Marque_italienne_de_mode_vestimentaire
 1769051 Père_blanc
 1769214 Île_au_Svalbard
+1769278 Total_Nonstop_Action_Wrestling
 1769657 Tissage_textile
 1769991 Type_de_coiffure
 1770045 Entreprise_de_l'habillement_ayant_son_siège_en_Italie
@@ -12192,7 +12188,6 @@
 1774229 Constructeur_aéronautique_ayant_son_siège_en_Russie
 1774256 Architecte_contemporain
 1774258 Architecture_contemporaine
-1774309 Agence_d'architecture
 1775005 Quartier_de_ville_en_France
 1775377 Chevalier_de_fiction
 1775693 Personnage_d'Honoré_de_Balzac
@@ -12483,7 +12478,6 @@
 1865754 Personnalité_liée_à_Charleroi
 1865945 Compétition_de_football_de_jeunes
 1866016 Organiste_classique_français
-1866277 Modèle_Syrie
 1866468 Special_Operations_Executive
 1866615 Joueur_de_l'OGC_Nice
 1866620 Société_cotée_à_la_Bourse_de_Tokyo
@@ -12894,6 +12888,7 @@
 1939841 Personnalité_de_la_colonisation_portugaise
 1939869 Joueur_des_Devils_d'Utica
 1939882 Chanson_interprétée_par_Bob_Dylan
+1940049 Entreprise_disparue_en_1991
 1940148 Single_musical_sorti_en_1986
 1941113 Laboratoire_de_recherche_aux_États-Unis
 1941128 Joueur_des_Royals_de_Reading
@@ -13077,6 +13072,7 @@
 1975879 Champion_olympique_croate
 1976242 Champion_olympique_cubain
 1977090 Entreprise_disparue_en_1992
+1977091 Entreprise_disparue_en_1994
 1977093 Entreprise_disparue_en_1999
 1977100 Entreprise_fondée_en_2008
 1977104 Entreprise_disparue_en_2003
@@ -13713,6 +13709,7 @@
 2240534 Utilisateur_Seconde_Guerre_mondiale
 2243846 Cosa_nostra
 2245787 Automobile_Buick
+2245871 Automobile_Cadillac
 2245984 Automobile_Chrysler
 2246124 Automobile_Dodge
 2246634 Automobile_Jaguar
@@ -13724,6 +13721,7 @@
 2255178 Joueur_français_de_beach_soccer
 2257500 Tunnel_alpin
 2257590 Personnalité_politique_assassinée
+2263820 Éducation_juive
 2265794 Animateur_français
 2266040 Homonymie_de_cantons
 2266182 Modèle_de_bandeau_pour_page_d'homonymie
@@ -13817,7 +13815,6 @@
 2363616 Utilisateur_Illustrator
 2368010 Joueur_du_RKC_Waalwijk
 2368369 Joueur_du_PSV_Eindhoven
-2369115 Article_du_projet_Mondes_normands_d'importance_inconnue
 2369116 Article_du_projet_Mondes_normands_d'importance_faible
 2369120 Article_du_projet_Mondes_normands_d'importance_moyenne
 2369130 Article_du_projet_Mondes_normands_d'avancement_ébauche
@@ -13854,6 +13851,7 @@
 2389218 Film_tourné_au_Massachusetts
 2389384 Film_tourné_au_Michigan
 2392296 Film_tourné_en_Virginie
+2392335 Film_tourné_au_Maryland
 2392366 Joueur_du_Brentford_FC
 2392390 Film_tourné_en_Allemagne
 2392394 Film_tourné_en_Italie
@@ -14028,6 +14026,7 @@
 2463802 Type_de_chaussures
 2464413 Bagratides
 2464481 Transport_en_Seine-et-Marne
+2464797 Fabricant_de_matériel_photographique_ayant_son_siège_en_France
 2465090 Film_tourné_aux_Pays-Bas
 2465142 Film_tourné_à_Hawaï
 2465241 Film_tourné_en_Oregon
@@ -14053,6 +14052,7 @@
 2468156 Champion_olympique_de_l'Équipe_unifiée
 2468164 Sportif_de_l'Équipe_unifiée
 2468170 Sportive_de_l'Équipe_unifiée
+2468290 Organisation_antifasciste
 2468359 Série_d'animation_italienne
 2468580 Modèle_équipe_nationale_handball
 2468653 Album_des_Melvins
@@ -14851,6 +14851,7 @@
 2760781 Tennis_masculin_en_2007
 2760924 Tennis_masculin_en_2008
 2761224 Ville_au_Madhya_Pradesh
+2761439 Ville_au_Kerala
 2762114 Incident_diplomatique
 2762337 Film_d'exploitation
 2762374 Déporté_de_la_Seconde_Guerre_mondiale
@@ -14894,7 +14895,6 @@
 2770578 Monument_historique_dans_le_Gard
 2770711 Communication_humaine
 2770732 Entraîneur_français_de_handball
-2770764 Voyage_dans_le_temps_à_la_télévision
 2770798 Voyage_dans_le_temps_en_bande_dessinée
 2770803 Article_du_projet_Télécommunications_d'avancement_B
 2770804 Article_du_projet_Télécommunications_d'avancement_BD
@@ -15354,6 +15354,7 @@
 2862619 Historien_français_des_religions
 2862620 Historien_français_de_la_Rome_antique
 2862624 Historien_de_la_Révolution_française
+2862636 Historien_de_la_Provence
 2862690 Historien_de_l'art_français
 2862925 Thermodynamique_atmosphérique
 2863152 Écrivain_de_spiritualité_non_religieuse
@@ -16545,6 +16546,7 @@
 3082986 Article_du_projet_Stargate_d'importance_faible
 3082989 Article_du_projet_Stargate_d'importance_moyenne
 3083160 Grand_maître_international
+3083167 Naissance_en_Union_soviétique
 3083208 Naissance_en_Yougoslavie
 3083362 Personnage_de_fiction_féminin
 3083735 Champion_olympique_est-allemand
@@ -16638,6 +16640,7 @@
 3103932 Monument_historique_dans_la_Haute-Loire
 3104018 Naissance_à_Douai
 3104026 Naissance_en_Autriche-Hongrie
+3104087 Naissance_en_Colombie
 3104243 Naissance_en_Roumanie
 3104331 Naissance_à_Troyes
 3104677 Joueur_de_l'USA_Perpignan
@@ -16826,6 +16829,7 @@
 3128454 Article_du_projet_Alimentation_et_gastronomie_d'importance_maximum
 3128821 Naissance_à_Abbeville
 3129458 Naissance_à_Versailles
+3129601 Rassemblement_maritime
 3129603 Naissance_à_Mulhouse
 3129776 Modèle_Correspondance
 3130037 Archevêque_de_Cologne
@@ -16874,7 +16878,6 @@
 3139264 Sculpteur_baroque
 3139355 Équipe_nationale_de_beach_soccer
 3139671 Naissance_à_Bourg-en-Bresse
-3140215 Voyageur_dans_le_temps
 3140436 Pauvreté_en_France
 3140501 Naissance_à_Narbonne
 3140725 Vainqueur_d'un_tournoi_du_Grand_Chelem_de_golf_féminin
@@ -17012,7 +17015,6 @@
 3158351 Finlande_aux_Jeux_olympiques
 3158360 Suisse_aux_Jeux_olympiques
 3158666 Hongrie_aux_Jeux_olympiques
-3158749 Naissance_dans_l'Allier
 3158831 Film_tourné_en_Grèce
 3158837 Naissance_dans_les_Ardennes
 3158868 Naissance_dans_l'Aube
@@ -17060,6 +17062,7 @@
 3162739 Belgique_aux_Jeux_olympiques
 3162743 Danemark_aux_Jeux_olympiques
 3162746 Luxembourg_aux_Jeux_olympiques
+3162748 Monaco_aux_Jeux_olympiques
 3162758 Suède_aux_Jeux_olympiques
 3162874 Délégation_aux_Jeux_olympiques_d'hiver_de_1984
 3162878 Délégation_aux_Jeux_olympiques_d'été_de_2004
@@ -17227,7 +17230,6 @@
 3182220 Municipalité_dans_la_province_de_Bohol
 3182453 Métier_de_l'artisanat
 3182696 Joueur_du_Fortitudo_Bologna
-3182968 Martin_Luther
 3182995 Champion_olympique_en_cyclisme_sur_piste
 3183887 Écrivain_espagnol_du_XVIIe_siècle
 3183890 Écrivain_espagnol_du_XVIe_siècle
@@ -18144,7 +18146,6 @@
 3384575 Entraîneur_du_Red_Star
 3384744 Illustrateur_de_fantasy
 3384813 Article_du_projet_Spiritualité_d'importance_faible
-3385166 Racisme_en_France
 3385282 Naissance_à_Béthune
 3385740 Personnalité_liée_à_Chicago
 3385899 Comté_de_Donegal
@@ -19072,7 +19073,6 @@
 3552130 Joueur_du_HC_Dukla_Trenčín
 3552139 Joueur_du_HKm_Zvolen
 3552604 Histoire_de_l'Italie_antique
-3552736 Histoire_du_Moyen_Âge
 3552778 Volcan_dans_le_kraï_du_Kamtchatka
 3552804 Ceinture_de_feu_du_Pacifique
 3552837 Mafieux_de_fiction
@@ -19538,6 +19538,7 @@
 3635645 Col_dans_le_canton_du_Valais
 3637534 Naissance_à_Las_Vegas
 3639104 Parti_politique_fondé_en_1945
+3639118 Club_sportif_fondé_en_1945
 3639257 Naissance_à_Tlemcen
 3639589 Joueur_du_Rush_de_Rapid_City
 3639752 Organisme_fondé_en_1954
@@ -19950,6 +19951,7 @@
 3733336 Évêque_français_d'un_diocèse_étranger
 3733364 Saumur
 3733620 Naissance_à_Turku
+3733699 Naissance_en_Palestine
 3734949 Article_du_projet_Vannes_d'avancement_BD
 3734953 Article_du_projet_Vannes_d'avancement_ébauche
 3734957 Article_du_projet_Vannes_d'importance_élevée
@@ -20182,8 +20184,6 @@
 3777979 Naissance_à_Minneapolis
 3777985 Anatomie_du_système_articulaire
 3777999 Naissance_à_Saint_Paul_(Minnesota)
-3778020 Articulation_du_membre_inférieur
-3778031 Articulation_du_membre_supérieur
 3778677 Futurologue
 3779459 Condamné_à_la_peine_de_mort_aux_États-Unis
 3779515 Écrivain_allemand_du_XXIe_siècle
@@ -21391,6 +21391,7 @@
 4030165 Logo_de_catch
 4030259 Massif_de_montagnes_en_Amérique_centrale
 4030340 Védisme
+4031130 Naissance_en_Somalie
 4031410 Naissance_à_Addis-Abeba
 4031504 Aire_protégée_créée_en_1989
 4031517 Aire_protégée_créée_en_1980
@@ -21890,6 +21891,7 @@
 4138527 Joueur_des_Stars_du_Texas
 4138543 Joueur_du_Heat_d'Abbotsford
 4138804 Naissance_dans_la_province_du_Heilongjiang
+4139368 Couvent_franciscain
 4139472 Église_franciscaine
 4140194 Naissance_à_La_Seyne-sur-Mer
 4140558 Naissance_à_Uzès
@@ -21984,6 +21986,7 @@
 4166022 Article_du_projet_Neurosciences_d'importance_faible
 4166025 Article_du_projet_Neurosciences_d'importance_inconnue
 4166030 Article_du_projet_Neurosciences_d'avancement_ébauche
+4166411 Chapelle_du_Moyen_Âge
 4166645 Article_du_projet_Morvan_d'avancement_ébauche
 4166646 Article_du_projet_Morvan_d'avancement_BD
 4166647 Article_du_projet_Morvan_d'avancement_B
@@ -23503,6 +23506,7 @@
 4526831 Cyclisme_sur_route_en_2002
 4526839 Cyclisme_sur_route_en_2001
 4526856 Cyclisme_sur_route_en_2000
+4526875 Cyclisme_sur_route_en_1999
 4526910 Sculpteur_flamand_(avant_1830)
 4526972 Personnalité_politique_dans_les_Pays-Bas_méridionaux
 4527831 Noblesse_dans_les_Pays-Bas_méridionaux
@@ -23517,6 +23521,7 @@
 4531593 Oiseau_légendaire
 4532606 Traducteur_depuis_l'espagnol_vers_le_français
 4532609 Traducteur_depuis_le_français_vers_l'espagnol
+4532679 Portail:Îles_Galápagos/Articles_liés
 4533166 Système_d'exploitation_de_téléphonie_mobile
 4534073 Pilote_de_Formule_2_FIA
 4534666 Cardinal_créé_par_Pie_IX
@@ -24467,6 +24472,7 @@
 4736849 Sénateur_du_royaume_de_Sardaigne
 4736868 Internat
 4736979 Membre_de_l'expédition_des_Mille
+4736996 Logo_de_club_anglais_de_rugby_à_XV
 4737617 Nonce_apostolique_en_Autriche
 4738357 Logo_de_compétition_de_rugby_à_XV
 4739318 Haltérophile_(homme)_aux_Jeux_olympiques_d'été_de_1996
@@ -24956,6 +24962,7 @@
 4791004 Nazi_suicidé
 4791011 Revue_de_chimie_publiée_par_Elsevier_Science
 4791509 Pilote_Championnat_de_Grande-Bretagne_des_voitures_de_tourisme
+4791623 Réserve_de_biosphère_en_Espagne
 4791665 Monarque_de_l'Antiquité
 4791891 Cuirassé_de_la_Kaiserliche_Marine
 4792036 Ancienne_émission_de_France_Inter
@@ -25004,6 +25011,7 @@
 4798749 Naissance_à_Tongres
 4799040 Édicule_Guimard_à_Paris
 4799157 Joueur_du_CSKA_Moscou_(basket-ball)
+4799193 Personnalité_inhumée_au_cimetière_du_Père-Lachaise_(division_59)
 4799475 Divinité_liée_aux_orages
 4799621 Naissance_à_Bulawayo
 4799754 Naissance_à_Halifax_(Nouvelle-Écosse)
@@ -25028,7 +25036,6 @@
 4805485 Monument_historique_inscrit_en_1961
 4805487 Monument_historique_inscrit_en_1930
 4805935 Goguette
-4806243 Album_en_concert_au_Zénith_de_Paris
 4806287 Vielsalm
 4806401 Faune_endémique_du_Territoire_du_Nord
 4806514 Lumière_sur/Angleterre
@@ -25546,6 +25553,7 @@
 4888263 Article_du_projet_Duché_de_Bretagne_d'avancement_ébauche
 4888265 Article_du_projet_Duché_de_Bretagne_d'avancement_BD
 4888276 Article_du_projet_Duché_de_Bretagne_d'importance_faible
+4888278 Article_du_projet_Duché_de_Bretagne_d'importance_moyenne
 4888310 Quartier_de_Budapest
 4888526 Membre_de_Mensa
 4888642 Grande_Île_de_Terre_de_Feu
@@ -25632,6 +25640,7 @@
 4904296 Personnalité_gallo-romaine
 4904323 Officier_supérieur_du_Premier_Empire
 4904554 Single_publié_par_Decca_Records
+4904722 Architecture_néo-classique_au_Royaume-Uni
 4904895 Single_publié_par_Polydor
 4905143 Logiciel_libre_sous_licence_AGPL
 4905158 Architecture_gothique_en_France
@@ -25739,7 +25748,6 @@
 4920381 Naissance_à_Trondheim
 4920516 Triathlète_aux_Jeux_olympiques_d'été_de_2000
 4920522 Triathlète_aux_Jeux_olympiques_d'été_de_2004
-4920880 Logo_de_chaîne_de_télévision_du_Groupe_M6
 4920974 Championnat_de_Corée_du_Sud_de_football
 4921411 Lauréat_français_du_prix_Nobel
 4921635 Naissance_à_Blackpool
@@ -26003,6 +26011,7 @@
 4966623 Bassin_minier_du_Nord-Pas-de-Calais
 4966662 Compagnie_des_mines_d'Anzin
 4966815 Ville_et_village_dans_le_comitat_de_Vas
+4967018 Manga_publié_par_Kadokawa_Shoten
 4967037 Manga_publié_par_Kōdansha
 4967082 Croix_de_chemin_en_France
 4967443 Ville_et_village_dans_le_comitat_de_Veszprém
@@ -26420,6 +26429,7 @@
 5054161 Chef_d'entreprise_français
 5054171 Chef_d'entreprise_américain
 5054230 Chef_d'entreprise_britannique
+5054265 Fabricant_de_matériel_audio_professionnel
 5054571 Groupe_de_jazz_fusion
 5054730 Naissance_à_Remiremont
 5055066 Joueur_du_Coventry_RFC
@@ -26444,7 +26454,6 @@
 5060914 Naissance_à_Thouars
 5061137 Article_du_projet_Phéniciens,_Carthage_et_monde_punique_d'avancement_ébauche
 5061140 Article_du_projet_Phéniciens,_Carthage_et_monde_punique_d'avancement_BD
-5061142 Article_du_projet_Phéniciens,_Carthage_et_monde_punique_d'avancement_B
 5061188 Article_du_projet_Phéniciens,_Carthage_et_monde_punique_d'importance_faible
 5061189 Article_du_projet_Phéniciens,_Carthage_et_monde_punique_d'importance_moyenne
 5061301 Utilisateur_iPhone
@@ -26740,7 +26749,6 @@
 5126203 Langue_philippine
 5126889 Joueur_du_Whale_du_Connecticut
 5126914 Homonymie_d'établissements_scolaires_ou_universitaires
-5127426 Entreprise_d'informatique_disparue
 5127599 Espérantiste_français
 5128152 Hemidactyliinae
 5128869 Membre_de_l'Académie_bulgare_des_sciences
@@ -26802,6 +26810,7 @@
 5151838 Bateau_d'intérêt_patrimonial
 5151962 Leonhard_Euler
 5152460 Sélectionneur_de_l'équipe_du_Pérou_de_football
+5152716 Les_Temps_nouveaux
 5153000 Système_d'exploitation_abandonné
 5153240 Famille_Czartoryski
 5153364 Film_de_Relativity_Media
@@ -27111,6 +27120,7 @@
 5211813 Mort_dans_un_hôpital_psychiatrique
 5213153 Joueur_de_la_LD_Alajuelense
 5213430 Naissance_à_Stirling
+5213729 Utilisateur_Linux_Mint
 5213924 Liocranidae
 5213925 Utilisateur_Adhésion_de_la_Turquie_à_l'UE
 5214083 Adaptation_de_Frankenstein_au_cinéma
@@ -27178,7 +27188,6 @@
 5235626 Article_du_projet_Entomologie_d'importance_élevée
 5235627 Article_du_projet_Entomologie_d'importance_moyenne
 5235628 Article_du_projet_Entomologie_d'importance_faible
-5235629 Article_du_projet_Entomologie_d'importance_inconnue
 5236496 Personnage_de_fiction_de_l'État_de_New_York
 5236895 Wikipédia:Wikiconcours/mars_2011
 5237156 Utilisateur_Wikiconcours_mars_2011
@@ -27366,7 +27375,6 @@
 5265897 Joueur_de_la_Waikato_Rugby_Union
 5265951 Portail:Bassin_minier_du_Nord-Pas-de-Calais
 5266391 EP_sorti_en_2008
-5266836 Modèle_politique_en_France
 5266938 Histoire_de_la_Norvège
 5266954 Histoire_de_la_Russie
 5267258 Touraine
@@ -27519,6 +27527,7 @@
 5299336 Vin_et_cuisine
 5299447 Liste_de_châteaux_en_France
 5299582 Logo_québécois
+5301362 Naissance_à_Viña_del_Mar
 5301403 Mort_assassiné_en_Algérie
 5301514 Mort_assassiné_au_Liban
 5301810 Naissance_à_Échirolles
@@ -27600,6 +27609,7 @@
 5323094 Naissance_à_Riyad
 5323184 Naissance_à_Djeddah
 5323259 Naissance_à_Médine
+5323327 Personnalité_de_l'UNEF-ID
 5323336 Personnalité_de_l'UNEF
 5323476 Agrégé_de_lettres_classiques
 5323650 Tennis_féminin_en_1968
@@ -27964,6 +27974,7 @@
 5427413 Photographe_de_nu
 5428685 Élève_de_l'École_des_hautes_études_en_sciences_sociales
 5428692 Élève_de_l'École_navale
+5428715 Élève_du_lycée_Henri-IV
 5428740 Élève_du_lycée_Condorcet
 5428792 Élève_de_l'École_nationale_d'administration_(France)
 5429665 Site_d'escalade_en_France
@@ -28465,6 +28476,7 @@
 5525905 Census-designated_place_en_Oklahoma
 5525925 Histoire_de_l'Italie_au_XIXe_siècle
 5525931 Histoire_de_l'Italie_au_XVIIIe_siècle
+5526139 Peintre_du_XXe_siècle
 5526208 Article_du_projet_Musées_d'avancement_BD
 5526210 Article_du_projet_Musées_d'avancement_ébauche
 5526213 Article_du_projet_Musées_d'avancement_B
@@ -28809,6 +28821,7 @@
 5568589 Joueur_du_Leixões_SC
 5568636 Groupe_musical_formé_en_2003
 5568685 Film_d'animation_belge
+5568890 Film_d'animation_italien
 5568905 Groupe_musical_formé_en_2002
 5568909 Film_d'animation_allemand
 5568916 Groupe_musical_formé_en_1999
@@ -29357,6 +29370,7 @@
 5664211 Naissance_à_Gävle
 5664561 Localité_de_Šipovo
 5664665 Localité_de_Sokolac
+5664802 Étudiant_de_l'université_de_Limoges
 5664940 Localité_de_Srbac
 5665089 Localité_de_Srebrenica
 5665092 Localité_de_Srebrenica_à_majorité_bosniaque
@@ -29418,6 +29432,7 @@
 5674160 Modèle_infobox_V3
 5674258 Chanson_interprétée_par_Katy_Perry
 5674659 Communard
+5674664 Portail:Lorient/Articles_liés
 5674695 Tibétologue_français
 5676061 Joueur_du_Mjällby_AIF
 5676293 Shawinigan
@@ -29658,7 +29673,6 @@
 5719013 Événement_sportif_à_Jakarta
 5719137 Diocèse_érigé_par_Pie_X
 5719297 Apologie_de_la_pédophilie
-5720014 Twotino
 5720065 Naissance_à_Mar_del_Plata
 5720237 Naissance_à_San_Miguel_de_Tucumán
 5722408 Utilisateur_Projet/Écologie
@@ -30257,6 +30271,7 @@
 5871380 Article_du_projet_Proche-Orient_ancien_d'avancement_ébauche
 5871381 Article_du_projet_Proche-Orient_ancien_d'avancement_BD
 5871383 Article_du_projet_Proche-Orient_ancien_d'avancement_B
+5871387 Article_du_projet_Proche-Orient_ancien_d'avancement_A
 5873088 Palette_Partis_politiques
 5873450 Musicologue_français_du_XXe_siècle
 5873452 Musicologue_français_du_XIXe_siècle
@@ -30297,7 +30312,6 @@
 5884945 Portail:Littérature/Invitation_à_la_lecture/2012
 5884971 Autobus_en_France
 5885315 Faune_endémique_de_Malaisie_péninsulaire
-5885436 Sébastopol
 5885455 Achaïe
 5885852 Directeur_belge_de_théâtre
 5886127 Rameur_danois_(aviron)
@@ -30411,6 +30425,7 @@
 5907645 Article_du_projet_Astrologie_d'avancement_ébauche
 5907649 Article_du_projet_Astrologie_d'importance_moyenne
 5907650 Article_du_projet_Astrologie_d'importance_faible
+5907684 Grimpeuse_française
 5907994 Signataire_du_Manifeste_des_343
 5908028 Palette_Lac_et_cours_d'eau
 5908208 Ministre_grec_de_la_Défense
@@ -30503,6 +30518,7 @@
 5919309 Député_de_la_4e_législature_du_Troisième_Reich
 5919322 Bateau_de_la_Royal_Navy_de_la_Seconde_Guerre_mondiale
 5919331 Bateau_de_l'US_Navy_de_la_Seconde_Guerre_mondiale
+5919521 Bateau_de_la_Marine_française_de_la_Seconde_Guerre_mondiale
 5919539 Porte-avions_de_l'US_Navy_de_la_Seconde_Guerre_mondiale
 5919548 Lutteur_finlandais
 5919562 Député_de_la_2e_législature_du_Troisième_Reich
@@ -30839,6 +30855,7 @@
 5972050 Ancienne_commune_au_Luxembourg
 5972066 Naissance_dans_les_Basses-Alpes
 5972077 Film_se_déroulant_au_Danemark
+5972107 Vainqueur_du_Rallye_Dakar_(auto)
 5972232 Pièce_de_collection_en_euro
 5972236 Film_tourné_aux_studios_de_Babelsberg
 5972299 Lutteur_aux_Jeux_olympiques_d'été_de_1964
@@ -31027,6 +31044,7 @@
 6015719 Contre-torpilleur_de_la_Marine_française
 6015731 Sous-marin_de_la_Marine_française
 6015734 Marine_française
+6015744 Torpilleur_de_la_Marine_française
 6015745 Bateau_de_la_Marine_française
 6015765 Chaîne_ou_station_de_télévision_fondée_en_2009
 6016305 Matériel_ou_technique_de_spéléologie
@@ -31093,6 +31111,7 @@
 6026816 Roman_américain_paru_en_2010
 6026915 Roman_américain_paru_en_2011
 6026971 Roman_américain_paru_en_2012
+6027010 Portail:Mégalithisme/Articles_liés
 6027055 Roman_français_paru_en_2009
 6027062 Roman_américain_paru_en_2009
 6027574 Église_dédiée_à_saint_Léger
@@ -31100,6 +31119,7 @@
 6027961 Utilisateur_Beatles
 6028129 Roman_français_paru_en_2008
 6028141 Roman_américain_paru_en_2008
+6028174 Portail:Musique_bretonne/Articles_liés
 6028366 Roman_français_paru_en_1958
 6028385 Roman_français_paru_en_1969
 6028390 Lieu_historique_national_en_Ontario
@@ -31779,7 +31799,6 @@
 6192809 Groupe_musical_de_Paris
 6193052 Palette_Prix_Nobel
 6193441 Label_de_world_music
-6193458 World_music
 6193510 Musicien_de_world_music
 6193866 Gardienne_de_but_au_football
 6193876 Article_du_projet_Bicyclette_d'importance_faible
@@ -31897,6 +31916,7 @@
 6238974 Palais_à_Saint-Pétersbourg
 6239298 Architecture_militaire_du_XIVe_siècle
 6239375 Architecture_militaire_du_XVIIe_siècle
+6239416 Architecture_militaire_du_Xe_siècle
 6240253 Chanson_de_hip-hop_française
 6240267 Chanson_de_hip-hop_américaine
 6241314 Naissance_dans_le_Berkshire
@@ -31918,7 +31938,7 @@
 6245341 Professeur_à_l'Académie_royale_des_beaux-arts_de_Liège
 6246250 Album_publié_par_Edition_of_Contemporary_Music
 6246319 Évêque_écossais_avant_la_Réforme
-6246832 Série_télévisée_d'animation_mettant_en_scène_des_animaux
+6246832 Série_télévisée_d'animation_mettant_en_scène_un_animal
 6247562 Article_du_projet_Hautes-Alpes_d'avancement_ébauche
 6247564 Article_du_projet_Hautes-Alpes_d'avancement_BD
 6247575 Article_du_projet_Hautes-Alpes_d'importance_faible
@@ -32224,8 +32244,10 @@
 6311884 Critérium_du_Dauphiné
 6312427 Image_d'euro_italien
 6313058 Image_d'euro_vaticanais
+6313182 Image_d'euro_portugais
 6313316 Image_d'euro_finlandais
 6314386 Image_de_franc_français_de_la_cinquième_république
+6314410 Image_d'euro_allemand
 6314531 Joueur_de_l'America_FC_(Rio_de_Janeiro)
 6314539 Joueur_de_l'América_Futebol_Clube_(Belo_Horizonte)
 6314561 Joueur_de_l'Esporte_Clube_Bahia
@@ -32687,6 +32709,7 @@
 6377586 Étudiant_de_l'université_du_Queensland
 6377886 Assassinat_par_arme_à_feu
 6377973 Conservateur_à_la_Bibliothèque_nationale_de_France
+6378364 Étudiant_de_l'université_de_Nouvelle-Galles_du_Sud
 6378574 Personnalité_du_Parti_travailliste_australien
 6378759 Étudiant_de_l'université_d'Adélaïde
 6379451 Joueur_du_FC_Felgueiras
@@ -32711,6 +32734,7 @@
 6383011 Album_produit_par_The_Neptunes
 6383086 Compétition_de_hockey_sur_glace_à_Toronto
 6383619 Naissance_dans_l'ancien_3e_arrondissement_de_Paris
+6383782 Portail:Kyoto/Articles_liés
 6384043 Député_de_la_onzième_législature_de_la_Troisième_République
 6384044 Député_de_la_dixième_législature_de_la_Troisième_République
 6384072 Député_de_la_huitième_législature_de_la_Troisième_République
@@ -32886,6 +32910,7 @@
 6406656 Naissance_dans_les_Côtes-du-Nord
 6408549 Joueur_du_Cadix_CF
 6408630 Boîte_utilisateur_habite_ville_française
+6411568 Portail:Cuisine_japonaise/Articles_liés
 6411626 Étudiant_de_l'université_de_Copenhague
 6411662 Professeur_à_l'université_de_Copenhague
 6411727 Personnalité_du_printemps_arabe
@@ -32905,6 +32930,7 @@
 6413508 Article_du_projet_Relations_internationales_d'importance_moyenne
 6413509 Article_du_projet_Relations_internationales_d'importance_faible
 6413510 Article_du_projet_Relations_internationales_d'importance_inconnue
+6413720 Erebinae
 6413976 Film_tourné_en_16_mm
 6414123 Parachutiste_français
 6414156 Institut
@@ -33289,6 +33315,7 @@
 6522977 Étudiant_de_l'université_libre_d'Amsterdam
 6523198 Ligue_majeure_de_baseball_2014
 6523426 Naissance_à_Andorre-la-Vieille
+6524161 Redirection_en_roumain
 6524243 Nageuse_synchronisée_aux_Jeux_olympiques_d'été_de_2004
 6524258 Nageuse_synchronisée_aux_Jeux_olympiques_d'été_de_2000
 6524259 Nageuse_synchronisée_aux_Jeux_olympiques_d'été_de_1996
@@ -34343,6 +34370,7 @@
 6662119 Décès_à_Épinal
 6662484 Décès_à_Copenhague
 6662503 Décès_à_Monza
+6662689 Décès_à_Chantilly
 6662713 Décès_à_Vienne_(Autriche)
 6662873 Décès_à_Munich
 6663229 Décès_en_Saxe-Anhalt
@@ -34444,6 +34472,7 @@
 6678167 Peinture_chrétienne
 6678313 Peintre_soviétique
 6678356 Décès_à_Auschwitz
+6678372 Décès_à_Sion
 6678524 Naissance_à_Nabeul
 6679320 Unité_militaire_française_de_la_guerre_de_Hollande
 6679682 Climat_en_France_par_département
@@ -35021,6 +35050,7 @@
 6810606 Décès_à_Quimper
 6810626 Décès_à_La_Havane
 6810641 Décès_en_Tchécoslovaquie
+6810654 Décès_à_Charenton-le-Pont
 6810665 Décès_à_Chalon-sur-Saône
 6810669 Décès_dans_la_province_de_Flandre-Orientale
 6810720 Médaillé_de_bronze_olympique_néo-zélandais
@@ -35119,6 +35149,7 @@
 6824778 Décès_à_Philadelphie
 6824782 Décès_à_Nashville
 6824895 Lumière_sur/Accueil/Mars_2013
+6825093 Extrême_gauche_en_France
 6825179 Modèle_de_football_créant_un_lien_externe
 6825486 Décès_à_Scottsdale_(États-Unis)
 6825549 Décès_à_Memphis_(Tennessee)
@@ -35141,7 +35172,6 @@
 6829136 Décès_en_RSFS_de_Russie
 6829365 Joueur_du_BK_Nijni_Novgorod
 6829621 Décès_à_Taipei
-6830466 Condition_féminine_par_pays
 6830592 Teen_drama
 6831446 Musée_d'État_en_Italie
 6831533 Musée_en_Serbie
@@ -36490,6 +36520,7 @@
 7032615 Décès_dans_le_19e_arrondissement_de_Paris
 7032637 Navire_de_la_flotte_militaire_d'Ancien_Régime
 7032802 Jauge_de_course_à_la_voile
+7032952 Histoire_du_Bas-Saint-Laurent
 7033063 Entraîneur_de_la_JS_Kabylie
 7033547 Film_italien_sorti_en_1953
 7033550 Film_italien_sorti_en_1952
@@ -36688,6 +36719,7 @@
 7058583 Film_français_sorti_en_2012
 7058613 Film_français_sorti_en_2011
 7058733 Film_français_sorti_en_2010
+7058749 Maintenance_des_fichiers
 7059061 Film_français_sorti_en_2009
 7059136 Film_français_sorti_en_2008
 7059236 Film_français_sorti_en_2007
@@ -36787,6 +36819,7 @@
 7069437 Céiste_de_descente
 7069528 Lumière_sur/Accueil/Juin_2013
 7069774 Étudiant_de_l'Université_du_Manitoba
+7070007 Étudiant_de_l'université_de_Namur
 7070151 Film_français_sorti_en_1974
 7070155 Film_français_sorti_en_1973
 7070292 Film_français_sorti_en_1972
@@ -37337,6 +37370,7 @@
 7159303 Film_d'horreur_mexicain
 7159499 Joueur_des_Maple_Leafs_de_Saint-Jean
 7159542 Compétition_de_football_à_Amsterdam
+7159647 Parc_ou_jardin_public_à_Rome
 7160364 Série_télévisée_de_Hulu
 7160944 Joueur_des_Flames_de_Saint-Jean
 7161255 Bamilékés
@@ -37968,6 +38002,7 @@
 7299846 Film_japonais_sorti_en_2008
 7300086 Film_suisse_en_noir_et_blanc
 7300423 Film_historique_britannique
+7300451 Film_en_latin
 7300492 Logo_de_club_de_hockey_sur_glace_de_la_KHL
 7301026 Film_belge_en_noir_et_blanc
 7301574 Film_japonais_en_noir_et_blanc
@@ -38125,6 +38160,7 @@
 7327448 Festival_international_du_film_de_Moscou
 7327768 Liste_de_maires_dans_les_Hautes-Pyrénées
 7327915 Album_produit_par_Hi-Tek
+7327960 Film_romantique_suisse
 7327969 Fabricant_de_jouets_ayant_son_siège_aux_États-Unis
 7328005 Fabricant_de_chaussures
 7328459 Norme_ou_standard_informatique
@@ -38219,10 +38255,12 @@
 7342956 Article_du_projet_Val-de-Marne_d'importance_moyenne
 7342973 Décès_dans_le_comté_de_San_Diego
 7343213 Ligne_de_Bastia_à_Ajaccio
+7343229 Joueur_du_Koweït_SC
 7343636 Relations_entre_les_États-Unis_et_l'Union_soviétique
 7345157 Député_de_l'Assemblée_régionale_sicilienne
 7345682 Joueur_du_Qatar_SC
 7345932 Joueur_d'Al-Duhail_SC
+7345999 Entraîneur_du_Club_africain_(football)
 7346460 Fusillé_au_fort_du_Mont-Valérien
 7346583 Engin_de_chantier
 7347177 Étudiant_de_Brasenose_College
@@ -38282,6 +38320,7 @@
 7354629 Roman_américain_paru_en_1984
 7354815 Professeur_à_la_faculté_des_sciences_de_Paris
 7354979 Entreprise_ayant_son_siège_à_Marseille
+7354995 Entreprise_ayant_son_siège_à_Strasbourg
 7355006 Entreprise_ayant_son_siège_à_Toulouse
 7355033 Roman_américain_paru_en_1980
 7355881 Étudiant_de_Sidney_Sussex_College
@@ -39076,7 +39115,6 @@
 7582056 Joueur_du_Piast_Gliwice
 7582087 Joueur_du_Burton_Albion_FC
 7583237 Localité_dans_la_municipalité_de_Klinë/Klina
-7583974 Épreuve_de_Rallye-raid
 7585153 Joueur_des_Angels_de_Los_Angeles_d'Anaheim
 7585908 Utilisateur_Trône_de_fer
 7585953 Centenaire_belge
@@ -39167,6 +39205,7 @@
 7619655 Film_documentaire_québécois
 7619872 Association_ou_organisme_ayant_son_siège_à_Paris
 7619921 Association_ou_organisme_ayant_son_siège_à_Bruxelles
+7619925 Film_dramatique_serbe
 7621251 Personnalité_de_la_Nouvelle_Droite
 7621620 Décès_à_Reykjavik
 7621856 Bagnard_en_Guyane_française
@@ -39537,6 +39576,7 @@
 7700523 Architecture_civile_du_XIXe_siècle_en_Bretagne
 7700542 Édifice_religieux_du_XIXe_siècle_en_Bretagne
 7700573 Décès_à_Bethesda_(Maryland)
+7700610 Architecture_civile_du_XXe_siècle_en_Bretagne
 7700616 Architecture_civile_du_XVIIIe_siècle_en_Bretagne
 7700617 Architecture_du_XVIIIe_siècle_en_Bretagne
 7700865 Œuvre_conservée_au_musée_des_Beaux-Arts_de_Lyon
@@ -40061,6 +40101,7 @@
 7852675 Paroisse_civile_dans_l'État_de_Zulia
 7852735 Concejo_en_Alava
 7852769 Localité_en_Alava
+7854897 Personnalité_politique_sourde
 7855219 Fabricant_d'équipements_pour_le_cycle
 7855518 Afrique_de_l'Ouest
 7855918 Étudiant_du_California_Institute_of_the_Arts
@@ -40138,7 +40179,6 @@
 7876879 Monument_aux_morts_monument_historique_en_France
 7877209 Musée_d'histoire_aux_États-Unis
 7877252 Musée_militaire_en_France
-7877269 Musée_maritime_en_France
 7877271 Étudiant_de_l'université_de_Lorraine
 7877670 Chanson_de_2014
 7878021 Personnalité_du_Parti_libéral_(Royaume-Uni)
@@ -40572,6 +40612,7 @@
 7934483 Téléfilm_romantique
 7934536 Récompense_musicale_par_année
 7934683 Film_produit_par_Darryl_F._Zanuck
+7934848 Portail:Hokkaidō/Articles_liés
 7934982 Série_télévisée_post-apocalyptique
 7935424 Article_du_projet_Malte_d'avancement_BD
 7935425 Article_du_projet_Malte_d'avancement_ébauche
@@ -40584,6 +40625,7 @@
 7935523 Article_du_projet_Égypte_d'importance_moyenne
 7935531 Article_du_projet_Égypte_d'importance_faible
 7935538 Article_du_projet_Égypte_d'importance_inconnue
+7936016 Portail:Préfecture_d'Aomori/Articles_liés
 7936658 Naissance_à_Salaberry-de-Valleyfield
 7937354 Corps_d'armée_de_la_Wehrmacht
 7937408 Commune_dans_le_județ_de_Mureș
@@ -40598,8 +40640,10 @@
 7937828 Décès_en_avril_2012
 7937938 Division_d'infanterie_de_la_Wehrmacht
 7937995 Naissance_à_Montmagny_(Québec)
+7938006 Portail:Préfecture_d'Iwate/Articles_liés
 7938007 Étudiant_de_l'Université_Laval
 7938079 Naissance_à_Rouyn-Noranda
+7938088 Naissance_à_Val-d'Or
 7938099 Type_de_planètes
 7938105 Décès_en_juin_2012
 7938146 Décès_en_juillet_2012
@@ -40618,6 +40662,9 @@
 7938416 Chevalier_français
 7938425 Décès_en_février_2013
 7938439 Décès_en_janvier_2013
+7938657 Portail:Préfecture_de_Miyagi/Articles_liés
+7939021 Portail:Préfecture_de_Yamagata/Articles_liés
+7939184 Portail:Préfecture_de_Fukushima/Articles_liés
 7939801 Décès_en_janvier_2000
 7939817 Décès_en_décembre_1999
 7940038 Enclave_de_Treviño
@@ -40671,7 +40718,6 @@
 7943175 Naissance_en_mai_1994
 7943199 Naissance_en_octobre_1994
 7943202 Naissance_en_décembre_1989
-7943445 Entreprise_ayant_son_siège_en_Turquie
 7943461 Naissance_à_El_Biar
 7943465 Entreprise_ayant_son_siège_en_France
 7943479 Entreprise_ayant_son_siège_en_Allemagne
@@ -40965,6 +41011,7 @@
 7948251 Naissance_en_mars_1973
 7948273 Naissance_en_août_1959
 7948288 Naissance_en_octobre_1967
+7948297 Portail:Préfecture_de_Tochigi/Articles_liés
 7948448 Grand-croix_de_l'ordre_royal_de_l'Étoile_polaire
 7948560 Décès_en_juin_2010
 7948630 Décès_en_novembre_2006
@@ -41031,7 +41078,10 @@
 7950501 Naissance_en_septembre_1860
 7950557 Naissance_en_mars_1860
 7950788 Commune_ayant_porté_un_nom_révolutionnaire_en_Seine-et-Marne
+7950861 Portail:Préfecture_d'Ibaraki/Articles_liés
+7951108 Enseignant_au_Conservatoire_national_des_arts_et_métiers
 7951770 Jeu_Ouya
+7951884 Portail:Préfecture_de_Gunma/Articles_liés
 7951973 Décès_en_décembre_2011
 7951996 Décès_en_octobre_2011
 7952233 Gastronomie_en_Ardèche
@@ -41049,6 +41099,7 @@
 7953144 Naissance_en_octobre_1971
 7953145 Naissance_en_novembre_1971
 7953706 Naissance_en_octobre_1961
+7953934 Portail:Préfecture_de_Saitama/Articles_liés
 7953951 Grand-croix_de_l'ordre_de_la_Couronne_d'Italie
 7954025 Joueur_du_Dunkerque_Handball_Grand_Littoral
 7954562 Spoliation_d'œuvres_d'art_sous_le_Troisième_Reich
@@ -41077,6 +41128,7 @@
 7955588 Maire_membre_du_Parti_communiste_français
 7955619 Maire_membre_du_Parti_socialiste_(France)
 7955693 Maire_membre_de_l'Union_pour_un_mouvement_populaire
+7955809 Portail:Préfecture_de_Chiba/Articles_liés
 7955871 Agaminae
 7955936 Uromastycinae
 7956146 Récipiendaire_de_l'ordre_du_Chrysanthème
@@ -41113,6 +41165,7 @@
 7956497 Naissance_en_février_1911
 7956498 Naissance_en_septembre_1919
 7956500 Décès_en_septembre_1999
+7956505 Portail:Préfecture_de_Kanagawa/Articles_liés
 7956632 Décès_en_octobre_1980
 7956633 Naissance_en_juin_1886
 7956634 Naissance_en_février_1885
@@ -41135,17 +41188,23 @@
 7958042 Entreprise_ayant_son_siège_en_Chine
 7958114 Entreprise_ayant_son_siège_en_Italie
 7958221 Faction_armée_en_Syrie
+7958540 Portail:Préfecture_de_Niigata/Articles_liés
+7958729 Portail:Préfecture_de_Nagano/Articles_liés
 7959438 Série_télévisée_d'au_moins_20_saisons
 7959463 Série_télévisée_d'au_moins_10_saisons
 7960004 Liste_des_communes_d'Espagne_par_province
 7960077 Équipe_d'Argentine_de_football_par_compétition
 7960196 Membre_de_l'Académie_royale_des_beaux-arts_de_San_Fernando
+7960289 Portail:Préfecture_de_Yamanashi/Articles_liés
 7960326 Grand-croix_de_l'ordre_d'Alphonse_X_le_Sage
 7960352 Élève_de_l'Académie_royale_des_beaux-arts_de_San_Fernando
 7960498 Naissance_en_Corrèze
 7960613 Œuvre_littéraire_se_déroulant_dans_un_établissement_scolaire
+7960770 Portail:Préfecture_de_Shizuoka/Articles_liés
+7960820 Ligne_de_chemin_de_fer_dans_la_préfecture_de_Hyōgo
 7960904 Ligne_de_chemin_de_fer_dans_la_préfecture_d'Ōsaka
 7960937 Ligne_de_chemin_de_fer_dans_la_préfecture_de_Tokyo
+7960962 Portail:Préfecture_de_Toyama/Articles_liés
 7961970 Naissance_en_janvier_1934
 7962137 Naissance_en_mai_1921
 7962144 Décès_en_juin_1985
@@ -41154,6 +41213,7 @@
 7962176 Naissance_en_octobre_1992
 7962178 Naissance_en_mars_1992
 7962179 Naissance_en_décembre_1990
+7962262 Portail:Préfecture_d'Ishikawa/Articles_liés
 7962308 Moine_du_VIIe_siècle
 7962329 Moine_du_VIe_siècle
 7962342 Moine_du_IXe_siècle
@@ -41161,6 +41221,7 @@
 7962493 Archevêque_du_Xe_siècle
 7962542 Membre_de_la_Royal_Astronomical_Society
 7962567 Canistrum
+7962611 Portail:Préfecture_de_Fukui/Articles_liés
 7962613 Naissance_en_juin_1875
 7962623 Moine_du_VIIIe_siècle
 7962637 Décès_en_juillet_1959
@@ -41212,6 +41273,8 @@
 7963035 Naissance_en_juin_1981
 7963044 Décès_en_novembre_2010
 7963047 Naissance_en_juin_1914
+7963127 Portail:Préfecture_de_Gifu/Articles_liés
+7963465 Portail:Préfecture_d'Aichi/Articles_liés
 7964232 Équipe_de_Tunisie_de_football_par_saison
 7964248 Personnalité_de_la_Section_française_de_l'Internationale_ouvrière
 7965280 Maria-Chapdelaine
@@ -41221,6 +41284,8 @@
 7965340 Le_Fjord-du-Saguenay
 7965505 Personnalité_du_Parti_justicialiste
 7965578 Roi_des_Lombards
+7965766 Portail:Préfecture_de_Mie/Articles_liés
+7966570 Portail:Préfecture_de_Shiga/Articles_liés
 7967323 Phare_en_Grèce
 7967440 Milesiens_Ard_ri_(roi_suprême_d'Irlande)
 7967662 Personnalité_byzantine_du_Ve_siècle
@@ -41230,24 +41295,34 @@
 7968094 Noblesse_russe_du_XIXe_siècle
 7968097 Noblesse_russe_du_XXe_siècle
 7968453 Afro-Américains
+7968464 Portail:Préfecture_de_Nara/Articles_liés
+7969420 Portail:Préfecture_de_Wakayama/Articles_liés
 7969520 Naissance_dans_le_duché_de_Bretagne
 7970143 Bâtiment_en_Montérégie
 7970421 Décès_en_août_1965
 7971100 Décès_dans_le_duché_de_Bretagne
 7971440 Décès_en_mai_1999
+7972005 Portail:Préfecture_de_Tottori/Articles_liés
+7972917 Portail:Préfecture_de_Shimane/Articles_liés
 7973253 Jeu_vidéo_d'arcade
+7973305 Portail:Préfecture_d'Okayama/Articles_liés
 7974729 Synonyme_d'espèce_de_Bromeliaceae_(nom_scientifique)
 7974887 Traileur
+7975382 Portail:Préfecture_de_Hiroshima/Articles_liés
 7975629 Décès_en_août_1990
 7975765 Naissance_en_janvier_1800
+7975790 Portail:Préfecture_de_Yamaguchi/Articles_liés
 7975816 Voie_piétonnière_de_Paris
 7975888 Cebidae
+7976208 Portail:Préfecture_de_Tokushima/Articles_liés
 7976404 Naissance_en_décembre_1799
 7977052 Film_réalisé_par_Lloyd_Bacon
 7977079 Étudiant_de_l'école_des_pilotes_d'essai_de_l'United_States_Air_Force
 7977380 Redirection_(prénoms)
+7977422 Portail:Préfecture_de_Kagawa/Articles_liés
 7977649 Brome-Missisquoi
 7977753 Témiscamingue
+7977982 Portail:Préfecture_d'Ehime/Articles_liés
 7978329 Personnalité_du_Parti_socialiste_unifié_d'Allemagne
 7979148 Roussillon_(municipalité_régionale_de_comté)
 7979377 Film_found_footage
@@ -41456,15 +41531,19 @@
 7986079 Décès_en_octobre_1960
 7986080 Décès_en_décembre_1992
 7986308 Lauréat_du_prix_Lletra_d'Or
+7986436 Portail:Préfecture_de_Kōchi/Articles_liés
 7987058 Film_tourné_à_Istanbul
 7987116 Naissance_en_mars_1885
 7987124 Naissance_en_juin_1910
 7987125 Naissance_en_novembre_2001
 7987126 Naissance_en_novembre_1990
 7987127 Naissance_en_novembre_1933
+7987375 Portail:Préfecture_de_Fukuoka/Articles_liés
 7988314 Série_télévisée_romantique
 7988754 Parfumeur_français
+7988918 Portail:Préfecture_de_Saga/Articles_liés
 7989566 Faction_armée_en_Irak
+7989796 Portail:Préfecture_de_Nagasaki/Articles_liés
 7989909 Jeu_en_full_motion_video
 7990760 Traités_inégaux
 7990860 Décès_en_janvier_2011
@@ -41481,11 +41560,13 @@
 7991027 Naissance_en_août_1975
 7991165 Naissance_en_janvier_1985
 7991181 Naissance_en_octobre_1982
+7991184 Portail:Préfecture_de_Kumamoto/Articles_liés
 7991461 Cambaridae
 7991483 Palaemonidae
 7991529 Joueuse_des_Stars_de_San_Antonio
 7991569 Octopodidae
 7991637 Tenrecidae
+7992121 Portail:Préfecture_d'Ōita/Articles_liés
 7992409 Didelphidae
 7992441 Marsupial_(nom_scientifique)
 7992454 Marsupial_(nom_vernaculaire)
@@ -41527,6 +41608,7 @@
 7993576 Naissance_en_juin_1980
 7993650 Naissance_en_août_1987
 7993696 Naissance_en_juin_1973
+7993835 Portail:Préfecture_de_Miyazaki/Articles_liés
 7993931 Naissance_en_septembre_1969
 7993939 Naissance_en_mai_1957
 7993947 Naissance_en_juillet_1980
@@ -41546,6 +41628,7 @@
 7994431 Naissance_en_août_1958
 7994453 Naissance_en_juillet_1974
 7994819 Naissance_à_Orange_(New_Jersey)
+7995388 Portail:Préfecture_de_Kagoshima/Articles_liés
 7995500 Naissance_en_juillet_1973
 7995531 Lord_trésorier
 7995678 Article_du_projet_Gravure_d'avancement_B
@@ -41559,6 +41642,7 @@
 7995836 Naissance_en_septembre_1982
 7996217 Militant_pour_les_victimes_d'abus_sexuels
 7996379 Joueur_du_Metalurh_Zaporijjia
+7996496 Portail:Préfecture_d'Okinawa/Articles_liés
 7996917 Naissance_en_juin_1959
 7996926 Naissance_en_février_1981
 7996928 Naissance_en_août_1951
@@ -44481,6 +44565,7 @@
 8117564 Décès_en_avril_1842
 8117565 Décès_en_mai_1842
 8117568 Décès_en_août_1842
+8117570 Décès_en_octobre_1842
 8117573 Décès_en_janvier_1843
 8117576 Décès_en_avril_1843
 8117578 Décès_en_mai_1843
@@ -44539,6 +44624,7 @@
 8117707 Décès_en_août_1853
 8117718 Décès_en_décembre_1853
 8117720 Décès_en_janvier_1854
+8117721 Décès_en_février_1854
 8117722 Décès_en_mars_1854
 8117723 Décès_en_mai_1854
 8117724 Décès_en_juillet_1854
@@ -45606,7 +45692,7 @@
 8146094 Naissance_en_mars_2001
 8146187 Personnage_LGBT_de_série_télévisée
 8146325 Village_disparu
-8146394 Série_télévisée_centrée_sur_l'homosexualité,_la_bisexualité_ou_la_transidentité
+8146394 Série_télévisée_sur_les_LGBT
 8146978 Naissance_en_septembre_1772
 8146982 Naissance_en_novembre_1770
 8146983 Naissance_en_novembre_1771
@@ -46224,6 +46310,7 @@
 8309256 Naissance_en_mai_1752
 8309261 Naissance_en_avril_1752
 8309264 Naissance_en_mars_1752
+8309265 Naissance_en_mars_1753
 8310031 Secrétaire_d'État_aux_Transports_du_Royaume-Uni
 8311008 Avocat_américain_du_XXe_siècle
 8311071 Avocat_suisse_du_XXe_siècle
@@ -46724,6 +46811,7 @@
 8481221 Exploration_de_l'espace
 8481386 Évêque_catholique_brésilien_du_XXIe_siècle
 8481558 Jeu_vidéo_utilisant_la_génération_procédurale
+8481616 Film_sur_la_mythologie_gréco-romaine
 8481649 Mythologie_gréco-romaine_dans_la_sculpture_après_l'Antiquité
 8481734 Opéra_s'inspirant_de_la_mythologie_gréco-romaine
 8481757 Mythologie_gréco-romaine_dans_la_peinture
@@ -46804,6 +46892,7 @@
 8529470 Soixante-huitard
 8529833 Décès_au_Kremlin-Bicêtre
 8530411 Auteur-compositeur-interprète_allemand
+8532508 Portail:Universités_japonaises/Articles_liés
 8532785 Joueur_du_CB_Canarias
 8533020 Navire_construit_par_Swan_Hunter
 8533699 Article_du_projet_Anatomie_d'avancement_B
@@ -47239,6 +47328,7 @@
 8716094 Article_du_projet_Nîmes_d'avancement_ébauche
 8716108 Article_du_projet_Nîmes_d'importance_moyenne
 8716114 Article_du_projet_Nîmes_d'importance_faible
+8716891 Utilisateur_Gauche_de_gauche
 8717575 Décès_en_février_2015
 8718813 Album_certifié_disque_de_platine_aux_Pays-Bas
 8718928 Manga_publié_par_Ki-oon
@@ -47671,7 +47761,6 @@
 8976998 Joueur_international_australien_de_rugby_à_XV
 8976999 Joueur_international_japonais_de_rugby_à_XV
 8977061 Joueur_international_néo-zélandais_de_rugby_à_XV
-8977290 Diplomate_française
 8977352 Joueur_international_tongien_de_rugby_à_XV
 8977643 CubeSat
 8977967 Palette_Football_en_France
@@ -47803,6 +47892,7 @@
 9035314 Album_certifié_double_disque_de_platine_aux_États-Unis
 9035481 Juge_d'instruction_français
 9036110 Critique_gastronomique_français
+9036111 Critique_gastronomique_du_XXe_siècle
 9039310 Naissance_à_Charlottesville
 9039624 Mort_d'un_cancer_de_la_vessie
 9040063 Historien_de_l'estampe
@@ -47895,6 +47985,7 @@
 9084586 Correspondant_d'Érasme
 9084846 Membre_de_la_Chambre_des_représentants_du_Kentucky
 9085441 Ueekata
+9087696 L'Assiette_au_beurre
 9088241 Membre_du_Gray's_Inn
 9088319 Naissance_à_St_Helens_(Merseyside)
 9088908 Membre_de_l'Académie_brésilienne_des_lettres
@@ -48403,6 +48494,7 @@
 9293196 Mannequin_femme_australien
 9293213 Anatomie_du_système_squelettique
 9293221 Mannequin_femme_russe
+9293294 Anatomie_du_système_digestif
 9293704 Article_du_projet_Management_d'importance_moyenne
 9293868 Article_du_projet_Management_d'avancement_BD
 9293872 Article_du_projet_Management_d'avancement_B
@@ -48463,6 +48555,7 @@
 9305350 Coureuse_d'ultra-trail
 9305412 Diocèse_catholique_en_Argentine
 9305673 Bateau_lancé_en_1972
+9305680 Bateau_lancé_en_1973
 9305682 Bateau_lancé_en_1974
 9305684 Bateau_lancé_en_1975
 9305689 Bateau_lancé_en_1976
@@ -48549,6 +48642,7 @@
 9315964 Station_du_métro_de_Tokyo
 9316176 Bateau_lancé_en_1892
 9316911 Joueur_de_l'UTA_Arad
+9316957 Révolution_au_XXe_siècle
 9317441 Commandeur_de_l'ordre_de_Saint-Jean_de_Jérusalem
 9320557 Joueur_du_Füchse_Berlin
 9320817 Liste_de_musées_en_Angleterre_par_comté
@@ -48664,6 +48758,7 @@
 9356041 Sprinteur_brésilien
 9357160 Mannequin_femme_indien
 9358748 Joueur_du_RK_Vardar_Skopje
+9358759 Handballeur_international_russe
 9358908 Footballeuse_internationale_danoise
 9358960 Joueur_du_Cambridge_United_FC
 9359472 Footballeuse_internationale_italienne
@@ -48725,7 +48820,7 @@
 9375535 Baztan_(Navarre)
 9376926 Gallura
 9377312 Cheval_de_sport
-9377677 Film_sur_le_trouble_mental
+9377677 Film_sur_le_trouble_psychique
 9378224 Collaborateur_de_la_Revue_de_Paris
 9378342 Collaborateur_du_Gaulois
 9379241 Étudiant_de_l'université_du_Wisconsin_à_Madison
@@ -48960,6 +49055,7 @@
 9476098 Film_en_russe
 9476107 Film_en_hébreu
 9476124 Film_en_norvégien
+9476129 Film_en_roumain
 9476329 Film_en_grec
 9476334 Film_en_tchèque
 9477191 Film_en_danois
@@ -49000,6 +49096,7 @@
 9487017 Film_en_tamoul
 9487656 Film_en_vietnamien
 9490172 Joueur_de_l'Union_sportive_monastirienne
+9490518 Patron_de_presse_du_XXe_siècle
 9490659 Sport_associatif_français_sous_la_IIIe_République
 9490720 Cours_d'eau_en_Chaudière-Appalaches
 9490738 Film_en_portugais
@@ -49141,6 +49238,7 @@
 9568603 Élève_de_l'Académie_Julian
 9568676 Organisme_récipiendaire_de_l'ordre_du_Drapeau_rouge_du_Travail
 9568711 Actrice_espagnole_de_cinéma
+9569808 4_médailles_d'or_aux_championnats_du_monde_de_gymnastique
 9569809 3_médailles_d'or_aux_championnats_du_monde_de_gymnastique
 9569810 2_médailles_d'or_aux_championnats_du_monde_de_gymnastique
 9569812 1_médaille_d'or_aux_championnats_du_monde_de_gymnastique
@@ -49248,7 +49346,6 @@
 9625922 Famille_de_Nysa
 9625926 Souk_à_Tunis
 9626048 Robot,_androïde_ou_ordinateur_dans_la_fiction
-9626179 Étoile_binaire_à_éclipses
 9626207 Étoile_variable_de_type_BY_Draconis
 9628033 Article_du_projet_Asie_d'avancement_B
 9628036 Article_du_projet_Asie_d'importance_élevée
@@ -49388,6 +49485,7 @@
 9674118 Bachiinae
 9674235 Chronologie_de_la_Lorraine
 9674578 Boîte_utilisateur_région_traditionnelle_française
+9675332 Conseiller_régional_du_Grand_Est
 9676177 Commune_disparue_en_2016
 9676201 Lumière_sur/Auvergne-Rhône-Alpes
 9676528 Système_hydrologique_de_la_Broadback
@@ -49567,7 +49665,6 @@
 9745925 Article_du_projet_Monuments_historiques_d'importance_élevée
 9745927 Article_du_projet_Monuments_historiques_d'importance_moyenne
 9745930 Article_du_projet_Monuments_historiques_d'importance_faible
-9745931 Article_du_projet_Monuments_historiques_d'importance_inconnue
 9746038 Système_hydrologique_de_l'estuaire_du_Saint-Laurent
 9746437 Article_du_projet_Design_d'importance_élevée
 9746441 Article_du_projet_Design_d'importance_faible
@@ -49600,6 +49697,7 @@
 9752341 Article_du_projet_Barrage_d'importance_élevée
 9752343 Article_du_projet_Barrage_d'importance_moyenne
 9752349 Article_du_projet_Barrage_d'importance_faible
+9752351 Article_du_projet_Barrage_d'importance_inconnue
 9753361 Architecture_du_XXIe_siècle_en_Île-de-France
 9754002 Voie_du_7e_arrondissement_de_Budapest
 9754096 Film_italien_sorti_en_2016
@@ -50280,6 +50378,7 @@
 10102068 Naissance_à_Brandon_(Manitoba)
 10102736 Monument_de_la_guerre_franco-allemande_de_1870_en_France
 10102824 Ancienne_commune_en_Rhénanie-du-Nord-Westphalie
+10102863 Lieu_lié_à_l'impressionnisme
 10103507 Navire_construit_à_Camden_(New_Jersey)
 10103597 Ville_ou_oppidum_celtique_en_France
 10103613 Professeur_à_l'University_College_de_Londres
@@ -50687,6 +50786,7 @@
 10278548 Gare_ferroviaire_patrimoniale_en_Ontario
 10278862 Docteur_honoris_causa_de_l'université_technique_de_Dresde
 10279941 Championnat_d'Europe_en_2024
+10279952 Football_en_2024
 10280268 Joueur_de_l'Alianza_Atlético
 10280599 Romancier_britannique_du_XIXe_siècle
 10280834 Responsabilité_civile
@@ -50761,6 +50861,7 @@
 10317196 Lauréat_du_prix_Wolf_de_physique
 10318928 Roman_sur_la_Première_Guerre_mondiale
 10318977 Localité_dans_le_district_sud_(Israël)
+10318978 Localité_dans_le_district_centre_(Israël)
 10318995 Localité_dans_le_district_de_Haïfa
 10319563 Joueur_du_Londrina_Esporte_Clube
 10319905 Enfant_de_fiction
@@ -50778,6 +50879,7 @@
 10325790 Objet_du_Bonner_Durchmusterung
 10325815 Objet_du_catalogue_SAO
 10325824 Lauréat_du_prix_Gairdner
+10326490 Narcissisme
 10326797 Palette_Circonscription_législative_française
 10327847 Famille_Sapieha
 10327901 Club_de_basket-ball_en_Auvergne-Rhône-Alpes
@@ -50806,7 +50908,6 @@
 10333460 Unité_militaire_australienne_de_la_Seconde_Guerre_mondiale
 10333817 Personnalité_française_née_d'un_parent_russe
 10337981 Naissance_dans_le_département_du_Mont-Blanc
-10338973 Redirections_connectées_intentionnellement_à_un_élément_Wikidata
 10339437 Résistance_spirituelle_au_nazisme
 10339576 Décès_à_Mauthausen
 10339837 Localité_du_Pays_de_Sierck
@@ -50949,6 +51050,7 @@
 10380124 Série_télévisée_disparue_en_2008
 10380127 Série_télévisée_disparue_en_2007
 10381145 Édifice_religieux_gothique_en_Picardie
+10381406 Portail:Shinto/Articles_liés
 10382683 Prieuré_monument_historique_en_France
 10382731 Divinité_shinto
 10383300 Sommet_dans_le_parc_national_de_Yosemite
@@ -51391,6 +51493,7 @@
 10573270 Chanteur_français_de_reggae
 10573303 Wikipédia:Kitsune
 10573536 Producteur_américain_de_hip-hop
+10573673 Producteur_français_de_hip-hop
 10573750 Film_réalisé_par_Fred_Olen_Ray
 10574309 Producteur_jamaïcain_de_reggae
 10574394 Boîte_utilisateur_console_de_jeu
@@ -52109,7 +52212,7 @@
 10944695 Mathématicien_français_du_XIXe_siècle
 10944697 Mathématicien_français_du_XXe_siècle
 10944701 Mathématicien_français_du_XXIe_siècle
-10945008 Film_tourné_aux_Bray_Studios
+10945008 Film_tourné_aux_studios_de_Bray
 10945535 Linguiste_spécialiste_de_la_langue_catalane
 10946503 Premiers_films_du_cinéma
 10946573 Kamppi
@@ -52396,6 +52499,7 @@
 11076642 Article_Wikiconcours/septembre_2017
 11077204 Décès_en_septembre_2017
 11077325 Single_numéro_un_dans_le_Mainstream_Rock_Songs
+11077691 Joueur_du_Selangor_FA
 11078571 Oiseau_de_Madagascar
 11080015 Bienheureux_catholique_espagnol
 11080423 Clan_ou_équipe_de_catch_(WWE/WWF)
@@ -52786,7 +52890,6 @@
 11330614 Article_du_projet_Astronomie_d'avancement_homonymie
 11330665 Chanteur_guyanais
 11333204 Groupe_de_rock_électronique
-11334565 Siège_du_Moyen_Âge
 11336001 Maison_à_Montréal
 11336428 Personnalité_du_Parti_démocrate_en_Alabama
 11337080 Siège_impliquant_la_France
@@ -52997,6 +53100,7 @@
 11436611 Cours_d'eau_dans_le_borough_de_North_Slope
 11436976 Atoll_Faadhippolhu
 11437262 Ouragan_aux_États-Unis
+11438355 Comté_de_Saare
 11439209 Film_d'A24
 11442628 Biathlète_(homme)_aux_Jeux_olympiques_d'hiver_de_2018
 11442630 Bobeur_aux_Jeux_olympiques_d'hiver_de_2018
@@ -53216,6 +53320,7 @@
 11557753 Article_du_projet_Métallurgie_d'avancement_BD
 11557754 Article_du_projet_Métallurgie_d'avancement_B
 11560796 Filiation
+11561179 Député_membre_d'Europe_Écologie_Les_Verts
 11563871 Élève_de_Sainte-Croix_de_Neuilly
 11563975 PSOne_Classics
 11564198 Édifice_construit_au_XIIe_siècle
@@ -53703,6 +53808,7 @@
 11813445 Dignitaire_de_l'ordre_souverain_de_Malte
 11813652 Prisonnier_politique_du_XXIe_siècle
 11813767 Joueur_de_hockey_sur_glace_des_Pioneers_de_Denver
+11814636 Prisonnier_politique_espagnol
 11815551 Décès_en_juillet_2018
 11815828 Prisonnier_politique_syrien
 11815941 Film_produit_par_Claude_Berri
@@ -53774,6 +53880,7 @@
 11879247 Décès_en_août_2018
 11882827 Film_sur_la_pédophilie
 11883619 Étudiant_de_l'université_Kingston
+11885924 Vidéaste_web_politique
 11887073 Député_espagnol_de_la_IIe_législature_de_la_Seconde_République
 11887137 Homonymie_de_surnom
 11887461 Homonymie_de_nom_de_famille
@@ -54419,6 +54526,7 @@
 12207614 Série_télévisée_japonaise_de_science-fiction
 12207855 Série_télévisée_britannique_de_science-fiction
 12207856 Bâtiment_à_Tampere
+12208433 Arbre_en_Inde
 12209631 Série_télévisée_de_space_opera
 12214902 Film_distribué_sur_Disney+
 12216225 Retrait_du_Royaume-Uni_de_l'Union_européenne
@@ -54608,6 +54716,7 @@
 12268594 Groupe_musical_reformé_en_2011
 12268600 Groupe_musical_reformé_en_2010
 12268602 Groupe_musical_reformé_en_2009
+12268611 Groupe_musical_reformé_en_2008
 12268715 Genre_de_Coléoptères_(nom_scientifique)
 12268745 Espèce_de_Coléoptères_(nom_scientifique)
 12268863 Synonyme_d'espèce_d'insectes_(nom_scientifique)
@@ -54854,6 +54963,7 @@
 12374732 Télescope_optique
 12375792 Mort_d'un_cancer_de_l'ovaire
 12376076 Sous-ordre_d'insectes_(nom_scientifique)
+12378895 Graphe_planaire
 12380971 Deuxième_guerre_civile_libyenne
 12381050 Sommet_du_Karakoram
 12382020 Espèce_d'acariens_(nom_scientifique)
@@ -55352,7 +55462,6 @@
 12604216 Article_du_projet_Corrèze_d'importance_faible
 12609298 Joueur_du_Wolfsberger_AC
 12610352 Dinosaure_du_Crétacé_inférieur
-12610383 Diapside_du_Crétacé_inférieur
 12610423 Araignée_du_Crétacé
 12610749 Dinosaure_du_Crétacé_supérieur
 12610758 Diapside_du_Crétacé_supérieur
@@ -55385,7 +55494,6 @@
 12625783 Ville_dans_le_département_de_Zimtenga
 12626375 Panda_géant
 12626764 Site_web_lancé_en_2000
-12626804 Entreprise_de_jeux_vidéo_ayant_son_siège_à_Tokyo
 12627179 Entreprise_de_jeux_vidéo_ayant_son_siège_à_Paris
 12627638 Objet_céleste_découvert_par_Ye_Quan-Zhi
 12628013 Wikiprojet_Burkina_Faso
@@ -55787,6 +55895,7 @@
 12839115 Événement_à_Londres
 12839116 Grand-croix_de_l'ordre_de_la_Couronne_de_Wende
 12839621 Coucher_de_soleil_dans_la_peinture
+12839756 Chevalier_de_l'ordre_impérial_de_Léopold
 12839819 Peintre_irlandaise
 12839839 Peintre_néerlandaise
 12840527 Récipiendaire_de_l'ordre_du_Mérite_de_Bade-Wurtemberg
@@ -55868,6 +55977,7 @@
 12878476 Planète_mineure_découverte_en_2019
 12878880 Bâtiment_à_Vaasa
 12879034 Plasticienne_française
+12879047 Plasticienne_américaine
 12880397 Église_inscrite_au_Registre_national_des_lieux_historiques
 12880621 Motocyclette_des_années_2020
 12880683 Lauréat_du_prix_Thiers
@@ -56010,6 +56120,7 @@
 12956091 Élection_dans_la_Vienne
 12956458 Article_du_projet_Liban_d'avancement_BD
 12956474 Article_du_projet_Liban_d'importance_moyenne
+12956594 Article_du_projet_Liban_d'avancement_B
 12958949 Association_ou_organisme_lié_aux_femmes
 12960270 Article_du_projet_Noircir_Wikipédia_d'avancement_B
 12960272 Article_du_projet_Noircir_Wikipédia_d'avancement_BD
@@ -56113,6 +56224,7 @@
 13012585 Liste_de_personnes_récompensées_ou_distinguées
 13014533 Paysage_précieux_à_l'échelle_nationale_en_Finlande
 13014788 Film_scénarisé_par_Henri_Jeanson
+13014822 Entreprise_fondée_en_2020
 13015345 Décès_dans_le_duché_de_Saxe-Cobourg_et_Gotha
 13015433 Décès_dans_la_principauté_épiscopale_de_Wurtzbourg
 13015791 Roman_français_paru_en_2020
@@ -56320,10 +56432,8 @@
 13137931 Élections_dans_la_Somme_sous_la_Troisième_République
 13138346 Article_du_projet_Musique_classique_d'avancement_homonymie
 13140945 Syndicat_affilié_à_la_Confédération_générale_du_travail
-13140970 Distributeur_de_jeux_vidéo
 13141203 Parti_politique_fondé_en_2020
 13141243 Mégalithe_évoquant_Gargantua
-13142127 Basket-ball_en_2023
 13142605 Espèce_envahissante_en_Suisse
 13142991 Naissance_à_Pilsen
 13143960 Joueuse_du_Stade_bordelais
@@ -56378,7 +56488,6 @@
 13169844 Coupe_d'Algérie_masculine_de_handball
 13169879 Joueur_du_Blagnac_rugby
 13172638 Histoire_du_judaïsme
-13172824 Festival_de_cinéma_à_Paris
 13172834 Téléfilm_français_des_années_2020
 13173315 Personnalité_espagnole_née_d'un_parent_marocain
 13173590 Conseillers_municipaux_ontariens
@@ -56551,7 +56660,6 @@
 13247855 Tribu_arabe
 13247988 Kose
 13248300 Membre_de_la_Société_américaine_de_statistique
-13248734 Phénomène_d'érosion
 13250183 Étudiant_de_l'université_Gamal-Abdel-Nasser_de_Conakry
 13250990 Membre_de_l'Institut_de_statistique_mathématique
 13251694 Titulaire_de_la_médaille_d'honneur_de_l'administration_pénitentiaire
@@ -56563,6 +56671,7 @@
 13254074 Dramaturge_belge_du_XXe_siècle
 13254080 Dramaturge_allemand_du_XXe_siècle
 13256845 Église_monument_historique_en_Haute-Marne
+13257585 Shubert_Organization
 13257645 Personnalité_du_Parti_démocrate_allemand
 13258529 Romancier_japonais_du_XXe_siècle
 13258534 Poète_japonais_du_XXe_siècle
@@ -56617,6 +56726,7 @@
 13284777 Bâtiment_déplacé_aux_États-Unis
 13285512 Élève_de_Bedales_School
 13285860 Galaxie_lumineuse_en_infrarouge
+13285970 Joueur_du_CS_Universitatea_Craiova
 13286760 Article_du_Mois_africain_Wikipédia_2020
 13287115 Classe_Bangor
 13287805 Équipement_sportif_achevé_en_1932
@@ -58358,6 +58468,7 @@
 14084377 Saison_2015-2016_de_club_de_football_en_France
 14085592 Château_monument_historique_dans_l'Allier
 14085635 Rue_à_Rouen
+14085958 Film_tourné_en_2021
 14086023 Livre_de_la_Genèse_dans_la_peinture
 14086052 Nommé_en_hommage_à_David_Bowie
 14087654 Décès_en_mai_2021
@@ -58407,6 +58518,7 @@
 14105050 Film_perdu_des_années_1930
 14107399 Film_avec_une_musique_composée_par_Bruno_Nicolai
 14108137 Film_scénarisé_par_Ugo_Pirro
+14108168 Article_du_projet_Percussions_d'importance_inconnue
 14108776 Comédie_fantastique_française
 14108792 Comédie_fantastique_italienne
 14109590 Film_produit_par_Mario_Cecchi_Gori
@@ -58421,6 +58533,7 @@
 14116331 Championnat_national_de_football_1995-1996
 14117042 Acteur_égyptien_de_cinéma
 14117129 Acteur_finlandais_de_cinéma
+14118294 Handballeur_international_yougoslave
 14118340 Utilisateur_Bibliothèque_Wikipédia
 14118743 Film_produit_par_Robert_de_Nesle
 14119975 Suite_de_film_japonais
@@ -58515,6 +58628,7 @@
 14157192 Taxon_fossile_décrit_en_1994
 14157214 Taxon_fossile_décrit_en_1888
 14157222 Taxon_fossile_décrit_en_2003
+14157590 Taxon_décrit_en_1820
 14157599 Taxon_décrit_en_1810
 14157751 Taxon_décrit_en_1854
 14157811 Article_du_projet_The_Weeknd_d'avancement_ébauche
@@ -58579,6 +58693,8 @@
 14181824 Film_produit_par_Luciano_Martino
 14182245 Femme_scientifique_du_XXIe_siècle
 14182727 Taxon_décrit_en_1840
+14183811 Article_du_projet_Littérature_haïtienne_d'avancement_ébauche
+14183857 Article_du_projet_Littérature_haïtienne_d'avancement_BD
 14184618 Lépidoptère_décrit_au_XIXe_siècle
 14185429 Joueur_du_Benfica_Lisbonne_B
 14187003 Championnat_de_France_2011-2012
@@ -58638,6 +58754,7 @@
 14215662 Ville_dans_le_département_de_Iolonioro
 14215677 Ville_dans_le_département_de_Manni
 14216154 Modèle_élections_législatives_françaises_de_1962
+14218602 Article_du_projet_Littérature_haïtienne_d'importance_inconnue
 14223191 Podoctidae
 14226432 Roman_San-Antonio
 14227972 Localité_dans_le_comté_de_Westchester
@@ -58702,7 +58819,6 @@
 14247983 Pongiste_(femme)_aux_Jeux_olympiques_d'été_de_2020
 14248952 Film_de_l'Universum_Film_AG
 14249111 Judoka_aux_Jeux_olympiques_d'été_de_2020
-14249118 Skipper_aux_Jeux_olympiques_d'été_de_2020
 14249192 Joueuse_de_badminton_aux_Jeux_olympiques_d'été_de_2020
 14249778 Championnat_national_de_football_1997-1998
 14250764 Sculpture_en_plein_air_à_Washington_(district_de_Columbia)
@@ -58743,6 +58859,7 @@
 14261725 Gymnaste_artistique_féminine_aux_Jeux_olympiques_d'été_de_2020
 14261756 Joueuse_de_hockey_sur_gazon_aux_Jeux_olympiques_d'été_de_2020
 14262223 Championne_d'Afrique_d'haltérophilie
+14262388 Membre_de_la_Royal_Academy_of_Engineering
 14262889 Relieur_du_XIXe_siècle
 14262899 Relieur_du_XXe_siècle
 14263861 Membre_de_l'Académie_des_arts_de_la_RDA
@@ -58986,7 +59103,6 @@
 14481133 Édifice_labellisé_«_Patrimoine_d'intérêt_régional_»
 14482707 Peintre_de_l'école_d'Étaples
 14486372 Actrice_ukrainienne_de_cinéma
-14486837 Massif_du_Giffre
 14487527 Stade_ayant_pour_nom_une_date
 14488648 Avenue_à_Toulouse
 14489821 Acteur_gallois_de_cinéma
@@ -59440,7 +59556,6 @@
 14825954 Planète_mineure_découverte_en_1964
 14826109 Œuvre_de_Mel_Bonis
 14826863 Planète_mineure_découverte_en_1933
-14828298 Récipiendaire_de_l'ordre_de_Saint-Olaf
 14835186 Film_biographique_sur_une_personnalité_religieuse
 14835319 Commune_dans_l'arrondissement_de_Nontron
 14835651 Congrès_universel_d'espéranto
@@ -59531,6 +59646,7 @@
 14883430 Patrimoine_classé_d'Ukraine
 14887239 Palette_Cours_d'eau_de_France
 14887780 Manga_de_fantasy
+14888041 Magistrate
 14889137 Palette_Communes_de_la_région_flamande
 14889205 Palette_Communes_de_la_région_wallonne
 14889215 Film_scénarisé_par_Sandro_Continenza
@@ -59914,6 +60030,7 @@
 15115048 Sculpture_à_Florence
 15115226 Saint_catholique_et_orthodoxe_d'Égypte
 15115241 Saint_catholique_et_orthodoxe_de_Palestine
+15115771 Porte-drapeau_olympique_de_l'Italie
 15115784 Porte-drapeau_olympique_des_États-Unis
 15117236 Porte-drapeau_olympique_du_Canada
 15117248 Porte-drapeau_olympique_de_la_Finlande
@@ -59993,6 +60110,7 @@
 15152496 Objet_céleste_découvert_par_August_Kopff
 15152552 Voilier_dans_la_peinture
 15152936 Objet_céleste_découvert_par_Joel_Hastings_Metcalf
+15152937 Coiffure_dans_la_peinture
 15153025 Liste_de_faux-nez_d'un_utilisateur_banni
 15155880 Aire_d'attraction_de_Tours
 15155910 Résistance_à_la_colonisation_britannique
@@ -60669,6 +60787,7 @@
 15369573 Film_musical_dramatique_français
 15369672 Auteur_publié_par_les_Presses_universitaires_de_Rennes
 15370878 Joueur_du_Cardiff_Rugby
+15371067 Commandeur_de_l'ordre_du_Mono
 15371134 Naissance_au_Soudan_anglo-égyptien
 15371374 Prêtre_anglican_du_XIXe_siècle
 15371376 Prêtre_anglican_du_XXe_siècle
@@ -60873,6 +60992,7 @@
 15420306 Chimiste_français_du_XIXe_siècle
 15420307 Chimiste_français_du_XXe_siècle
 15420308 Chimiste_français_du_XXIe_siècle
+15420353 Chimiste_allemand_du_XIXe_siècle
 15420355 Chimiste_allemand_du_XXe_siècle
 15420416 Chimiste_britannique_du_XIXe_siècle
 15420417 Chimiste_britannique_du_XXe_siècle
@@ -61079,6 +61199,7 @@
 15454851 Entomologiste_britannique_du_XXe_siècle
 15454854 Entomologiste_britannique_du_XIXe_siècle
 15456340 Artiste_ayant_remporté_un_Grammy_Award_de_la_chanson_de_l'année
+15456569 Noblesse_italienne_du_XXe_siècle
 15456612 Aire_d'attraction_d'Argentan
 15457421 Aire_d'attraction_de_Flers
 15457735 Aire_d'attraction_de_Cherbourg-en-Cotentin
@@ -61178,6 +61299,7 @@
 15474999 Film_se_déroulant_dans_le_Saint-Empire_romain_germanique
 15475179 Film_se_déroulant_en_Allemagne_de_l'Est
 15475196 Trachycarpeae
+15475493 Film_allemand_sorti_en_2023
 15475593 Acteur_français_du_XIXe_siècle
 15475633 Acteur_allemand_du_XXe_siècle
 15475649 Acteur_britannique_du_XXe_siècle
@@ -61258,6 +61380,7 @@
 15497448 Aire_d'attraction_d'Auxerre
 15497459 Architecte_belge_du_XXe_siècle
 15497460 Architecte_belge_du_XIXe_siècle
+15497658 Architecte_espagnol_du_XXe_siècle
 15498301 Film_produit_par_Olivier_Delbosc
 15498513 Peintre_finlandais_du_XXe_siècle
 15498838 Ange_musicien_dans_la_peinture
@@ -61297,6 +61420,7 @@
 15507402 Championne_d'Amérique_du_Nord,_d'Amérique_centrale_et_des_Caraïbes_d'athlétisme
 15508991 Arbre_en_Europe
 15509038 Arbre_en_Amérique
+15509078 Arbre_au_Cameroun
 15509110 Présentatrice_du_Concours_Eurovision_de_la_chanson
 15509258 Projet:Les_sans_pagEs/Quinzaine_des_autrices/Articles
 15509775 Jean_le_Baptiste_enfant_dans_la_peinture
@@ -61342,7 +61466,10 @@
 15520182 Journaliste_brésilien_du_XXe_siècle
 15521286 Danseuse_espagnole_du_XXe_siècle
 15521711 Actrice_française_du_XVIIIe_siècle
+15522368 Acteur_français_du_XVIIIe_siècle
+15522372 Acteur_français_du_XVIIe_siècle
 15523781 Aire_d'attraction_de_Louviers
+15523915 Compositeur_américain_du_XXe_siècle
 15524951 Cacteae
 15525141 Juriste_allemand_du_XXIe_siècle
 15525142 Juriste_allemand_du_XXe_siècle
@@ -61410,6 +61537,7 @@
 15572264 Espèce_de_Lamiaceae_(nom_scientifique)
 15572615 Biologiste_français_du_XXIe_siècle
 15572616 Biologiste_français_du_XXe_siècle
+15572618 Biologiste_français_du_XIXe_siècle
 15572838 Film_américain_se_déroulant_dans_une_prison
 15573690 Objet_céleste_découvert_par_un_des_observatoires_du_Mauna_Kea
 15573785 Zoologiste_américain_du_XXe_siècle
@@ -61641,7 +61769,6 @@
 15688171 Film_distribué_par_Bac_Films
 15688882 Genre_de_Bromeliaceae_(nom_scientifique)
 15690413 Espèce_de_Cyperaceae_(nom_scientifique)
-15691611 Article_du_projet_Monde_antique_d'avancement_B
 15691612 Article_du_projet_Monde_antique_d'avancement_BD
 15691615 Article_du_projet_Monde_antique_d'avancement_ébauche
 15691624 Article_du_projet_Monde_antique_d'importance_élevée
@@ -61828,7 +61955,7 @@
 15791108 Championnats_du_monde_de_natation_2024
 15791274 Manoir_monument_historique_dans_les_Côtes-d'Armor
 15791913 Cartouche_pour_pistolet_et_fusil
-15792098 Climato-sceptique_américain
+15792098 Climatodénialiste_américain
 15792377 Objet_patrimonial_culturel_d'importance_fédérale_à_Saint-Pétersbourg
 15792396 Objet_patrimonial_culturel_d'importance_régionale_à_Saint-Pétersbourg
 15792562 Acalyphoideae
@@ -61875,6 +62002,7 @@
 15822745 Article_du_projet_Guitare_d'avancement_ébauche
 15822816 Article_du_projet_Guitare_d'importance_moyenne
 15822817 Article_du_projet_Guitare_d'importance_inconnue
+15822818 Article_du_projet_Guitare_d'importance_faible
 15822819 Article_du_projet_Guitare_d'importance_élevée
 15822939 Article_du_projet_Impressionnisme_d'avancement_BD
 15822940 Article_du_projet_Impressionnisme_d'avancement_ébauche
@@ -61952,12 +62080,14 @@
 15874436 Champion_par_équipe_de_la_NXT
 15874450 Métier_du_droit_en_France
 15875252 Champion_par_équipe_IWGP
+15875266 Champion_de_la_X-Division_de_la_TNA
 15875270 Champion_du_monde_poids_lourds_de_la_NWA
 15875583 Utilisateur_GNU
 15876020 Champion_du_monde_par_équipe_de_la_ROH
 15876747 Champion_du_monde_par_équipe_de_la_WWE_(1971-2010)
 15878231 Champion_par_équipe_poids_lourds_junior_IWGP
 15878732 PD-textlogo
+15879176 Champion_NEVER_toutes_catégories_par_trio
 15879336 Récipiendaire_de_la_croix_de_Victoria_durant_la_Première_Guerre_mondiale
 15879435 Joueuse_internationale_italienne_de_rugby_à_XV
 15879442 Joueuse_internationale_française_de_rugby_à_XV
@@ -61974,6 +62104,7 @@
 15882689 Cardueae
 15883891 Eupatorieae
 15884729 Décès_en_octobre_2023
+15886869 Champion_du_monde_par_équipe_de_la_TNA
 15888179 Champion_du_monde_par_équipe_de_la_NWA
 15888242 Champion_du_monde_par_équipe_de_la_WCW
 15888264 Film_de_gangsters_hongkongais
@@ -62031,6 +62162,7 @@
 15921162 Réalisateur_tchèque_de_cinéma
 15921333 Lactobacillales
 15921523 Mélodie_de_Claude_Debussy
+15923475 Espèce_de_plésiosaures_(nom_scientifique)
 15924387 Groupe_de_pays
 15924478 Guerre_entre_Israël_et_le_Hamas
 15925996 Naissance_à_Mont-de-Marsan_au_XXe_siècle
@@ -62074,6 +62206,7 @@
 15939356 Ancienne_ville_en_Russie
 15940050 Décès_dans_les_Landes_au_XIXe_siècle
 15940076 Décès_dans_les_Landes_au_XXe_siècle
+15940423 Modèle_équipe_nationale_de_hockey_sur_gazon_espoirs
 15941066 Décès_à_Dax_au_XXe_siècle
 15942305 Station_de_la_ligne_4_du_métro_de_Séoul
 15942318 Station_de_la_ligne_5_du_métro_de_Séoul
@@ -62271,13 +62404,12 @@
 16117398 Personnalité_aveuglée
 16118384 Jeu_vidéo_sur_l'alimentation
 16119033 Dicotylédone_d'Inde
+16119127 Arbre_tropical_d'Amérique
 16120639 Nom_vernaculaire_de_plante_ambigu
 16123353 Commune_dans_la_communauté_de_communes_Creuse_Confluence
 16124226 Saint_catholique_et_orthodoxe_d'Asie_mineure
 16124252 Film_à_trucs
 16124477 Modèle_de_paramétrage_de_carte_d'édifice_algérien
-16126000 Magnolia
-16126008 Espèce_de_Magnoliaceae_(nom_scientifique)
 16127577 Film_de_la_Société_Lumière
 16127654 Palette_Peintre_français
 16127862 Dicotylédone_de_Suisse
@@ -62312,6 +62444,7 @@
 16140961 Gouvernorat_de_Hébron
 16141026 Compétition_cycliste_disparue_en_France
 16142048 Dicotylédone_d'Indonésie
+16142360 Broméliacée_de_Colombie
 16143155 Localité_dans_le_raïon_de_Souzdal
 16143304 Personnalité_du_Mouvement_de_libération_des_femmes
 16144203 Vainqueur_de_la_Coupe_du_monde_de_rugby_à_XV
@@ -62328,6 +62461,7 @@
 16145215 Dicotylédone_endémique_d'Amérique_du_Sud
 16145279 Palais_néo-classique_en_Italie
 16145289 Naissance_à_Londres_au_XVIIe_siècle
+16145291 Naissance_à_Londres_au_XXIe_siècle
 16145613 Espèce_d'arbustes_(nom_vernaculaire)
 16149968 Naissance_dans_le_comté_de_Lac-Saint-Jean-Ouest
 16150017 Jeu_vidéo_sur_la_santé_mentale
@@ -62336,6 +62470,7 @@
 16155388 Journaliste_automobile
 16157851 Décès_en_mars_2024
 16158437 Palette_Années_par_pays
+16160325 Palette_Peintre_italien
 16161527 Pilote_de_la_Michelin_Le_Mans_Cup
 16163754 Film_sur_la_monarchie
 16163758 Film_sur_les_princesses
@@ -62388,6 +62523,7 @@
 16206184 Copilote_du_Rallye_Dakar
 16206185 Pilote_français_du_Rallye_Dakar
 16206298 Film_réalisé_par_Dominique_Delouche
+16207919 Copilote_français_du_Rallye_Dakar
 16208221 Joueur_de_hockey_sur_glace_des_Falcons_de_Bowling_Green
 16208322 Programme_diffusé_dans_TF!_Jeunesse
 16209485 Espèce_d'Euphorbiacées_du_genre_Croton_(nom_scientifique)
@@ -62471,15 +62607,16 @@
 16257258 Espèce_de_feuillus_(nom_vernaculaire)
 16257363 Synonyme_d'espèce_de_feuillus_(nom_vernaculaire)
 16257568 Hypericum
+16260606 Arbre_au_Viêt_Nam
 16260911 Linum
 16264294 Woreda_dans_la_région_Éthiopie_du_Centre
 16264923 Film_de_Mars_Films
 16266004 Adaptation_d'une_série_télévisée_en_téléfilm
+16266203 Artiste_vidéo
 16267038 Naissance_à_Cork_au_XXe_siècle
 16267304 Naissance_à_Belfast_au_XXe_siècle
 16267312 Naissance_à_Belfast_au_XIXe_siècle
 16267805 Jointure_fibreuse_du_crâne
-16268149 Illusionnisme
 16272086 Chevalier_de_l'ordre_du_prince_Iaroslav_le_Sage,_1re_classe
 16272179 Espèce_d'Ochnaceae_(nom_scientifique)
 16272498 Chevalier_de_l'ordre_du_prince_Iaroslav_le_Sage,_2e_classe
@@ -62489,6 +62626,7 @@
 16276975 Film_sur_le_combat_de_coqs
 16277545 Espèce_de_Phyllanthaceae_(nom_scientifique)
 16287467 Pièce_de_théâtre_du_Ve_siècle_av._J.-C.
+16290695 Député_européen_indépendant
 16291862 Espèce_de_Salicaceae_(nom_scientifique)
 16292056 Espèce_de_saules_(nom_scientifique)
 16292067 Espèce_de_saules_(nom_vernaculaire)
@@ -62548,26 +62686,70 @@
 16334867 Plante_à_fleurs_(nom_vernaculaire_en_langue_étrangère)
 16335659 Compagnon_de_l'Ordre_des_arts_et_des_lettres_du_Québec
 16336304 Laureae
+16336741 Arbre_en_Colombie
 16337892 Polémiste_français
 16339972 Véhicule_utilisé_par_la_Gendarmerie_nationale_(France)
 16340628 Anoure_endémique_d'Afrique_du_Sud
 16340974 Chypriote_grec
+16341289 Membre_de_la_commission_des_transports_et_du_tourisme_du_Parlement_européen_2019-2024
 16341341 Membre_de_la_commission_des_libertés_civiles,_de_la_justice_et_des_affaires_intérieures_du_Parlement_européen_2019-2024
+16341584 Membre_de_la_commission_du_développement_régional_du_Parlement_européen_2019-2024
 16341590 Membre_de_la_commission_de_l'industrie,_de_la_recherche_et_de_l'énergie_du_Parlement_européen_2019-2024
+16341775 Membre_de_la_commission_du_marché_intérieur_et_de_la_protection_des_consommateurs_du_Parlement_européen_2019-2024
+16341779 Membre_de_la_commission_des_pétitions_du_Parlement_européen_2019-2024
+16341787 Membre_de_la_commission_de_l'agriculture_et_du_développement_rural_du_Parlement_européen_2019-2024
+16341809 Membre_de_la_commission_du_commerce_international_du_Parlement_européen_2019-2024
 16342487 Modèle_élections_législatives_françaises_de_2024
 16343185 Membre_de_la_commission_des_affaires_étrangères_du_Parlement_européen_2019-2024
+16343371 Membre_de_la_commission_de_l'emploi_et_des_affaires_sociales_du_Parlement_européen_2019-2024
 16343386 Membre_de_la_commission_de_l'environnement,_de_la_santé_publique_et_de_la_sécurité_alimentaire_du_Parlement_européen_2019-2024
+16343756 Membre_de_la_commission_des_affaires_économiques_et_monétaires_du_Parlement_européen_2019-2024
+16344184 Membre_de_la_commission_des_budgets_du_Parlement_européen_2019-2024
 16344355 Langue_en_situation_critique
+16346810 Membre_de_la_conférence_des_présidents_des_délégations_de_la_9e_législature
 16347126 Magnoliidée_d'Amérique_du_Sud
 16348794 Liste_d'accidents_ferroviaires_en_France
+16352152 Athlète_(femme)_aux_Jeux_olympiques_d'été_de_2024
 16352389 Araignée_endémique_d'Afrique_du_Sud
+16354381 Magnoliidée_d'Afrique
 16355281 Sommet_du_massif_du_Mercantour-Argentera
+16355841 Malmeoideae
 16356009 Champion_par_équipe_de_la_WWE
 16357592 Général_belge_du_XIXe_siècle
 16357594 Général_belge_du_XXe_siècle
 16358118 Collaborateur_des_Grandes_Gueules
+16360084 Pseudoscorpion_endémique_d'Afrique_du_Sud
+16360230 Décès_en_juillet_2024
 16360430 Personnalité_française_du_catholicisme_traditionaliste
 16361195 Localité_dans_le_comté_de_Hennepin
-16361318 Champion_de_la_X-Division_d'Impact
-16361321 Champion_du_monde_par_équipe_d'Impact
-16362631 Impact_Wrestling
+16361409 Député_de_la_XVIIe_législature_de_la_Ve_République
+16362069 Magnoliidée_du_Cameroun
+16363598 Film_avec_une_musique_composée_par_Lee_Holdridge
+16363624 Collaborateur_de_l'After_Foot
+16364394 Récipiendaire_de_l'ordre_d'Alexandre_Nevski_(fédération_de_Russie)
+16365167 Patriarche_œcuménique_de_Constantinople_canonisé
+16366424 Pliosauridae
+16367004 Espèce_de_magnolias_(nom_scientifique)
+16367007 Synonyme_d'espèce_de_magnolias_(nom_scientifique)
+16367148 Député_du_59e_Parlement_du_Royaume-Uni
+16368907 Solifuge_endémique_d'Afrique_du_Sud
+16369192 Pongiste_(homme)_aux_Jeux_olympiques_d'été_de_2024
+16371703 Magnoliacée_de_Chine
+16372416 Film_sur_la_protection_des_témoins
+16372770 Produits_à_base_d'agrumes
+16374366 Série_télévisée_sur_le_voyage_dans_le_temps
+16375283 Membre_de_la_Société_des_peintres-graveurs
+16376583 Développeur_de_jeux_vidéo_disparu_dans_les_années_1990
+16376590 Éditeur_de_jeux_vidéo_disparu_dans_les_années_2000
+16377552 Magnoliacée_dans_la_province_du_Yunnan
+16379899 Siège_du_Moyen_Âge_central
+16381296 Cavalier_aux_Jeux_olympiques_d'été_de_2024
+16382524 Ananteridae
+16383774 Député_européen_élu_en_Espagne_2024-2029
+16385849 Développeur_de_jeux_vidéo_ayant_son_siège_à_Tokyo
+16385855 Éditeur_de_jeux_vidéo_ayant_son_siège_à_Tokyo
+16386213 Pongiste_(femme)_aux_Jeux_olympiques_d'été_de_2024
+16386847 Musicologue_française_du_XXe_siècle
+16386849 Musicologue_française_du_XXIe_siècle
+16387419 Château_fort_du_Moyen_Âge_central
+16389402 Enceinte_de_ville_au_Moyen_Âge
