@@ -1,1 +1,1 @@
-{"name": "Prêtre_catholique_condamné", "id": 15471928, "predecessors": [{"name": "Clergé_catholique", "id": 4599235}, {"name": "Christianisme", "id": 82479}, {"name": "Métier", "id": 87726}], "successors": [{"name": "Prêtre_catholique_emprisonné", "id": 15667057}]}
+{"name": "Prêtre_catholique_condamné", "id": 15471928, "predecessors": [{"name": "Clergé_catholique", "id": 4599235}, {"name": "Christianisme", "id": 82479}, {"name": "Religion", "id": 84974}], "successors": [{"name": "Prêtre_catholique_emprisonné", "id": 15667057}]}

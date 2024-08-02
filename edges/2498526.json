@@ -1,1 +1,1 @@
-{"name": "Compagnie_aérienne_française_disparue", "id": 2498526, "predecessors": [{"name": "Entreprise_française_disparue", "id": 838127}, {"name": "Accueil", "id": 1155637}, {"name": "Compagnie_aérienne_disparue", "id": 530249}], "successors": []}
+{"name": "Compagnie_aérienne_française_disparue", "id": 2498526, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Compagnie_aérienne_disparue", "id": 530249}, {"name": "Entreprise_française_disparue", "id": 838127}], "successors": []}

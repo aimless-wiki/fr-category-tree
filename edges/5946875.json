@@ -1,1 +1,1 @@
-{"name": "Professeur_à_l'université_de_Naples", "id": 5946875, "predecessors": [{"name": "Chef-lieu_de_province_en_Italie", "id": 4560199}, {"name": "Europe", "id": 82819}, {"name": "Éducation", "id": 84941}], "successors": []}
+{"name": "Professeur_à_l'université_de_Naples", "id": 5946875, "predecessors": [{"name": "Naples", "id": 498976}, {"name": "Éducation", "id": 84941}], "successors": []}
