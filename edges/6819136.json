@@ -1,1 +1,1 @@
-{"name": "Date_spécifique", "id": 6819136, "predecessors": [{"name": "Calendrier", "id": 114194}], "successors": []}
+{"name": "Date_spécifique", "id": 6819136, "predecessors": [{"name": "Calendrier", "id": 114194}], "successors": [{"name": "Redirection_de_date", "id": 16428175}]}

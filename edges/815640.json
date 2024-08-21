@@ -1,1 +1,1 @@
-{"name": "Site_de_réseautage_social", "id": 815640, "predecessors": [{"name": "Web_social", "id": 3813104}, {"name": "Site_web", "id": 5663028}], "successors": [{"name": "Site_de_réseautage_social_américain", "id": 13478326}]}
+{"name": "Site_de_réseau_social", "id": 815640, "predecessors": [{"name": "Réseau_social", "id": 825787}, {"name": "Site_web", "id": 5663028}], "successors": [{"name": "Site_de_réseau_social_américain", "id": 16432784}]}

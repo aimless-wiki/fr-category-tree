@@ -1,1 +1,1 @@
-{"name": "Fresque_du_XVe_siècle", "id": 8593002, "predecessors": [{"name": "Peinture_murale", "id": 707322}, {"name": "Histoire_de_la_peinture", "id": 905901}, {"name": "Calendrier", "id": 114194}], "successors": []}
+{"name": "Fresque_du_XVe_siècle", "id": 8593002, "predecessors": [{"name": "Fresque", "id": 826834}, {"name": "Histoire_de_la_peinture", "id": 905901}, {"name": "Calendrier", "id": 114194}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Groupe_de_techno", "id": 11235399, "predecessors": [{"name": "Genre_de_musique_électronique", "id": 542890}, {"name": "Musique_électronique", "id": 236185}], "successors": []}
+{"name": "Groupe_de_techno", "id": 11235399, "predecessors": [{"name": "Genre_de_musique_électronique", "id": 542890}, {"name": "Musique_par_genre", "id": 2914843}], "successors": []}

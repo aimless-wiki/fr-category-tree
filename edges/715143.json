@@ -1,1 +1,1 @@
-{"name": "Impôt_royal_de_l'Ancien_Régime", "id": 715143, "predecessors": [{"name": "Ancien_Droit", "id": 866192}], "successors": [{"name": "Fermier_général", "id": 542053}]}
+{"name": "Impôt_royal_de_l'Ancien_Régime", "id": 715143, "predecessors": [{"name": "Ancien_Régime", "id": 102977}], "successors": [{"name": "Fermier_général", "id": 542053}]}

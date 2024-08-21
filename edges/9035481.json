@@ -1,1 +1,1 @@
-{"name": "Juge_d'instruction_français", "id": 9035481, "predecessors": [{"name": "Fonctionnaire_français", "id": 5505715}, {"name": "Accueil", "id": 1155637}, {"name": "Justice", "id": 248708}], "successors": []}
+{"name": "Juge_d'instruction_français", "id": 9035481, "predecessors": [{"name": "Procédure_pénale_en_France", "id": 1286379}, {"name": "Fonctionnaire_français", "id": 5505715}, {"name": "Accueil", "id": 1155637}, {"name": "Justice", "id": 248708}], "successors": []}
