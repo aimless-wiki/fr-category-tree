@@ -1,1 +1,1 @@
-{"name": "Mort_par_overdose", "id": 3647003, "predecessors": [{"name": "Consommation_de_psychotropes", "id": 1120534}, {"name": "Toxicologie", "id": 99455}], "successors": []}
+{"name": "Mort_par_overdose", "id": 3647003, "predecessors": [{"name": "Consommation_de_psychotropes", "id": 1120534}, {"name": "Toxicologie", "id": 99455}], "successors": [{"name": "Suicide_par_les_barbituriques", "id": 7706384}]}

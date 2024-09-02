@@ -1,1 +1,1 @@
-{"name": "Cuisine_sicilienne", "id": 414003, "predecessors": [{"name": "Cuisine_italienne", "id": 112879}, {"name": "Ancienne_province_en_Italie", "id": 4370976}], "successors": []}
+{"name": "Cuisine_sicilienne", "id": 414003, "predecessors": [{"name": "Cuisine_italienne", "id": 112879}, {"name": "Europe", "id": 82819}], "successors": []}

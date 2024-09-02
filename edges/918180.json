@@ -1,1 +1,1 @@
-{"name": "Robot_de_fiction", "id": 918180, "predecessors": [{"name": "Robot", "id": 550754}, {"name": "Matériel_informatique", "id": 126616}], "successors": []}
+{"name": "Robot_de_fiction", "id": 918180, "predecessors": [{"name": "Robot", "id": 550754}, {"name": "Matériel_informatique", "id": 126616}], "successors": [{"name": "Super_Sentai", "id": 109927}]}

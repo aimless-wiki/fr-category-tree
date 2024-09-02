@@ -1,1 +1,1 @@
-{"name": "Outil_de_gestion_de_projet", "id": 4542073, "predecessors": [{"name": "Gestion_de_projet", "id": 176734}, {"name": "Management", "id": 84943}], "successors": [{"name": "Diagramme", "id": 866141}, {"name": "Logiciel_de_gestion_de_projets", "id": 1700336}]}
+{"name": "Outil_de_gestion_de_projet", "id": 4542073, "predecessors": [{"name": "Gestion_de_projet", "id": 176734}, {"name": "Construction", "id": 149634}, {"name": "Management", "id": 84943}], "successors": [{"name": "Diagramme", "id": 866141}, {"name": "Logiciel_de_gestion_de_projets", "id": 1700336}]}

@@ -1,1 +1,1 @@
-{"name": "Policier_de_fiction", "id": 1298809, "predecessors": [{"name": "Enquêteur_de_fiction", "id": 797980}, {"name": "Folklore", "id": 132363}], "successors": []}
+{"name": "Policier_de_fiction", "id": 1298809, "predecessors": [{"name": "Enquêteur_de_fiction", "id": 797980}, {"name": "Folklore", "id": 132363}], "successors": [{"name": "Agent_du_FBI_de_fiction", "id": 1191829}]}
