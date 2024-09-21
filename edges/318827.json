@@ -1,1 +1,1 @@
-{"name": "Tête_et_cou_humains", "id": 318827, "predecessors": [{"name": "Tête_et_cou", "id": 10341813}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Couronne", "id": 5614376}]}
+{"name": "Tête_et_cou_humains", "id": 318827, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Anatomie_animale", "id": 277702}], "successors": []}

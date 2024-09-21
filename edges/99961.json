@@ -1,1 +1,1 @@
-{"name": "Telenovela", "id": 99961, "predecessors": [{"name": "Feuilleton_télévisé", "id": 83665}, {"name": "Série_télévisée_sentimentale", "id": 1571863}], "successors": []}
+{"name": "Telenovela", "id": 99961, "predecessors": [{"name": "Feuilleton_télévisé", "id": 83665}, {"name": "Série_télévisée_sentimentale", "id": 1571863}], "successors": [{"name": "Telenovela_chilienne", "id": 16481147}, {"name": "Telenovela_mexicaine", "id": 16481149}, {"name": "Telenovela_brésilienne", "id": 16481186}, {"name": "Telenovela_colombienne", "id": 16482696}]}

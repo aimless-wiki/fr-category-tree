@@ -1,1 +1,1 @@
-{"name": "Étudiant_de_l'université_DePauw", "id": 8120916, "predecessors": [{"name": "Édifice-type", "id": 3403103}, {"name": "Concept_de_philosophie_politique", "id": 4745648}], "successors": []}
+{"name": "Étudiant_de_l'université_DePauw", "id": 8120916, "predecessors": [{"name": "Concept_de_philosophie_politique", "id": 4745648}, {"name": "Administration_territoriale", "id": 434707}], "successors": []}

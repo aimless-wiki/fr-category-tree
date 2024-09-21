@@ -1,1 +1,1 @@
-{"name": "Jeu_Wii", "id": 794438, "predecessors": [{"name": "Architecture_Power", "id": 2477070}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Jeu_WiiWare", "id": 3578119}, {"name": "Jeu_sur_la_console_virtuelle_de_la_Wii", "id": 4856612}]}
+{"name": "Jeu_Wii", "id": 794438, "predecessors": [{"name": "Architecture_Power", "id": 2477070}, {"name": "Jeu_vidéo", "id": 85212}], "successors": [{"name": "Jeu_WiiWare", "id": 3578119}, {"name": "Jeu_sur_la_console_virtuelle_de_la_Wii", "id": 4856612}]}

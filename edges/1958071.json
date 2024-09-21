@@ -1,1 +1,1 @@
-{"name": "Monument_à_Vienne_(Autriche)", "id": 1958071, "predecessors": [{"name": "Infrastructure_touristique", "id": 1946654}, {"name": "Europe", "id": 82819}], "successors": [{"name": "Palais_à_Vienne_(Autriche)", "id": 1958430}, {"name": "Église_à_Vienne_(Autriche)", "id": 1958068}]}
+{"name": "Monument_à_Vienne_(Autriche)", "id": 1958071, "predecessors": [{"name": "Infrastructure_touristique", "id": 1946654}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Palais_à_Vienne_(Autriche)", "id": 1958430}, {"name": "Église_à_Vienne_(Autriche)", "id": 1958068}]}

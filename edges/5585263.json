@@ -1,1 +1,1 @@
-{"name": "Palette_Gouvernements", "id": 5585263, "predecessors": [{"name": "Modèle_politique", "id": 496105}], "successors": [{"name": "Palette_Gouvernement_français", "id": 5756758}, {"name": "Palette_Gouvernements_en_Espagne", "id": 11458477}]}
+{"name": "Palette_Gouvernements", "id": 5585263, "predecessors": [{"name": "Modèle_technique", "id": 5762214}], "successors": [{"name": "Palette_Gouvernement_français", "id": 5756758}, {"name": "Palette_Gouvernements_en_Espagne", "id": 11458477}]}

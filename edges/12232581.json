@@ -1,1 +1,1 @@
-{"name": "Pilote_des_European_Le_Mans_Series", "id": 12232581, "predecessors": [{"name": "European_Le_Mans_Series", "id": 4991430}, {"name": "Personnalité_liée_à_l'automobile", "id": 204966}], "successors": []}
+{"name": "Pilote_des_European_Le_Mans_Series", "id": 12232581, "predecessors": [{"name": "Automobile", "id": 83581}, {"name": "Personnalité_liée_à_l'automobile", "id": 204966}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Jeu_de_tir_à_la_première_personne", "id": 121253, "predecessors": [{"name": "Jeu_d'action", "id": 198636}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Jeu_de_tir_à_la_première_personne", "id": 121253, "predecessors": [{"name": "Jeu_d'action", "id": 198636}, {"name": "Jeu_vidéo", "id": 85212}], "successors": []}

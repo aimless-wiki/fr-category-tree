@@ -1,1 +1,1 @@
-{"name": "Championnat_d'Europe_à_Paris", "id": 5628678, "predecessors": [{"name": "Événement_sportif_à_Paris", "id": 3518892}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Championnat_d'Europe_à_Paris", "id": 5628678, "predecessors": [{"name": "Événement_sportif_à_Paris", "id": 3518892}, {"name": "Europe", "id": 82819}, {"name": "Accueil", "id": 1155637}, {"name": "Événement_sportif_international_en_France", "id": 3518600}], "successors": []}

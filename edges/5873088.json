@@ -1,1 +1,1 @@
-{"name": "Palette_Partis_politiques", "id": 5873088, "predecessors": [{"name": "Modèle_politique", "id": 496105}], "successors": [{"name": "Palette_Partis_politiques_en_France", "id": 6243108}]}
+{"name": "Palette_Partis_politiques", "id": 5873088, "predecessors": [{"name": "Modèle_technique", "id": 5762214}], "successors": [{"name": "Palette_Partis_politiques_en_France", "id": 6243108}]}

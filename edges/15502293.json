@@ -1,1 +1,1 @@
-{"name": "Chef_français_étoilé_Michelin", "id": 15502293, "predecessors": [{"name": "Cuisinier_français", "id": 500101}, {"name": "Cuisine", "id": 84917}], "successors": []}
+{"name": "Chef_français_étoilé_Michelin", "id": 15502293, "predecessors": [{"name": "Cuisinier_français", "id": 500101}, {"name": "Cuisine", "id": 84917}], "successors": [{"name": "Chef_français_triplement_étoilé_Michelin", "id": 16479609}]}

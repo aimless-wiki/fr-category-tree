@@ -1,1 +1,1 @@
-{"name": "Saison_de_série_télévisée", "id": 5482291, "predecessors": [{"name": "Mesure_du_temps", "id": 88806}, {"name": "Créativité", "id": 1046290}], "successors": []}
+{"name": "Saison_de_série_télévisée", "id": 5482291, "predecessors": [{"name": "Mesure_du_temps", "id": 88806}, {"name": "Créativité", "id": 1046290}], "successors": [{"name": "Saison_de_série_télévisée_américaine", "id": 16463195}, {"name": "Saison_de_série_télévisée_française", "id": 16463197}, {"name": "Saison_de_série_télévisée_canadienne", "id": 16463220}]}

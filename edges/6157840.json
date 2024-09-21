@@ -1,1 +1,1 @@
-{"name": "Gare_dans_la_province_de_Liège", "id": 6157840, "predecessors": [{"name": "Bâtiment", "id": 270001}, {"name": "Europe", "id": 82819}, {"name": "Transport_en_Wallonie", "id": 1646269}], "successors": [{"name": "Gare_fermée_dans_la_province_de_Liège", "id": 6414699}]}
+{"name": "Gare_dans_la_province_de_Liège", "id": 6157840, "predecessors": [{"name": "Bâtiment", "id": 270001}, {"name": "Accueil", "id": 1155637}, {"name": "Transport_en_Wallonie", "id": 1646269}], "successors": [{"name": "Gare_fermée_dans_la_province_de_Liège", "id": 6414699}]}

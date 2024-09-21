@@ -1,1 +1,1 @@
-{"name": "Joueur_de_l'OGC_Nice", "id": 1866615, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Personnalité_liée_à_Nice", "id": 4113921}, {"name": "Concept_de_philosophie_politique", "id": 4745648}], "successors": [{"name": "Gardien_de_but_de_l'OGC_Nice", "id": 6174292}]}
+{"name": "Joueur_de_l'OGC_Nice", "id": 1866615, "predecessors": [{"name": "Personnalité_liée_à_Nice", "id": 4113921}, {"name": "Concept_de_philosophie_politique", "id": 4745648}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Gardien_de_but_de_l'OGC_Nice", "id": 6174292}]}
