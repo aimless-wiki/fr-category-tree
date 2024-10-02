@@ -1,1 +1,1 @@
-{"name": "Commune_desservie_par_le_métro_de_Paris", "id": 9247066, "predecessors": [{"name": "Logistique", "id": 441337}, {"name": "Île-de-France", "id": 130330}, {"name": "Administration_territoriale", "id": 434707}], "successors": []}
+{"name": "Commune_desservie_par_le_métro_de_Paris", "id": 9247066, "predecessors": [{"name": "Île-de-France", "id": 130330}, {"name": "Europe", "id": 82819}], "successors": []}

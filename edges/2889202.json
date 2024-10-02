@@ -1,1 +1,1 @@
-{"name": "Wagon", "id": 2889202, "predecessors": [{"name": "Support_et_contenant_pour_le_transport", "id": 1529655}, {"name": "Technologie", "id": 84695}, {"name": "Logistique", "id": 441337}], "successors": []}
+{"name": "Wagon", "id": 2889202, "predecessors": [{"name": "Support_et_contenant_pour_le_transport", "id": 1529655}, {"name": "Chemin_de_fer", "id": 84762}], "successors": []}

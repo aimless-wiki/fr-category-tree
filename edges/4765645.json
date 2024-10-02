@@ -1,1 +1,1 @@
-{"name": "Locomotive_électrique_de_la_SNCF", "id": 4765645, "predecessors": [{"name": "Technologie", "id": 84695}, {"name": "Transport_ferroviaire_en_France", "id": 119383}], "successors": []}
+{"name": "Locomotive_électrique_de_la_SNCF", "id": 4765645, "predecessors": [{"name": "Chemin_de_fer", "id": 84762}, {"name": "Transport_ferroviaire_en_France", "id": 119383}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Technologie_ferroviaire", "id": 810384, "predecessors": [{"name": "Technologie_du_transport", "id": 211210}, {"name": "Logistique", "id": 441337}], "successors": [{"name": "Shinkansen", "id": 376761}, {"name": "Gare_ICE", "id": 15395294}]}
+{"name": "Technologie_ferroviaire", "id": 810384, "predecessors": [{"name": "Chemin_de_fer", "id": 84762}, {"name": "Technologie_du_transport", "id": 211210}], "successors": []}

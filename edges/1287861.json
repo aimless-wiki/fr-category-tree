@@ -1,1 +1,1 @@
-{"name": "Modélisme_ferroviaire", "id": 1287861, "predecessors": [{"name": "Modélisme", "id": 104870}, {"name": "Logistique", "id": 441337}], "successors": [{"name": "Fabricant_de_trains_miniatures", "id": 6615876}]}
+{"name": "Modélisme_ferroviaire", "id": 1287861, "predecessors": [{"name": "Modélisme", "id": 104870}, {"name": "Chemin_de_fer", "id": 84762}], "successors": [{"name": "Fabricant_de_trains_miniatures", "id": 6615876}]}

@@ -1,1 +1,1 @@
-{"name": "Lobbyisme", "id": 661096, "predecessors": [{"name": "Vente", "id": 1413661}, {"name": "Militantisme", "id": 5147238}, {"name": "Politique", "id": 84966}], "successors": [{"name": "Think_tank", "id": 446634}, {"name": "Lobby_auprès_de_l'Union_européenne", "id": 1306615}]}
+{"name": "Lobbying", "id": 661096, "predecessors": [{"name": "Vente", "id": 1413661}, {"name": "Militantisme", "id": 5147238}, {"name": "Politique", "id": 84966}], "successors": [{"name": "Think_tank", "id": 446634}, {"name": "Lobby_auprès_de_l'Union_européenne", "id": 1306615}]}

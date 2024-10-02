@@ -1,1 +1,1 @@
-{"name": "Matériel_roulant_de_Fret_SNCF", "id": 708131, "predecessors": [{"name": "Transport_ferroviaire_en_France", "id": 119383}, {"name": "Logistique", "id": 441337}], "successors": []}
+{"name": "Matériel_roulant_de_Fret_SNCF", "id": 708131, "predecessors": [{"name": "Transport_ferroviaire_en_France", "id": 119383}, {"name": "Chemin_de_fer", "id": 84762}], "successors": []}

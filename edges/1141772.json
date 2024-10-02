@@ -1,1 +1,1 @@
-{"name": "Sécurité_ferroviaire", "id": 1141772, "predecessors": [{"name": "Exploitation_ferroviaire", "id": 210684}, {"name": "Sécurité_des_transports", "id": 180013}, {"name": "Logistique", "id": 441337}], "successors": []}
+{"name": "Sécurité_ferroviaire", "id": 1141772, "predecessors": [{"name": "Chemin_de_fer", "id": 84762}, {"name": "Exploitation_ferroviaire", "id": 210684}, {"name": "Sécurité_des_transports", "id": 180013}], "successors": []}

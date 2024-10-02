@@ -1,1 +1,1 @@
-{"name": "Shinkansen", "id": 376761, "predecessors": [{"name": "Transport_ferroviaire_au_Japon", "id": 1146017}, {"name": "Technologie_ferroviaire", "id": 810384}, {"name": "Technologie", "id": 84695}], "successors": []}
+{"name": "Shinkansen", "id": 376761, "predecessors": [{"name": "Transport_ferroviaire_au_Japon", "id": 1146017}, {"name": "Chemin_de_fer", "id": 84762}], "successors": []}
