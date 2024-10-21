@@ -1,1 +1,1 @@
-{"name": "Femme_architecte", "id": 2479609, "predecessors": [{"name": "Métier", "id": 87726}, {"name": "Construction", "id": 149634}, {"name": "Condition_féminine", "id": 373415}], "successors": []}
+{"name": "Femme_architecte", "id": 2479609, "predecessors": [{"name": "Métier", "id": 87726}, {"name": "Construction", "id": 149634}, {"name": "Condition_féminine", "id": 373415}], "successors": [{"name": "Femme_architecte_française", "id": 16500860}]}

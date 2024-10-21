@@ -1,1 +1,1 @@
-{"name": "Joueur_canadien_de_soccer", "id": 921020, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Santé", "id": 84921}], "successors": [{"name": "Joueur_de_soccer_international_canadien", "id": 4476328}]}
+{"name": "Joueur_canadien_de_soccer", "id": 921020, "predecessors": [{"name": "Santé", "id": 84921}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Joueur_de_soccer_international_canadien", "id": 4476328}]}

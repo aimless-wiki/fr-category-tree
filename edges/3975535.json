@@ -1,1 +1,1 @@
-{"name": "Palette_Entraîneur_LNH", "id": 3975535, "predecessors": [{"name": "Palette_Compétition_sportive", "id": 5991818}], "successors": []}
+{"name": "Palette_Entraîneur_LNH", "id": 3975535, "predecessors": [{"name": "Palette_Compétition_sportive", "id": 5991818}, {"name": "Accueil", "id": 1155637}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Monument_à_Florence", "id": 4931929, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Infrastructure_touristique", "id": 1946654}], "successors": [{"name": "Palais_à_Florence", "id": 2288123}]}
+{"name": "Monument_à_Florence", "id": 4931929, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Infrastructure_touristique", "id": 1946654}], "successors": [{"name": "Église_à_Florence", "id": 1254433}, {"name": "Palais_à_Florence", "id": 2288123}]}

@@ -1,1 +1,1 @@
-{"name": "Carte_mère", "id": 615252, "predecessors": [{"name": "Matériel_informatique", "id": 126616}], "successors": [{"name": "Processeur", "id": 2483569}]}
+{"name": "Carte_mère", "id": 615252, "predecessors": [{"name": "Matériel_informatique", "id": 126616}, {"name": "Académie", "id": 221421}], "successors": [{"name": "Microprocesseur", "id": 175718}, {"name": "Socket_(processeur)", "id": 2483556}]}

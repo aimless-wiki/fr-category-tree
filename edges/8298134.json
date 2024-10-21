@@ -1,1 +1,1 @@
-{"name": "Smartwatch", "id": 8298134, "predecessors": [{"name": "Matériel_informatique", "id": 126616}, {"name": "Bijou", "id": 1223076}], "successors": []}
+{"name": "Smartwatch", "id": 8298134, "predecessors": [{"name": "Bijou", "id": 1223076}, {"name": "Matériel_informatique", "id": 126616}], "successors": []}

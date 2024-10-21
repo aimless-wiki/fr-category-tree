@@ -1,1 +1,1 @@
-{"name": "Isolat_linguistique", "id": 127647, "predecessors": [{"name": "Inventaire_de_familles_de_langues", "id": 13855860}, {"name": "Communication", "id": 84690}], "successors": []}
+{"name": "Isolat_linguistique", "id": 127647, "predecessors": [{"name": "Inventaire_de_familles_de_langues", "id": 13855860}, {"name": "Communication", "id": 84690}], "successors": [{"name": "Hangeul", "id": 1139671}, {"name": "Film_en_coréen", "id": 9474775}, {"name": "Série_télévisée_en_coréen", "id": 12802021}]}

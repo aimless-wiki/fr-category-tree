@@ -1,1 +1,1 @@
-{"name": "Canular", "id": 215702, "predecessors": [{"name": "Imposture", "id": 1895139}, {"name": "Communication_humaine", "id": 2770711}], "successors": [{"name": "Canular_littéraire", "id": 4793628}]}
+{"name": "Canular", "id": 215702, "predecessors": [{"name": "Imposture", "id": 1895139}, {"name": "Communication_humaine", "id": 2770711}], "successors": [{"name": "Canular_littéraire", "id": 4793628}, {"name": "Canular_scientifique", "id": 7647848}]}
