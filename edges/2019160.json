@@ -1,1 +1,1 @@
-{"name": "Ispahan", "id": 2019160, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Formation_végétale", "id": 112140}], "successors": [{"name": "Naissance_à_Ispahan", "id": 3735960}]}
+{"name": "Ispahan", "id": 2019160, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Formation_végétale", "id": 112140}, {"name": "Ville_en_Iran", "id": 184643}], "successors": [{"name": "Naissance_à_Ispahan", "id": 3735960}]}

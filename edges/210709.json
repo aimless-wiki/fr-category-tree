@@ -1,1 +1,1 @@
-{"name": "Carburant", "id": 210709, "predecessors": [{"name": "Grandeur_physique", "id": 1129304}, {"name": "Industrie", "id": 84693}], "successors": []}
+{"name": "Carburant", "id": 210709, "predecessors": [{"name": "Combustion", "id": 3760932}, {"name": "Industrie", "id": 84693}], "successors": []}

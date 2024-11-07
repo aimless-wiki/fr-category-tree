@@ -1,1 +1,1 @@
-{"name": "Avion_monoplan", "id": 11096770, "predecessors": [{"name": "Aérodynamique_appliquée_à_l'avion", "id": 354583}], "successors": [{"name": "Avion_à_ailes_basses", "id": 15027698}, {"name": "Avion_à_ailes_hautes", "id": 15029701}]}
+{"name": "Avion_monoplan", "id": 11096770, "predecessors": [{"name": "Aérodynamique_appliquée_à_l'avion", "id": 354583}], "successors": [{"name": "Avion_à_ailes_basses", "id": 15027698}, {"name": "Avion_à_ailes_hautes", "id": 15029701}, {"name": "Avion_à_ailes_médianes", "id": 15045853}]}

@@ -1,1 +1,1 @@
-{"name": "Accident_ou_incident_aérien_impliquant_un_McDonnell_Douglas_DC-9", "id": 8156238, "predecessors": [{"name": "Boeing", "id": 503126}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Accident_ou_incident_aérien_impliquant_un_McDonnell_Douglas_DC-9", "id": 8156238, "predecessors": [{"name": "Boeing", "id": 503126}, {"name": "Avion_biréacteur", "id": 6833925}], "successors": []}

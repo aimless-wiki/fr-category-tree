@@ -1,1 +1,1 @@
-{"name": "Autoroute_en_Italie", "id": 1307829, "predecessors": [{"name": "Infrastructure_routière", "id": 132248}, {"name": "Camion", "id": 204958}, {"name": "Transport_routier", "id": 89425}], "successors": [{"name": "Pont_autoroutier_en_Italie", "id": 12709577}]}
+{"name": "Autoroute_en_Italie", "id": 1307829, "predecessors": [{"name": "Infrastructure_routière", "id": 132248}, {"name": "Transport_routier", "id": 89425}, {"name": "Camion", "id": 204958}], "successors": [{"name": "Pont_autoroutier_en_Italie", "id": 12709577}]}

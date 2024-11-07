@@ -1,1 +1,1 @@
-{"name": "Gare_dans_le_Pas-de-Calais", "id": 1609690, "predecessors": [{"name": "Pas-de-Calais", "id": 85637}, {"name": "Accueil", "id": 1155637}, {"name": "Transport_en_commun", "id": 89315}], "successors": []}
+{"name": "Gare_dans_le_Pas-de-Calais", "id": 1609690, "predecessors": [{"name": "Pas-de-Calais", "id": 85637}, {"name": "Europe", "id": 82819}, {"name": "Transport_en_commun", "id": 89315}], "successors": []}

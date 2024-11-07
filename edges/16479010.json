@@ -1,1 +1,1 @@
-{"name": "Film_de_monstre_français", "id": 16479010, "predecessors": [{"name": "Film_d'horreur_français", "id": 5589639}, {"name": "Film_de_science-fiction_français", "id": 5162921}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Film_de_monstre_français", "id": 16479010, "predecessors": [{"name": "Genre_cinématographique", "id": 83752}], "successors": []}

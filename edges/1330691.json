@@ -1,1 +1,1 @@
-{"name": "Transport_dans_l'Essonne", "id": 1330691, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Île-de-France", "id": 130330}], "successors": [{"name": "Gare_dans_l'Essonne", "id": 882544}]}
+{"name": "Transport_dans_l'Essonne", "id": 1330691, "predecessors": [{"name": "Île-de-France", "id": 130330}, {"name": "Europe", "id": 82819}], "successors": [{"name": "Gare_dans_l'Essonne", "id": 882544}]}

@@ -1,1 +1,1 @@
-{"name": "Aéroport_en_Polynésie_française", "id": 6509240, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Transport_aérien", "id": 95153}], "successors": []}
+{"name": "Aéroport_en_Polynésie_française", "id": 6509240, "predecessors": [{"name": "Transport_aérien", "id": 95153}, {"name": "Europe", "id": 82819}], "successors": []}

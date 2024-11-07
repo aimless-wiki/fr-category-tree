@@ -1,1 +1,1 @@
-{"name": "Rue_à_Helsinki", "id": 2001115, "predecessors": [{"name": "Transport_à_Helsinki", "id": 1772869}, {"name": "Transport_routier", "id": 89425}, {"name": "Europe", "id": 82819}], "successors": []}
+{"name": "Rue_à_Helsinki", "id": 2001115, "predecessors": [{"name": "Transport_à_Helsinki", "id": 1772869}, {"name": "Transport_routier", "id": 89425}, {"name": "Camion", "id": 204958}], "successors": []}

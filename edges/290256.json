@@ -1,1 +1,1 @@
-{"name": "Munition", "id": 290256, "predecessors": [{"name": "Arme_à_feu", "id": 235719}, {"name": "Arme", "id": 87379}, {"name": "Réaction_chimique", "id": 430330}, {"name": "Équipement_militaire", "id": 2841725}], "successors": [{"name": "Cartouche_pour_pistolet_et_fusil", "id": 15791913}]}
+{"name": "Munition", "id": 290256, "predecessors": [{"name": "Arme_à_feu", "id": 235719}, {"name": "Arme", "id": 87379}, {"name": "Combustion", "id": 3760932}, {"name": "Équipement_militaire", "id": 2841725}], "successors": [{"name": "Cartouche_pour_pistolet_et_fusil", "id": 15791913}]}

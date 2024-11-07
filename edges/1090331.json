@@ -1,1 +1,1 @@
-{"name": "Film_de_vampire", "id": 1090331, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Folklore", "id": 132363}], "successors": [{"name": "Film_parodique_de_vampire", "id": 11673276}, {"name": "Adaptation_de_Dracula_au_cinéma", "id": 12563774}]}
+{"name": "Film_de_vampire", "id": 1090331, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Folklore", "id": 132363}, {"name": "Genre_cinématographique", "id": 83752}], "successors": [{"name": "Film_parodique_de_vampire", "id": 11673276}, {"name": "Adaptation_de_Dracula_au_cinéma", "id": 12563774}]}

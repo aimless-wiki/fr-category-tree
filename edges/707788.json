@@ -1,1 +1,1 @@
-{"name": "Gare_à_Montréal", "id": 707788, "predecessors": [{"name": "Bâtiment_à_Montréal", "id": 245046}, {"name": "Transport_à_Montréal", "id": 245479}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Station_du_métro_de_Montréal", "id": 3496880}]}
+{"name": "Gare_à_Montréal", "id": 707788, "predecessors": [{"name": "Bâtiment_à_Montréal", "id": 245046}, {"name": "Transport_à_Montréal", "id": 245479}, {"name": "Accueil", "id": 1155637}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Port_de_Rotterdam", "id": 2622024, "predecessors": [{"name": "Génie_civil", "id": 85512}, {"name": "Europe", "id": 82819}, {"name": "Transport_fluvial", "id": 94069}, {"name": "Techniques_et_sciences_appliquées", "id": 85441}, {"name": "Aménagement_du_territoire", "id": 367727}], "successors": []}
+{"name": "Port_de_Rotterdam", "id": 2622024, "predecessors": [{"name": "Génie_civil", "id": 85512}, {"name": "Transport_fluvial", "id": 94069}, {"name": "Aménagement_du_territoire", "id": 367727}, {"name": "Europe", "id": 82819}], "successors": []}

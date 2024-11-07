@@ -1,1 +1,1 @@
-{"name": "Gare_en_Loire-Atlantique", "id": 4225642, "predecessors": [{"name": "Accueil", "id": 1155637}, {"name": "Tourisme_en_France", "id": 289391}, {"name": "Transport_en_commun", "id": 89315}], "successors": []}
+{"name": "Gare_en_Loire-Atlantique", "id": 4225642, "predecessors": [{"name": "Tourisme_en_France", "id": 289391}, {"name": "Europe", "id": 82819}, {"name": "Transport_en_commun", "id": 89315}], "successors": []}

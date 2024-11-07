@@ -1,1 +1,1 @@
-{"name": "Entreprise_ayant_son_siège_à_Chicago", "id": 3973008, "predecessors": [{"name": "Organisation_américaine", "id": 1488689}, {"name": "Économie_aux_États-Unis", "id": 6818614}], "successors": [{"name": "Boeing", "id": 503126}, {"name": "Station_du_métro_de_Chicago", "id": 13882181}]}
+{"name": "Entreprise_ayant_son_siège_à_Chicago", "id": 3973008, "predecessors": [{"name": "Organisation_américaine", "id": 1488689}, {"name": "Économie_aux_États-Unis", "id": 6818614}], "successors": [{"name": "Boeing", "id": 503126}]}
