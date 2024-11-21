@@ -1,1 +1,1 @@
-{"name": "Cheval_de_course_français", "id": 11122875, "predecessors": [{"name": "Monde_équestre_en_France", "id": 6326491}, {"name": "Naissance_en_France", "id": 2919597}, {"name": "Cheval_de_course", "id": 367054}], "successors": [{"name": "Trotteur_français", "id": 4327433}]}
+{"name": "Cheval_de_course_français", "id": 11122875, "predecessors": [{"name": "Monde_équestre_en_France", "id": 6326491}, {"name": "Cheval_de_course", "id": 367054}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Trotteur_français", "id": 4327433}]}

@@ -1,1 +1,1 @@
-{"name": "Jeu_Mega_Drive_Mini", "id": 13423848, "predecessors": [{"name": "Jeu_Mega_Drive", "id": 7821426}, {"name": "Jeu_vidéo", "id": 85212}, {"name": "Matériel_informatique", "id": 126616}], "successors": []}
+{"name": "Jeu_Mega_Drive_Mini", "id": 13423848, "predecessors": [{"name": "Jeu_Mega_Drive", "id": 7821426}, {"name": "Accueil", "id": 1155637}, {"name": "Matériel_informatique", "id": 126616}], "successors": []}

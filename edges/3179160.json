@@ -1,1 +1,1 @@
-{"name": "Producteur_britannique_de_musique", "id": 3179160, "predecessors": [{"name": "Producteur_britannique", "id": 376681}, {"name": "Industrie_musicale", "id": 847068}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Producteur_britannique_de_musique", "id": 3179160, "predecessors": [{"name": "Producteur_britannique", "id": 376681}, {"name": "Industrie_musicale", "id": 847068}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Producteur_britannique_de_musique_électronique", "id": 11216174}]}

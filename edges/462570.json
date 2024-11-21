@@ -1,1 +1,1 @@
-{"name": "Sociologue_belge", "id": 462570, "predecessors": [{"name": "Scientifique_belge", "id": 288123}, {"name": "Chercheur", "id": 4664123}], "successors": []}
+{"name": "Sociologue_belge", "id": 462570, "predecessors": [{"name": "Chercheur", "id": 4664123}, {"name": "Métier", "id": 87726}], "successors": []}

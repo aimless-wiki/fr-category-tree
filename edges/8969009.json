@@ -1,1 +1,1 @@
-{"name": "Acteur_de_films_d'arts_martiaux", "id": 8969009, "predecessors": [{"name": "Genre_cinématographique", "id": 83752}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Acteur_de_film_d'arts_martiaux", "id": 8969009, "predecessors": [{"name": "Film_d'arts_martiaux", "id": 3926159}, {"name": "Genre_cinématographique", "id": 83752}, {"name": "Accueil", "id": 1155637}], "successors": []}

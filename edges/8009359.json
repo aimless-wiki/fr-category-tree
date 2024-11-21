@@ -1,1 +1,1 @@
-{"name": "Moteur_de_recherche_(service)", "id": 8009359, "predecessors": [{"name": "Moteur_de_recherche", "id": 142951}], "successors": []}
+{"name": "Moteur_de_recherche_(service)", "id": 8009359, "predecessors": [{"name": "Moteur_de_recherche", "id": 142951}, {"name": "Service_en_ligne", "id": 5537731}], "successors": []}

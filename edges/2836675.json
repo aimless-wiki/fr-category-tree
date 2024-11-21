@@ -1,1 +1,1 @@
-{"name": "Jeu_vidéo_de_pêche", "id": 2836675, "predecessors": [{"name": "Pêche_sportive", "id": 510632}, {"name": "Jeu_vidéo_de_sport", "id": 175037}, {"name": "Alimentation", "id": 87520}], "successors": []}
+{"name": "Jeu_vidéo_de_pêche", "id": 2836675, "predecessors": [{"name": "Pêche_sportive", "id": 510632}, {"name": "Culture_populaire", "id": 84980}, {"name": "Jeu_vidéo_de_sport", "id": 175037}, {"name": "Alimentation", "id": 87520}], "successors": []}
