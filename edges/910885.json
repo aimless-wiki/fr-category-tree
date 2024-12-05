@@ -1,1 +1,1 @@
-{"name": "Tapissier", "id": 910885, "predecessors": [{"name": "Tapisserie", "id": 374920}, {"name": "Artisanat", "id": 158851}, {"name": "Métier", "id": 87726}, {"name": "Arts_décoratifs", "id": 6083320}], "successors": []}
+{"name": "Tapissier", "id": 910885, "predecessors": [{"name": "Tapisserie", "id": 374920}, {"name": "Artisanat", "id": 158851}, {"name": "Métier", "id": 87726}, {"name": "Art_textile", "id": 652713}], "successors": []}

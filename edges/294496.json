@@ -1,1 +1,1 @@
-{"name": "Ferry", "id": 294496, "predecessors": [{"name": "Bateau_à_passagers", "id": 294436}], "successors": [{"name": "Ferry_japonais", "id": 13076893}, {"name": "Ferry_italien", "id": 13076905}]}
+{"name": "Ferry", "id": 294496, "predecessors": [{"name": "Bateau_à_passagers", "id": 294436}], "successors": [{"name": "Ferry_japonais", "id": 13076893}, {"name": "Ferry_italien", "id": 13076905}, {"name": "Ferry_français", "id": 13079209}]}

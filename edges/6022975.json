@@ -1,1 +1,1 @@
-{"name": "Classe_de_bateau_de_la_Marine_soviétique", "id": 6022975, "predecessors": [{"name": "Armée_soviétique", "id": 943454}, {"name": "Défense_et_sécurité", "id": 84953}], "successors": [{"name": "Classe_de_sous-marin_de_la_Marine_soviétique", "id": 6022973}]}
+{"name": "Classe_de_bateau_de_la_Marine_soviétique", "id": 6022975, "predecessors": [{"name": "Classe_de_bateau", "id": 6023245}, {"name": "Armée_soviétique", "id": 943454}], "successors": [{"name": "Classe_de_sous-marin_de_la_Marine_soviétique", "id": 6022973}]}

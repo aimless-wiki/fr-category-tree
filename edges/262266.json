@@ -1,1 +1,1 @@
-{"name": "Terme_médical", "id": 262266, "predecessors": [{"name": "Médecine", "id": 82499}, {"name": "Terminologie", "id": 302872}], "successors": [{"name": "Maladie", "id": 87795}]}
+{"name": "Terme_médical", "id": 262266, "predecessors": [{"name": "Médecine", "id": 82499}, {"name": "Terminologie", "id": 302872}], "successors": [{"name": "Maladie", "id": 87795}, {"name": "Syndrome", "id": 299210}]}

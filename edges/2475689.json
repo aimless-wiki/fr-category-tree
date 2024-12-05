@@ -1,1 +1,1 @@
-{"name": "Affaire_criminelle_au_Québec", "id": 2475689, "predecessors": [{"name": "Droit_au_Québec", "id": 1286571}, {"name": "Droit_au_Canada", "id": 1286563}, {"name": "Affaire_judiciaire", "id": 176642}], "successors": []}
+{"name": "Affaire_criminelle_au_Québec", "id": 2475689, "predecessors": [{"name": "Droit_au_Québec", "id": 1286571}, {"name": "Affaire_judiciaire", "id": 176642}, {"name": "Accueil", "id": 1155637}], "successors": []}

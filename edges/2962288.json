@@ -1,1 +1,1 @@
-{"name": "Bateau_français", "id": 2962288, "predecessors": [{"name": "Eau", "id": 189766}, {"name": "Europe", "id": 82819}], "successors": [{"name": "Bateau_classé_monument_historique_en_France", "id": 3543306}]}
+{"name": "Bateau_français", "id": 2962288, "predecessors": [{"name": "Eau", "id": 189766}, {"name": "Europe", "id": 82819}], "successors": [{"name": "Bateau_classé_monument_historique_en_France", "id": 3543306}, {"name": "Ferry_français", "id": 13079209}]}

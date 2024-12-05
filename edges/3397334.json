@@ -1,1 +1,1 @@
-{"name": "Palette_Série_de_jeux_vidéo", "id": 3397334, "predecessors": [{"name": "Palette_Informatique", "id": 2690255}], "successors": [{"name": "Palette_Série_de_jeux_vidéo_Sega", "id": 13408088}]}
+{"name": "Palette_Série_de_jeux_vidéo", "id": 3397334, "predecessors": [{"name": "Modèle_jeu_vidéo", "id": 499026}], "successors": [{"name": "Palette_Série_de_jeux_vidéo_Sega", "id": 13408088}]}

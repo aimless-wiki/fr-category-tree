@@ -1,1 +1,1 @@
-{"name": "Syndrome_en_neurologie", "id": 946489, "predecessors": [{"name": "Sémiologie_neurologique", "id": 1063284}, {"name": "Maladie", "id": 87795}], "successors": []}
+{"name": "Syndrome_en_neurologie", "id": 946489, "predecessors": [{"name": "Syndrome", "id": 299210}, {"name": "Sémiologie_neurologique", "id": 1063284}], "successors": []}
