@@ -1,1 +1,1 @@
-{"name": "Fromage_au_lait_de_chèvre", "id": 83769, "predecessors": [{"name": "Zoologie", "id": 81546}, {"name": "Alimentation_humaine", "id": 3930512}], "successors": []}
+{"name": "Fromage_au_lait_de_chèvre", "id": 83769, "predecessors": [{"name": "Zoologie", "id": 81546}, {"name": "Lait", "id": 480849}], "successors": []}

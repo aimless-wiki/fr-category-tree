@@ -1,1 +1,1 @@
-{"name": "Chanteur_espagnol", "id": 161009, "predecessors": [{"name": "Chanteur_hispanophone", "id": 4188267}, {"name": "Accueil", "id": 1155637}, {"name": "Métier", "id": 87726}], "successors": []}
+{"name": "Chanteur_espagnol", "id": 161009, "predecessors": [{"name": "Chanteur_hispanophone", "id": 4188267}, {"name": "Musicien_espagnol", "id": 652166}, {"name": "Accueil", "id": 1155637}, {"name": "Métier", "id": 87726}], "successors": []}

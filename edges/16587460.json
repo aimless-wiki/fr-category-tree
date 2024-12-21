@@ -1,1 +1,1 @@
-{"name": "Jeu_Windows_sorti_en_2017", "id": 16587460, "predecessors": [{"name": "Jeu_vidéo_sorti_en_2017", "id": 10072887}, {"name": "Jeu_Windows", "id": 6807996}], "successors": []}
+{"name": "Jeu_Windows_sorti_en_2017", "id": 16587460, "predecessors": [{"name": "Jeu_Windows", "id": 6807996}, {"name": "Accueil", "id": 1155637}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Cuisine_québécoise", "id": 244044, "predecessors": [{"name": "Cuisine_canadienne", "id": 120121}, {"name": "Alimentation", "id": 87520}], "successors": []}
+{"name": "Cuisine_québécoise", "id": 244044, "predecessors": [{"name": "Cuisine_canadienne", "id": 120121}, {"name": "Alimentation_humaine", "id": 3930512}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Affaire_criminelle_en_France_non_élucidée", "id": 12817424, "predecessors": [{"name": "Affaire_criminelle_en_France", "id": 1257525}, {"name": "Affaire_criminelle_non_élucidée", "id": 8536649}], "successors": []}
+{"name": "Affaire_criminelle_en_France_non_élucidée", "id": 12817424, "predecessors": [{"name": "Affaire_criminelle_non_élucidée", "id": 8536649}, {"name": "Affaire_judiciaire", "id": 176642}], "successors": []}

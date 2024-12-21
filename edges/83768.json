@@ -1,1 +1,1 @@
-{"name": "Fromage_au_lait_de_brebis", "id": 83768, "predecessors": [{"name": "Alimentation_humaine", "id": 3930512}, {"name": "Bovidae", "id": 134221}], "successors": []}
+{"name": "Fromage_au_lait_de_brebis", "id": 83768, "predecessors": [{"name": "Lait", "id": 480849}, {"name": "Bovidae", "id": 134221}], "successors": []}

@@ -1,1 +1,1 @@
-{"name": "Fête_foraine", "id": 2995913, "predecessors": [{"name": "Anthropologie", "id": 84938}, {"name": "Infrastructure_touristique", "id": 1946654}], "successors": [{"name": "Foire_en_France", "id": 4461854}]}
+{"name": "Fête_foraine", "id": 2995913, "predecessors": [{"name": "Anthropologie", "id": 84938}, {"name": "Infrastructure_touristique", "id": 1946654}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Foire_en_France", "id": 4461854}]}
