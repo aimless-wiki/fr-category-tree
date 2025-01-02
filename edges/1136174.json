@@ -1,1 +1,1 @@
-{"name": "Maison_d'édition_ayant_son_siège_en_région_Occitanie", "id": 1136174, "predecessors": [{"name": "Administration_publique_en_France", "id": 1286193}, {"name": "Média_en_France", "id": 454444}, {"name": "Économie_en_France", "id": 6818758}], "successors": []}
+{"name": "Maison_d'édition_ayant_son_siège_en_région_Occitanie", "id": 1136174, "predecessors": [{"name": "Maison_d'édition_ayant_son_siège_en_France", "id": 807654}, {"name": "Administration_publique_en_France", "id": 1286193}, {"name": "Média_en_France", "id": 454444}], "successors": []}

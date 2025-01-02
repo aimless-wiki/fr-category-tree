@@ -1,1 +1,1 @@
-{"name": "Jeu_Steam", "id": 11496379, "predecessors": [{"name": "Marketing", "id": 93395}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Jeu_Steam_Workshop", "id": 11496417}, {"name": "Jeu_Steam_Greenlight", "id": 11496481}]}
+{"name": "Jeu_Steam", "id": 11496379, "predecessors": [{"name": "Marketing", "id": 93395}, {"name": "Type_de_commerces", "id": 1049148}], "successors": [{"name": "Jeu_Steam_Workshop", "id": 11496417}, {"name": "Jeu_Steam_Greenlight", "id": 11496481}]}

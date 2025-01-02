@@ -1,1 +1,1 @@
-{"name": "Jeu_Electronic_Arts", "id": 4027849, "predecessors": [{"name": "Electronic_Arts", "id": 5073354}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Jeu_EA_Sports", "id": 10885430}, {"name": "Jeu_Maxis_sur_Windows", "id": 16610907}]}
+{"name": "Jeu_Electronic_Arts", "id": 4027849, "predecessors": [{"name": "Accueil", "id": 1155637}], "successors": [{"name": "Jeu_EA_Sports", "id": 10885430}, {"name": "Jeu_Maxis", "id": 12874047}]}

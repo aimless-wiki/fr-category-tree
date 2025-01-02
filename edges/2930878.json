@@ -1,1 +1,1 @@
-{"name": "Jeu_vidéo_Warhammer_40,000", "id": 2930878, "predecessors": [{"name": "Communication", "id": 84690}, {"name": "Chronologie", "id": 159829}, {"name": "Culture_populaire", "id": 84980}, {"name": "Jeu_vidéo_de_science-fiction", "id": 3239547}], "successors": []}
+{"name": "Jeu_vidéo_Warhammer_40,000", "id": 2930878, "predecessors": [{"name": "Jeu_vidéo_de_science-fiction", "id": 3239547}, {"name": "Communication", "id": 84690}, {"name": "Chronologie", "id": 159829}, {"name": "Culture_populaire", "id": 84980}], "successors": []}

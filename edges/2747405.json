@@ -1,1 +1,1 @@
-{"name": "Marque_de_vélo", "id": 2747405, "predecessors": [{"name": "Équipementier_sportif", "id": 220813}, {"name": "Travail", "id": 99727}, {"name": "Technologie", "id": 84695}, {"name": "Énergie_dans_les_transports", "id": 9336984}], "successors": []}
+{"name": "Marque_de_vélo", "id": 2747405, "predecessors": [{"name": "Véhicule_mu_par_l'homme", "id": 1926599}, {"name": "Équipementier_sportif", "id": 220813}, {"name": "Travail", "id": 99727}, {"name": "Technologie", "id": 84695}], "successors": []}

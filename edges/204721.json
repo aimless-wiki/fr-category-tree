@@ -1,1 +1,1 @@
-{"name": "Fiat", "id": 204721, "predecessors": [{"name": "Économie", "id": 81630}], "successors": [{"name": "Automobile_Fiat", "id": 2266296}, {"name": "Iveco", "id": 2054419}, {"name": "Fiat_V.I.", "id": 2912895}]}
+{"name": "Fiat", "id": 204721, "predecessors": [{"name": "Accueil", "id": 1155637}], "successors": [{"name": "Automobile_Fiat", "id": 2266296}, {"name": "Iveco", "id": 2054419}, {"name": "Fiat_V.I.", "id": 2912895}]}

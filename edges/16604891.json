@@ -1,1 +1,1 @@
-{"name": "Chaîne_de_télévision_en_anglais_au_Canada", "id": 16604891, "predecessors": [{"name": "Accueil", "id": 1155637}], "successors": [{"name": "Série_télévisée_de_CBC", "id": 5948671}]}
+{"name": "Chaîne_de_télévision_en_anglais_au_Canada", "id": 16604891, "predecessors": [{"name": "Chaîne_de_télévision_en_anglais", "id": 16604824}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Série_télévisée_de_CBC", "id": 5948671}]}

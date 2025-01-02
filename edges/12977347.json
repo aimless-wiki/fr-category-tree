@@ -1,1 +1,1 @@
-{"name": "Type_de_bateau_à_rames", "id": 12977347, "predecessors": [{"name": "Énergie_dans_les_transports", "id": 9336984}, {"name": "Type_de_bateaux", "id": 674247}], "successors": []}
+{"name": "Type_de_bateau_à_rames", "id": 12977347, "predecessors": [{"name": "Véhicule_mu_par_l'homme", "id": 1926599}, {"name": "Type_de_bateaux", "id": 674247}], "successors": []}
