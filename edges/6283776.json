@@ -1,1 +1,1 @@
-{"name": "Écluse_sur_le_canal_du_Midi", "id": 6283776, "predecessors": [{"name": "Transport_fluvial", "id": 94069}, {"name": "Accueil", "id": 1155637}], "successors": []}
+{"name": "Écluse_sur_le_canal_du_Midi", "id": 6283776, "predecessors": [{"name": "Transport_fluvial", "id": 94069}, {"name": "Logistique", "id": 441337}], "successors": []}

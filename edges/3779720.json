@@ -1,1 +1,1 @@
-{"name": "Horloge", "id": 3779720, "predecessors": [{"name": "Horlogerie", "id": 131175}, {"name": "Meuble", "id": 89356}, {"name": "Instrument_de_mesure", "id": 390899}], "successors": []}
+{"name": "Horloge", "id": 3779720, "predecessors": [{"name": "Horlogerie", "id": 131175}, {"name": "Meuble", "id": 89356}, {"name": "Instrument_de_mesure", "id": 390899}], "successors": [{"name": "Tour_horloge", "id": 2962606}]}

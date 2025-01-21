@@ -1,1 +1,1 @@
-{"name": "Méthode_formelle", "id": 939170, "predecessors": [{"name": "Développement_logiciel", "id": 119175}, {"name": "Informatique_théorique", "id": 94409}, {"name": "Logique", "id": 84571}, {"name": "Gestion_de_projet", "id": 176734}], "successors": []}
+{"name": "Méthode_formelle", "id": 939170, "predecessors": [{"name": "Développement_logiciel", "id": 119175}, {"name": "Informatique_théorique", "id": 94409}, {"name": "Gestion_de_projet", "id": 176734}, {"name": "Logique", "id": 84571}], "successors": []}

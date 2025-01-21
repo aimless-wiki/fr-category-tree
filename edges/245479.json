@@ -1,1 +1,1 @@
-{"name": "Transport_à_Montréal", "id": 245479, "predecessors": [{"name": "Géographie_urbaine", "id": 621778}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Voie_à_Montréal", "id": 245463}, {"name": "Gare_à_Montréal", "id": 707788}]}
+{"name": "Transport_à_Montréal", "id": 245479, "predecessors": [{"name": "Géographie_urbaine", "id": 621778}, {"name": "Logistique", "id": 441337}], "successors": [{"name": "Voie_à_Montréal", "id": 245463}, {"name": "Gare_à_Montréal", "id": 707788}]}

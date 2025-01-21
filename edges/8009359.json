@@ -1,1 +1,1 @@
-{"name": "Moteur_de_recherche_(service)", "id": 8009359, "predecessors": [{"name": "Moteur_de_recherche", "id": 142951}, {"name": "Internet", "id": 82486}], "successors": []}
+{"name": "Moteur_de_recherche_(service)", "id": 8009359, "predecessors": [{"name": "Moteur_de_recherche", "id": 142951}, {"name": "Internet", "id": 82486}], "successors": [{"name": "Référencement", "id": 4053784}]}

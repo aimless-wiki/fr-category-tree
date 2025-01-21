@@ -1,1 +1,1 @@
-{"name": "Navire_coulé_en_1944", "id": 11021552, "predecessors": [{"name": "1944", "id": 283201}, {"name": "Naufrage", "id": 10128978}, {"name": "Calendrier", "id": 114194}], "successors": []}
+{"name": "Navire_coulé_en_1944", "id": 11021552, "predecessors": [{"name": "1944", "id": 283201}, {"name": "Calendrier", "id": 114194}, {"name": "Histoire_maritime", "id": 177710}], "successors": []}

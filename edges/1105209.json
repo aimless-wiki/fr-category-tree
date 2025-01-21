@@ -1,1 +1,1 @@
-{"name": "Laser", "id": 1105209, "predecessors": [{"name": "Instrument_optique", "id": 139614}, {"name": "Composant_électronique", "id": 89359}, {"name": "Nanotechnologie", "id": 431651}], "successors": []}
+{"name": "Laser", "id": 1105209, "predecessors": [{"name": "Instrument_optique", "id": 139614}, {"name": "Composant_électronique", "id": 89359}, {"name": "Nanotechnologie", "id": 431651}], "successors": [{"name": "Utilisation_du_laser", "id": 15844757}]}

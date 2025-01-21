@@ -1,1 +1,1 @@
-{"name": "Chanson_interprétée_par_les_Rolling_Stones", "id": 1238339, "predecessors": [{"name": "Chanson_en_anglais", "id": 3247246}, {"name": "Chanson_britannique", "id": 1238273}, {"name": "Accueil", "id": 1155637}, {"name": "Communication", "id": 84690}], "successors": []}
+{"name": "Chanson_interprétée_par_les_Rolling_Stones", "id": 1238339, "predecessors": [{"name": "Chanson_de_rock_britannique", "id": 1212516}, {"name": "Chanson_en_anglais", "id": 3247246}, {"name": "Communication", "id": 84690}, {"name": "Accueil", "id": 1155637}], "successors": []}

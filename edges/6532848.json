@@ -1,1 +1,1 @@
-{"name": "Maltraitance_des_animaux", "id": 6532848, "predecessors": [{"name": "Bien-être_animal", "id": 973967}, {"name": "Maltraitance", "id": 569737}], "successors": [{"name": "Corrida", "id": 4497396}, {"name": "Cavalerie", "id": 3963950}]}
+{"name": "Maltraitance_des_animaux", "id": 6532848, "predecessors": [{"name": "Bien-être_animal", "id": 973967}, {"name": "Maltraitance", "id": 569737}], "successors": [{"name": "Corrida", "id": 4497396}, {"name": "Cavalerie", "id": 3963950}, {"name": "Combat_à_cheval_dans_la_peinture", "id": 16665171}]}

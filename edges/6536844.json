@@ -1,1 +1,1 @@
-{"name": "Événement_à_Paris", "id": 6536844, "predecessors": [{"name": "Île-de-France", "id": 130330}, {"name": "Sciences_humaines_et_sociales", "id": 2320561}, {"name": "Catholicisme_en_France", "id": 5295495}], "successors": [{"name": "Salon_ou_exposition_à_Paris", "id": 405830}]}
+{"name": "Événement_à_Paris", "id": 6536844, "predecessors": [{"name": "Histoire_de_l'Île-de-France", "id": 335398}, {"name": "Sciences_humaines_et_sociales", "id": 2320561}, {"name": "Catholicisme_en_France", "id": 5295495}], "successors": [{"name": "Salon_ou_exposition_à_Paris", "id": 405830}]}

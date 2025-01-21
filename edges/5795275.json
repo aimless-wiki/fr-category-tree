@@ -1,1 +1,1 @@
-{"name": "Sommet_des_montagnes_Rocheuses", "id": 5795275, "predecessors": [{"name": "Accueil", "id": 1155637}], "successors": [{"name": "Sommet_des_Rocheuses_canadiennes", "id": 12685299}]}
+{"name": "Sommet_des_montagnes_Rocheuses", "id": 5795275, "predecessors": [{"name": "Astronomie", "id": 80753}, {"name": "Accueil", "id": 1155637}], "successors": [{"name": "Sommet_des_Rocheuses_canadiennes", "id": 12685299}]}

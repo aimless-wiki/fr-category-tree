@@ -1,1 +1,1 @@
-{"name": "Sémiologie_psychiatrique", "id": 1096308, "predecessors": [{"name": "Signe_clinique", "id": 577936}, {"name": "Médecine", "id": 82499}], "successors": [{"name": "Syndrome_en_psychologie_ou_en_psychiatrie", "id": 6026563}]}
+{"name": "Sémiologie_psychiatrique", "id": 1096308, "predecessors": [{"name": "Signe_clinique", "id": 577936}, {"name": "Symptôme", "id": 99383}, {"name": "Médecine", "id": 82499}], "successors": [{"name": "Syndrome_en_psychologie_ou_en_psychiatrie", "id": 6026563}]}

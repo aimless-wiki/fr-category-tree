@@ -1,1 +1,1 @@
-{"name": "Fortification_de_Vauban", "id": 637659, "predecessors": [{"name": "Architecture_militaire", "id": 228375}, {"name": "Bâtiment", "id": 270001}], "successors": []}
+{"name": "Fortification_de_Vauban", "id": 637659, "predecessors": [{"name": "Sébastien_Le_Prestre_de_Vauban", "id": 1600519}, {"name": "Architecture_militaire", "id": 228375}, {"name": "Bâtiment", "id": 270001}], "successors": []}
